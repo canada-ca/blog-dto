@@ -42,6 +42,28 @@
 <div class="row">
 <div class="col-md-12">
 <ul class="list-inline margin-bottom-none">
+
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for my_post in posts %}
+    {% if my_post.lang != page.lang %}
+      <li><a lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: post.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for my_page in pages %}
+    {% if my_page.lang != page.lang %}
+      <li><a lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
+    {% endif %}
+  {% endfor %}
+
+
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<ul class="list-inline margin-bottom-none">
 <li><a lang="fr" href="#">Français</a></li>
 </ul>
 </div>
@@ -128,28 +150,7 @@
 </header>
 
 
-<div class="row">
-<div class="col-md-12">
-<ul class="list-inline margin-bottom-none">
 
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for my_post in posts %}
-    {% if my_post.lang != page.lang %}
-      <li><a lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: post.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
-    {% endif %}
-  {% endfor %}
-
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for my_page in pages %}
-    {% if my_page.lang != page.lang %}
-      <li><a lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
-    {% endif %}
-  {% endfor %}
-
-
-</ul>
-</div>
-</div>
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
