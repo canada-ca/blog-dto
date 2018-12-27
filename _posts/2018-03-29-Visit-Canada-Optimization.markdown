@@ -1,20 +1,22 @@
 ---
 layout: post
-title:  "Visit Canada Optimization"
+title:  "Visit Canada: Optimization"
+pubdate: "March 29, 2018"
 ref: visit
 date:   2018-03-29 16:34:44 +0100
-datemodified: ": March 29, 2018" 
+datemodified: "Date modified: March 29, 2018"
 published: true
 lang: en
 alt: This image shows two funnels comparing before and after optimization.
 description: The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 ---
+**By Eric Cooper, Digital Transformation Office**
 
 Canada is a great big, beautiful country with lots to see and do. In 2017, Canada's 150th year of Confederation, we had approximately 20.8 million visitors, breaking our previous record.
 
-It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Immigration, Refugees, and Citizenship Canada (IRCC) issues both of these travel documents are issued by.
+It's no surprise then that two of the top five most popular services on Canada.ca are "Get a visitor visa" and "Get an electronic travel authorization (eTA)". Immigration, Refugees, and Citizenship Canada (IRCC) issues both of these travel documents.
 
-Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed. Some people could not board their flight to Canada because they had for the wrong document.
+Knowing which document you need to apply for, if any, isn’t always clear. Many people were having a hard time determining which one they needed. Some people could not board their flight to Canada because they had the wrong document.
 
 * [New travel requirement keeps man out of Canada over Christmas (CBC)](http://www.cbc.ca/news/canada/nova-scotia/travel-security-eta-document-england-electronic-travel-authorization-1.3916927)
 
@@ -46,7 +48,7 @@ We ran hundreds of people through these tasks in a combination of online and mod
 
 This is what the key page in the process looked like when we started. Notice the text at the top of the page with links for exceptions, dual citizens, and Canadian permanent residents. Testing showed that people weren't able to consistently see these links and would go straight to the drop-down list.
 
-<img class="img-responsive" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization." border="5">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-before.jpg" alt="Image showing what 'Find out if you need an Electronic Travel Authorization (eTA) or a visitor visa' looked like before optimization.">
 
 
 <details>
@@ -70,7 +72,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 - reducing the number of links on the Visit Canada topic page from 9 to 5 to streamline the target path
 - adding a crosslink to the Visit Canada topic page in the Travel theme menu based on user evidence
 
-<img src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization" border="5">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-after.jpg" alt="Image showing what the 'Find out if you need a visa page' looked like after optimization">
 
   <details>
 		<summary>Text version of this image</summary>
@@ -89,7 +91,7 @@ The layout was at times confusing, including links to rules and requirements. We
 
 ## Validating the prototypes
 
-To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 44 percentage points against the same tasks on the live site. 
+To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 47 percentage points against the same tasks on the live site. 
 
 ## Seeing it work in the real world
 
@@ -98,7 +100,7 @@ Once the prototypes were integrated into the live site in March 2017, analytics 
 
 <b>Before and after optimization:</b> February 2017 and June 2017
 
-<img src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization." border="5">
+<img class="img-responsive border" src="/images/eTA-AVE/VisaETA-funnels2.JPG" alt="This image shows two funnels comparing before and after optimization.">
 
 <details>
 		<summary>Text version of this image</summary>
