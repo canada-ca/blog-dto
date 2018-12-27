@@ -2,7 +2,7 @@
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
 pubdate: "May 10, 2018"
-ref: collab-health
+frenchpage: "https://.....html"
 date:   2018-05-10 08:34:44 +0100
 datemodified: "Date modified: May 10, 2018"
 published: true
