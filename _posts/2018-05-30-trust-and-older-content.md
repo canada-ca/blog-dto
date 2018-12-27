@@ -3,7 +3,7 @@ layout: post
 title: "Dates matter: Trust and older content on Canada.ca"
 pubdate: "May 30, 2018"
 gradelevel: 8
-frenchpage: "https://.....html"
+ref: datesmatter
 date:   2018-05-30 09:48:44 +0100
 datemodified: "Date modified: May 30, 2018"
 published: true

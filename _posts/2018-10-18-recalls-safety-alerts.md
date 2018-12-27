@@ -2,7 +2,7 @@
 layout: post
 title:  "Recalls and safety alerts: An optimization project to better protect Canadians"
 pubdate: "October 18, 2018"
-langpage: "https://.....html"
+ref: recalls
 date:   2018-10-18
 datemodified: "Date modified: October 18, 2018"
 published: true

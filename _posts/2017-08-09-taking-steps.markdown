@@ -2,8 +2,9 @@
 layout: post
 title:  "Taking steps to new design patterns"
 gradelevel: 11.0
-frenchpage: "https://.....html"
+ref: steps
 date:   2017-08-09 09:48:44 +0100
+categories: category
 published: false
 lang: en
 description: One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks.

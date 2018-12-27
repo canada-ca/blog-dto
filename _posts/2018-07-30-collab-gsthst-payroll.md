@@ -2,7 +2,7 @@
 layout: post
 title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content"
 pubdate: "August 16, 2018"
-frenchpage: "https://.....html"
+ref: collab-taxfiling
 date:   2018-08-16
 datemodified: "Date modified: August 16, 2018"
 published: true
