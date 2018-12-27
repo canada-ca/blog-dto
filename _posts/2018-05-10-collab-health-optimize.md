@@ -2,9 +2,8 @@
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
 pubdate: "May 10, 2018"
-ref: collab-health
+langpage: "/blogue-btn/2018/05/10/concerte-sante.html"
 date:   2018-05-10 08:34:44 +0100
-datemodified: "Date modified: May 10, 2018"
 published: true
 lang: en
 alt: Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs
