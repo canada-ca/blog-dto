@@ -3,9 +3,8 @@ layout: post
 title:  "Improve digital services by measuring outcomes"
 pubdate: "February 23, 2018"
 gradelevel: 11.1
-ref: measuring-outcomes
+langpage: "/blogue-btn/category/2018/02/23/Mesurer-résultats-améliorer-services-numériques.html"
 date:   2018-02-23 09:48:44 +0100
-datemodified: "Date modified: February 23, 2018"
 categories: category
 published: true
 lang: en
