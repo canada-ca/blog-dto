@@ -7,23 +7,25 @@
 <!-- Meta data -->
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
 <!-- Meta data-->
+
+
 <!--[if gte IE 9 | !IE ]><!-->
-<link href="{{ site.baseurl }}/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
-<link rel="stylesheet" href="{{ site.baseurl }}/wet-boew/css/theme.min.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/wet-boew/css/blog.css">
+<link href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/theme.min.css">
+<link rel="stylesheet" href="../css/custom.css">
 <!--<![endif]-->
 <!--[if lt IE 9]>
-		<link href="{{ site.baseurl }}/wet-boew/assets/favicon.ico" rel="shortcut icon" />
-		
-		<link rel="stylesheet" href="./wet-boew/css/ie8-theme.min.css" />
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/wet-boew/js/ie8-wet-boew.min.js"></script>
+		<link href="./GCWeb/assets/favicon.ico" rel="shortcut icon" />
+
+		<link rel="stylesheet" href="http://wet-boew.github.io/themes-dist/GCWeb/GCWeb/css/ie8-theme.min.css" />
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="./wet-boew/js/ie8-wet-boew.min.js"></script>
 		<![endif]-->
 <!--[if lte IE 9]>
-		
-		
+
+
 		<![endif]-->
-<noscript><link rel="stylesheet" href="{{ site.baseurl }}/wet-boew/css/noscript.min.css" /></noscript>
+<noscript><link rel="stylesheet" href="https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/wet-boew/css/noscript.min.css" /></noscript>
 
 	<!--google stuffs - do not eat-->
 <script>
@@ -36,5 +38,5 @@
   ga('send', 'pageview');
 
 </script>
-	
+
 </head>
