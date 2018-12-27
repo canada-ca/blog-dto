@@ -42,29 +42,7 @@
 <div class="row">
 <div class="col-md-12">
 <ul class="list-inline margin-bottom-none">
-
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for my_post in posts %}
-    {% if my_post.lang != page.lang %}
-      <li><a lang="{{ my_post.lang }}" hreflang="{{ my_post.lang }}" href="{{ my_post.url | prepend: post.baseurl }}">{{ site.language[my_post.lang] }}</a></li>
-    {% endif %}
-  {% endfor %}
-
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for my_page in pages %}
-    {% if my_page.lang != page.lang %}
-      <li><a lang="{{ my_page.lang }}" hreflang="{{ my_page.lang }}" href="{{ my_page.url | prepend: site.baseurl }}">{{ site.language[my_page.lang] }}</a></li>
-    {% endif %}
-  {% endfor %}
-
-
-</ul>
-</div>
-</div>
-<div class="row">
-<div class="col-md-12">
-<ul class="list-inline margin-bottom-none">
-<li><a lang="fr" href="#">Français</a></li>
+<li><a lang="fr" href="https://canada-ca.github.io/blogue-btn/">Français</a></li>
 </ul>
 </div>
 </div>
@@ -170,36 +148,146 @@
 
 
 <div class="home">
+  <div class="wb-eqht">
 
-   <div class="wb-eqht">
-  {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-	   {% unless post.draft %}
 
-<section class="col-md-6">
 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
-		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small> </p>
 
-</section>
-  {% endunless %}
-  {% endfor %}
+ <section class="col-md-6">
 
-	</div>
+         <a class="post-link" href="/2018/10/18/recalls-safety-alerts.html"><h3>Recalls and safety alerts: An optimization project to better protect Canadians</h3><img src="./thumbs/2018-10-18.png" alt="Photo of job stories being developed." class="img-responsive thumbnail"></a>
+ 		<p>Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is &#35;8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%. - <small>[2018-10-18]</small> </p>
 
-<div class="row">
-<div class="col-sm-8">
-    <section class="followus">
-      <h2>Subscribe</h2>
-      <ul class="list-inline mrgn-tp-lg">
-        <li>
-          <a href="https://canada-ca.github.io/feed.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
-        </li>
-      </ul>
-    </section>
-</div>
-</div>
-</div>
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/08/16/collab-gsthst-payroll.html"><h3>CRA and TBS collaborate to optimize GST/HST and Payroll webpage content</h3><img src="./thumbs/2018-08-16.png" alt="A before and after screenshot of the GST/HST page showing the differences." class="img-responsive thumbnail"></a>
+ 		<p>The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use. - <small>[2018-08-16]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/05/30/trust-and-older-content.html"><h3>Dates matter: Trust and older content on Canada.ca</h3><img src="./thumbs/2018-05-30.png" alt="Screenshot of a Canada.ca page showing the date modified" class="img-responsive thumbnail"></a>
+ 		<p>In a recent usability study, we saw people disregarding Canada.ca search results that seemed too old. Find out how you can validate your content and show that it's still current. - <small>[2018-05-30]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/05/10/collab-health-optimize.html"><h3>Collaborative work to optimize diseases and immunization content</h3><img src="./thumbs/2018-05-10.png" alt="Some of the Health Canada and Treasury Board Secretariat project team in front of a screen showing graphs" class="img-responsive thumbnail"></a>
+ 		<p>Over the past few months the web team at Health Canada and the Public Health Agency of Canada has been working with the Digital Transformation Office on optimizing top tasks for the diseases and immunization topics of the health theme. - <small>[2018-05-10]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/04/27/small-changes-big-difference.html"><h3>Canada.ca: Small changes can make a big difference</h3><img src="./thumbs/2018-04-27.png" alt="Photo of the Honourable Scott Brison" class="img-responsive thumbnail"></a>
+ 		<p>Small changes are making a big difference for Canadians on Canada.ca. Read what Treasury Board President Scott Brison has to say about the improvement work underway. - <small>[2018-04-27]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/03/29/Visit-Canada-Optimization.html"><h3>Visit Canada: Optimization</h3><img src="./thumbs/2018-03-29.png" alt="This image shows two funnels comparing before and after optimization." class="img-responsive thumbnail"></a>
+ 		<p>The Digital Transformation Office (DTO) worked with  Immigration, Refugees, and Citizenship Canada (IRCC) to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out. - <small>[2018-03-29]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/03/14/old-habits-die-hard.html"><h3>Old habits die hard (when feelings get in the way)</h3><img src="./thumbs/2018-03-14.png" alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018" class="img-responsive thumbnail"></a>
+ 		<p>The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change. - <small>[2018-03-14]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/category/2018/02/23/Improve-digital-services-measuring-outcomes.html"><h3>Improve digital services by measuring outcomes</h3><img src="./thumbs/2018-02-23.png" alt="" class="img-responsive thumbnail"></a>
+ 		<p>Gerry McGovern offers his thoughts on his visit to Ottawa last week. - <small>[2018-02-23]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/category/2018/02/21/Delivering-citizen-experience.html"><h3>Delivering a great citizen experience</h3><img src="./thumbs/2018-02-21.png" alt="" class="img-responsive thumbnail"></a>
+ 		<p>Blog post by the Honourable Scott Brison, President of the Treasury Board. - <small>[2018-02-21]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2018/02/20/Starting_a_business.html"><h3>Helping Canadians start a business</h3><img src="./thumbs/2018-02-20.png" alt="" class="img-responsive thumbnail"></a>
+ 		<p>Starting a business is a top task for Canadians and it’s not an easy one. Here’s how this optimization project turned out. - <small>[2018-02-20]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/category/2017/12/12/optimization-overview.html"><h3>How we're optimizing Canada.ca top tasks</h3><img src="./thumbs/2017-12-12.png" alt="Shows the steps of how we optimize Canadadotca. Discovery. Baseline test. Design/prototyping. Validation test. Success? Launch." class="img-responsive thumbnail"></a>
+ 		<p>Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money. - <small>[2017-12-12]</small> </p>
+
+ </section>
+
+
+
+
+ <section class="col-md-6">
+
+         <a class="post-link" href="/2017/12/11/top-100-for-gc.html"><h3>How we identify top tasks for Canada.ca</h3><img src="./thumbs/2017-12-11.png" alt="Pie chart of top tasks. 1. Get a local weather forecast 28% 2. Get a visitor visa 9% 3. Apply to immigrate to Canada 7% 4. Get marine conditions 6% 5. Get an eTA 6%. Rest of chart is divided into smaller sections." class="img-responsive thumbnail"></a>
+ 		<p>There are thousands of Government of Canada (GC) tasks out there, some small, and some complex. So how do we prioritize? - <small>[2017-12-11]</small> </p>
+
+ </section>
+
+
+
+ 	</div>
+
+ <div class="row">
+ <div class="col-sm-8">
+     <section class="followus">
+       <h2>Subscribe</h2>
+       <ul class="list-inline mrgn-tp-lg">
+         <li>
+           <a href="https://canada-ca.github.io/feed.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+         </li>
+       </ul>
+     </section>
+ </div>
+ </div>
+ </div>
+
 
 
 </div>
