@@ -3,9 +3,8 @@ layout: post
 title:  "Helping Canadians start a business"
 pubdate: "February 20, 2018"
 gradelevel: 11.1
-ref: starting
+langpage: "/blogue-btn/category/2018/02/20/Demarrer_une_entreprise.html"
 date:   2018-02-20 09:48:44 +0100
-datemodified: "Date modified: February 20, 2018"
 published: true
 lang: en
 description: Starting a business is a top task for Canadians and it’s not an easy one. Here’s how this optimization project turned out.
