@@ -1,3 +1,3 @@
 #blog-dto  
 
-Prep remove for the move
+Prep repo for the move
