@@ -2,13 +2,17 @@
 body {
    /* color: #768390; */
     background: #FFF;
- /*   font-family: "Effra", Helvetica, sans-serif; */
     padding: 0;
     -webkit-font-smoothing: antialiased;
 }
 
 
+/* fix spacing on lines */
+main {
 
+	line-height: 1.65em !important;
+
+}
 
 .custli {
 
