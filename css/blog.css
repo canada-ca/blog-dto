@@ -7,12 +7,22 @@ body {
 }
 
 
-/* fix spacing on lines */
+/* fix spacing on paraphs lines */
 main {
 
 	line-height: 1.65em !important;
 
 }
+
+.gc-drmt p {
+
+  line-height: 1.35em !important;
+}
+
+
+/* fix spacing on paraphs lines */
+
+
 
 .custli {
 
