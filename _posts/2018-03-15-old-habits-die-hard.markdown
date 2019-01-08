@@ -2,7 +2,7 @@
 layout: post
 title:  "Old habits die hard (when feelings get in the way)"
 pubdate: "March 14, 2018"
-langpage: "/blogue-btn/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
 date:   2018-03-14 09:48:44 +0100
 published: true
 lang: en

@@ -2,7 +2,7 @@
 layout: post
 title:  "Collaborative work to optimize diseases and immunization content"
 pubdate: "May 10, 2018"
-langpage: "/blogue-btn/2018/05/10/concerte-sante.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2018/05/10/concerte-sante.html"
 date:   2018-05-10 08:34:44 +0100
 published: true
 lang: en

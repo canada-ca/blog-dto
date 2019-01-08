@@ -2,7 +2,7 @@
 layout: post
 title:  "Canada.ca: Small changes can make a big difference"
 pubdate: "April 27, 2018"
-langpage: "/blogue-btn/2018/04/27/petits-changements-grande-difference.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2018/04/27/petits-changements-grande-difference.html"
 date:   2018-04-27 16:34:44 +0100
 published: true
 lang: en

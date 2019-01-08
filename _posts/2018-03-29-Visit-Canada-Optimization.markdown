@@ -2,7 +2,7 @@
 layout: post
 title:  "Visit Canada: Optimization"
 pubdate: "March 29, 2018"
-langpage: "/blogue-btn/2018/03/29/Visiter-le-Canada-Optimisation.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2018/03/29/Visiter-le-Canada-Optimisation.html"
 date:   2018-03-29 16:34:44 +0100
 published: true
 lang: en

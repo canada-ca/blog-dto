@@ -2,7 +2,7 @@
 layout: post
 title:  "Recalls and safety alerts: An optimization project to better protect Canadians"
 pubdate: "October 18, 2018"
-langpage: "/blogue-btn/2018/10/18/rappels-avis-securite.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2018/10/18/rappels-avis-securite.html"
 date:   2018-10-18
 published: true
 lang: en

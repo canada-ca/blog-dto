@@ -3,7 +3,7 @@ layout: post
 title: "Dates matter: Trust and older content on Canada.ca"
 pubdate: "May 30, 2018"
 gradelevel: 8
-langpage: "/blogue-btn/2018/05/30/tout-est-question-de-dates.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2018/05/30/tout-est-question-de-dates.html"
 date:   2018-05-30 09:48:44 +0100
 published: true
 lang: en

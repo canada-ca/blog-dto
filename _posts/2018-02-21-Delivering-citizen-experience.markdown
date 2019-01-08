@@ -3,7 +3,7 @@ layout: post
 title:  "Delivering a great citizen experience"
 pubdate: "February 21, 2018"
 gradelevel: 11.1
-langpage: "/blogue-btn/category/2018/02/21/Offrir-une-excellente-expérience-citoyen.html"
+langpage: "https://canada-ca.github.io/blogue-btn/category/2018/02/21/Offrir-une-excellente-expérience-citoyen.html"
 date:   2018-02-21 09:48:44 +0100
 categories: category
 published: true
