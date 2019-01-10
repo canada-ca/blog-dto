@@ -2,12 +2,11 @@
 layout: post
 title:  "How we're optimizing Canada.ca top tasks"
 pubdate: "December 12, 2017"
-langpage: "https://canada-ca.github.io/blogue-btn/category/2017/12/12/apercu-d-optimisation.html"
+langpage: "https://canada-ca.github.io/blogue-btn/2017/12/12/apercu-d-optimisation.html"
 date:   2017-12-12 09:48:44 +0100
-categories: category
 published: true
 lang: en
-alt: Shows the steps of how we optimize Canadadotca. Discovery. Baseline test. Design/prototyping. Validation test. Success? Launch. 
+alt: Shows the steps of how we optimize Canadadotca. Discovery. Baseline test. Design/prototyping. Validation test. Success? Launch.
 description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
 ---
 
@@ -18,18 +17,18 @@ Optimization projects are a way to make meaningful improvements for Canadians wi
 ## Optimization projects: improving specific top tasks
 
 Optimization projects are short, typically lasting 3 to 4 months. They are intensely focused on increasing user success for specific top tasks.
- 
-The first challenge is to think like a citizen and identify tasks. Sometimes a task is fairly simple to identify, and people can accomplish it by finding and reading content on a web page. There are thousands of these out there, and they can be fixed quickly. 
 
-Sometimes a task is more complex, and involves multiple steps, logging in, or supporting databases and applications. Applying to immigrate to Canada or filing income taxes are good examples. 
+The first challenge is to think like a citizen and identify tasks. Sometimes a task is fairly simple to identify, and people can accomplish it by finding and reading content on a web page. There are thousands of these out there, and they can be fixed quickly.
 
-More complex tasks may take full service re-design to fix, involving the removal of IT and legislative barriers. However, even in complex situations, there remain opportunities to fix content that helps people to “get started” with their tasks, such as understanding eligibility.  Defining the task optimization in achievable terms is critical to success. 
+Sometimes a task is more complex, and involves multiple steps, logging in, or supporting databases and applications. Applying to immigrate to Canada or filing income taxes are good examples.
+
+More complex tasks may take full service re-design to fix, involving the removal of IT and legislative barriers. However, even in complex situations, there remain opportunities to fix content that helps people to “get started” with their tasks, such as understanding eligibility.  Defining the task optimization in achievable terms is critical to success.
 
 ## Methodology for improving task success
 
 <figure>
 <img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
- 
+
 <figcaption>
 <p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
 
@@ -39,10 +38,10 @@ More complex tasks may take full service re-design to fix, involving the removal
 <li><b>Design and prototyping</b>: sprints are used to iteratively design, build and test a prototype that solves the problems seen in discovery and baseline testing</li>
 <li><b>Validation testing</b>: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants</li>
 <li><b>Prototype launch</b>: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.</li>
-</ol> 
+</ol>
 
 </figcaption>
-</figure> 
+</figure>
 
 ## Successful teams are multi-disciplinary
 
@@ -59,9 +58,9 @@ Through moderated usability testing, we gain 2 things:
 1. measureable improvements in terms of task findability and task completion
 2. evidence we can leverage to further guide our improvement activities
 
-In terms of measuring improvements, we are aiming for a big increase in the participants' ability to both find and complete tasks. Before and after tests often show gains of between 10 and 20 percentage points. However, the higher your baseline testing results, the harder it is to improve task success in a single project. 
+In terms of measuring improvements, we are aiming for a big increase in the participants' ability to both find and complete tasks. Before and after tests often show gains of between 10 and 20 percentage points. However, the higher your baseline testing results, the harder it is to improve task success in a single project.
 
-Insights that teams gain from observing people performing tasks during usability testing and analyzing the results feed directly into the design phase. It's only once the baseline testing is completed that we actually know what to focus on as potential solutions to build into prototypes. 
+Insights that teams gain from observing people performing tasks during usability testing and analyzing the results feed directly into the design phase. It's only once the baseline testing is completed that we actually know what to focus on as potential solutions to build into prototypes.
 
 The insights drawn from usability testing are also leveraged to improve the overall design system for Canada.ca. We're always looking for patterns in the issues that testing uncovers. When we spot a trend, we work on updating our design manuals to address them. You'll see evidence of this in updates to:
 
@@ -78,7 +77,7 @@ Let us know what you think about optimization for Canada.ca. Email us at <inform
 
 ## Learn more about optimization techniques
 
-* [Top task management](https://vimeo.com/98514311), a presentation by Gerry McGovern on the research and management model to improve customer experience 
+* [Top task management](https://vimeo.com/98514311), a presentation by Gerry McGovern on the research and management model to improve customer experience
 * [Benchmarking and performance measurement of content transformation](https://insidegovuk.blog.gov.uk/2017/09/22/benchmarking-and-performance-measurement-of-content-transformation/), from the Inside Gov.uk blog
 * [Sprint](https://www.thesprintbook.com/), a book by Jake Knapp with John Zeratsky and Braden Kowitz, outlines the design process for solving problems with products and services
 * [Sprint Stories](https://sprintstories.com/) features case studies by government and private industry about using the design sprint process
