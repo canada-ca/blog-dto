@@ -98,7 +98,7 @@ It's very important not to update the “Date modified” component of pages wit
 
 ## We want to hear from you ##
 
-Let us know what you think about optimization for Canada.ca. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag <a href="https://twitter.com/search?q=%23Canadadotca">#Canadadotca</a>.
+Let us know what you think about optimization for Canada.ca. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag <a href="https://twitter.com/search?q=%23Canadadotca">#Canadadotca</a>.
 
 ## About Patrick
 <div class="col-md-3 col-xs-12">

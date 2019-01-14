@@ -53,8 +53,8 @@ The steps are relatively straightforward. Now, our top task is to convince more 
 ## Learn more
 
 - [Visit Gerry McGovern's website](http://www.gerrymcgovern.com/)
-- [See how we identify top tasks for Canada.ca](https://canada-ca.github.io/2017/12/11/top-100-for-gc.html)
-- [See how measuring task success is key for optimizing Canada.ca top tasks](https://canada-ca.github.io/category/2017/12/12/optimization-overview.html)
+- [See how we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
+- [See how measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
 
 <hr>
 

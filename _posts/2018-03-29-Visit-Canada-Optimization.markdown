@@ -116,12 +116,12 @@ After optimization, it was 62%, meaning the topic page was more effective at dri
 As the chart shows, people’s success at finding the apply pages jumped by 27 percentage points, from 35% before to 62% after. Also, we saw more people using the navigation menu to enter the flow. Due to this project, people who want to visit Canada can spend less time worrying about travel documents, and more time enjoying their visit to our country.
 
 ## What do you think?
-Let us know what you think about this project. Email us at <a href="mailto:information@tbs-sct.gc.ca">information@tbs-sct.gc.ca</a> or tweet using the hashtag #Canadadotca.
+Let us know what you think about this project. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more about this project
 - [Check out the optimized Visit Canada page](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html)
 - [Read Statistics Canada’s report on travel between Canada and other countries](http://www.statcan.gc.ca/daily-quotidien/180220/dq180220c-eng.htm)
-- [See the inventory of top tasks for Canada.ca](https://canada-ca.github.io/pages/top-task-list-canada-ca.html)
+- [See the inventory of top tasks for Canada.ca](https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html)
 
 ## About Eric
 <div class="col-md-3 col-xs-12">

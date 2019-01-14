@@ -106,4 +106,4 @@ Let us know what you think about task management. Email us at [dto-btn@tbs-sct.g
 
 ## Learn more
 
-* [Project summary: Recalls and safety alerts](https://canada-ca.github.io/research-recherche/recalls-research-summary.html)
+* [Project summary: Recalls and safety alerts](https://blog.canada.ca/research-summaries/recalls-research-summary.html)

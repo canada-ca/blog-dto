@@ -95,11 +95,11 @@ As the chart shows, the flow is like a funnel leading to the successful outcome 
 
 ## What do you think?
 
-Let us know what you think about this project. Email us at <information@tbs-sct.gc.ca> or tweet using the hashtag #Canadadotca.
+Let us know what you think about this project. Email us at dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more about this project
 
 - [Check out the optimized “Starting a business” page](https://www.canada.ca/en/services/business/start.html)
-- [See the complete decision map for starting a business](https://canada-ca.github.io/pages/starting-a-business-decisions.html)
+- [See the complete decision map for starting a business](https://blog.canada.ca/pages/starting-a-business-decisions.html)
 - [Read about facilitating design sprints like in this project](https://www.linkedin.com/pulse/bringing-logic-government-design-sprint-lisa-fast)
 - [Learn how Gov.UK does business optimization projects](https://gds.blog.gov.uk/2017/07/18/taking-care-of-business-on-gov-uk/)

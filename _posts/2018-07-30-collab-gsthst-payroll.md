@@ -149,4 +149,4 @@ Let us know what you think about task management. Email us at [dto-btn@tbs-sct.g
 
 ## Learn more
 
-* [Project summary: Tax filing](https://canada-ca.github.io/research-recherche/taxfiling-research-summary.html)
+* [Project summary: Tax filing](https://blog.canada.ca/research-summaries/taxfiling-research-summary.html)
