@@ -2,7 +2,7 @@
 layout: post
 title:  "Old habits die hard (when feelings get in the way)"
 pubdate: "March 14, 2018"
-langpage: "https://canada-ca.github.io/blogue-btn/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
+langpage: "https://blogue.canada.ca/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
 date:   2018-03-14 09:48:44 +0100
 published: true
 lang: en
@@ -50,7 +50,7 @@ He also provided some specific guidelines on conducting user testing:
 
 The steps are relatively straightforward. Now, our top task is to convince more of our colleagues to put the users first and adopt this approach.
 
-## Learn more 
+## Learn more
 
 - [Visit Gerry McGovern's website](http://www.gerrymcgovern.com/)
 - [See how we identify top tasks for Canada.ca](https://canada-ca.github.io/2017/12/11/top-100-for-gc.html)

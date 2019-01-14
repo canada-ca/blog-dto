@@ -2,7 +2,7 @@
 layout: post
 title:  "Visit Canada: Optimization"
 pubdate: "March 29, 2018"
-langpage: "https://canada-ca.github.io/blogue-btn/2018/03/29/Visiter-le-Canada-Optimisation.html"
+langpage: "https://blogue.canada.ca/2018/03/29/Visiter-le-Canada-Optimisation.html"
 date:   2018-03-29 16:34:44 +0100
 published: true
 lang: en
@@ -22,7 +22,7 @@ Knowing which document you need to apply for, if any, isn’t always clear. Many
 In January 2017, the IRCC Web team made it a priority to fix this task before a change to the eTA requirements came into effect in May which would have added to the confusion. To help out, the Digital Transformation Office worked with IRCC to improve people’s experience in figuring out what documents they need when visiting Canada. Here’s how this optimization project turned out.
 
 ## Understanding the problem
-During our discovery research, we mapped out the different scenarios for people visiting Canada. What they need depended on a variety of criteria: 
+During our discovery research, we mapped out the different scenarios for people visiting Canada. What they need depended on a variety of criteria:
 
 - what country they are coming from
 - what foreign citizenship they currently hold
@@ -59,11 +59,11 @@ This is what the key page in the process looked like when we started. Notice the
 	<li>extend your stay</li>
 	<li>transit through Canada</li>
 	</ul>
-	
+
 </details>
 
 ## Redesigning the process
-With baseline research in hand, the team redesigned the process to solve the issues we learned about. Together, IRCC and DTO built prototypes that we hoped would improve the experience of people trying to understand which travel documents they needed. Key fixes included: 
+With baseline research in hand, the team redesigned the process to solve the issues we learned about. Together, IRCC and DTO built prototypes that we hoped would improve the experience of people trying to understand which travel documents they needed. Key fixes included:
 
 - using a question and answer approach to guide people through the task
 - creating new pages for groups that were not covered previously (refugees and former permanent residents)
@@ -83,18 +83,18 @@ With baseline research in hand, the team redesigned the process to solve the iss
 		<li>a former resident of Canada, but have not been back for many years</li>
 		<li>none of the above</li>
 	</ul>
-	
+
 </details>    
 
 The layout was at times confusing, including links to rules and requirements. We replaced it by a series of questions and answers that help people get to the right answer.
 
 ## Validating the prototypes
 
-To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 47 percentage points against the same tasks on the live site. 
+To understand if the prototypes were working better for people trying to visit Canada, we ran 46 participants through the tasks in café testing sessions. The overall success rate for the prototypes was 91%, representing an improvement of 47 percentage points against the same tasks on the live site.
 
 ## Seeing it work in the real world
 
-Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages. 
+Once the prototypes were integrated into the live site in March 2017, analytics showed a solid improvement in people making it from the Visit Canada topic page through to the apply pages.
 
 
 <b>Before and after optimization:</b> February 2017 and June 2017

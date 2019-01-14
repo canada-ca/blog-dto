@@ -2,7 +2,7 @@
 layout: post
 title:  "How we're optimizing Canada.ca top tasks"
 pubdate: "December 12, 2017"
-langpage: "https://canada-ca.github.io/blogue-btn/2017/12/12/apercu-d-optimisation.html"
+langpage: "https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html"
 date:   2017-12-12 09:48:44 +0100
 published: true
 lang: en

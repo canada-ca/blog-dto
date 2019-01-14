@@ -3,7 +3,7 @@ layout: post
 title:  "Improve digital services by measuring outcomes"
 pubdate: "February 23, 2018"
 gradelevel: 11.1
-langpage: "https://canada-ca.github.io/blogue-btn/2018/02/23/Mesurer-résultats-améliorer-services-numériques.html"
+langpage: "https://blogue.canada.ca/2018/02/23/Mesurer-résultats-améliorer-services-numériques.html"
 date:   2018-02-23 09:48:44 +0100
 published: true
 lang: en

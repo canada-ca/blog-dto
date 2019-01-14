@@ -2,7 +2,7 @@
 layout: post
 title:  "CRA and TBS collaborate to optimize GST/HST and Payroll webpage content"
 pubdate: "August 16, 2018"
-langpage: "https://canada-ca.github.io/blogue-btn/2018/08/16/collab-impots.html"
+langpage: "https://blogue.canada.ca/2018/08/16/collab-impots.html"
 date:   2018-08-16
 published: true
 lang: en
@@ -25,19 +25,19 @@ Following our first round of baseline usability testing, we realized just how co
 
 We set out to optimize these top tasks with the DTO and key CRA program areas:
 
-* Public Affairs Branch 
-* Assessment and Benefit Services Branch 
-* Legislative Policy and Regulatory Affairs 
+* Public Affairs Branch
+* Assessment and Benefit Services Branch
+* Legislative Policy and Regulatory Affairs
 
 The aim was to improve findability, clarity of the language used, success rates, and completion time of top tasks for payroll and GST/HST topics.
 
 ## The challenge ##
 
-Our process included discovery, research and baseline usability testing that we conducted with the DTO on the existing Canada.ca web content. Through this, we were able to identify top GST/HST and payroll-related tasks that we needed to improve. 
+Our process included discovery, research and baseline usability testing that we conducted with the DTO on the existing Canada.ca web content. Through this, we were able to identify top GST/HST and payroll-related tasks that we needed to improve.
 
-Our baseline testing revealed several usability issues that resulted in task failure, such as: 
+Our baseline testing revealed several usability issues that resulted in task failure, such as:
 
-* complicated or technical jargon and wording 
+* complicated or technical jargon and wording
 * long, complex, difficult to understand pages that slowed people down, or prevented them from finding important details
 complex headings and content sequencing issues
 * unclear navigation paths which led to task failure
@@ -60,7 +60,7 @@ This video notes the observations and interactions with the initial GST/HST and 
 <details>
 				<summary>Transcript: Payroll webpage content</summary>
 	<p>(Participant)</p>
-	
+
 <p>(Video showing someone looking at the “Payroll overview” page on Canada.ca. Participant scrolls up and down slightly)</p>
 <p>I don’t see very…</p>
 <p>(Participant click into a page called “RC4110 Employee or self-employed?”)</p>
@@ -97,19 +97,19 @@ This video notes the observations and interactions with the initial GST/HST and 
 </details>
 </figcaption>
  {:/nomarkdown}
- 
+
 ## How we’re fixing it: lessons learned ##
 
 As we developed and tested prototypes, we learned that some basic changes to our content and navigation would have big impacts on task success.
 
-In our prototypes we worked to: 
+In our prototypes we worked to:
 
-* provide clear calls to action 
+* provide clear calls to action
 * rework links, labels and navigation text to be comprehensive and include keywords near the start of the text
 * label topics using a task-based structure, rather than CRA organizational structure
 * use plain language that closely matches commonly used terms to reduce ambiguity
 * reorganize certain pages into a step-by-step structure to help provide context to the content
-* group long and complex pages into tabs to improve navigation and scanning 
+* group long and complex pages into tabs to improve navigation and scanning
 
 We also learned that lists of links were a findability issue in some tasks. To help decrease ambiguity and improve findability, we grouped long lists of links were into categories. Finally, we found that shorter keyword phrases showed significant advantages over full sentences on navigation pages. They made the key information easier to find.
 
@@ -124,7 +124,7 @@ Here’s an example of what the main Payroll and GST/HST pages looked like in ba
 <img class="img-responsive" alt="A before and after screenshot of the Payroll page showing the differences." src="/images/taxes-impots/payroll-before-after-en.png">
 </figure>
 
-Before optimization, baseline results indicated that the initial Payroll topic page caused confusion because people had trouble choosing which link to follow. 
+Before optimization, baseline results indicated that the initial Payroll topic page caused confusion because people had trouble choosing which link to follow.
 
 After validation, we organized topics into a new template. We laid them out in sequence to provide context. We found that adding steps to topics made it easier for people to determine the correct navigation path. Findability increased by situating people in a sequence.
 
@@ -138,9 +138,9 @@ After optimization, the topic page was much more successful, because we had clea
 
 ## What’s next ##
 
-Our most recent round of validation usability testing resulted in a 28 percentage point improvement in task findability to an average of 90%. Overall task success improved by 27 percentage points to an average of 76%! We are now working to integrate the successful aspects of the prototypes into production. 
+Our most recent round of validation usability testing resulted in a 28 percentage point improvement in task findability to an average of 90%. Overall task success improved by 27 percentage points to an average of 76%! We are now working to integrate the successful aspects of the prototypes into production.
 
-We will continue to work closely with the program areas, namely Information Programs Division (Assessment and Benefit Services Branch) and Policy and Legislative Research Section (Collections and Verification Branch), to ensure that optimized content has been reviewed for technical accuracy, welcoming any suggestions for modifications to improve the accuracy of the information that relates to the three identified tasks. 
+We will continue to work closely with the program areas, namely Information Programs Division (Assessment and Benefit Services Branch) and Policy and Legislative Research Section (Collections and Verification Branch), to ensure that optimized content has been reviewed for technical accuracy, welcoming any suggestions for modifications to improve the accuracy of the information that relates to the three identified tasks.
 
 Stay tuned for the new content to go live on Canada.ca very soon!
 
@@ -150,4 +150,3 @@ Let us know what you think about task management. Email us at [dto-btn@tbs-sct.g
 ## Learn more
 
 * [Project summary: Tax filing](https://canada-ca.github.io/research-recherche/taxfiling-research-summary.html)
-

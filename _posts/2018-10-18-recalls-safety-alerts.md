@@ -2,11 +2,11 @@
 layout: post
 title:  "Recalls and safety alerts: An optimization project to better protect Canadians"
 pubdate: "October 18, 2018"
-langpage: "https://canada-ca.github.io/blogue-btn/2018/10/18/rappels-avis-securite.html"
+langpage: "https://blogue.canada.ca/2018/10/18/rappels-avis-securite.html"
 date:   2018-10-18
 published: true
 lang: en
-alt: Photo of job stories being developed. 
+alt: Photo of job stories being developed.
 description: Of the top 100 tasks on Canada.ca, getting recalls and safety alerts is &#35;8. It gets nearly 7 million annual visits, 71% of which are via mobile. For food-related alerts, that jumps to a whopping 84%.
 ---
 
@@ -34,24 +34,24 @@ In June of 2018, the web team at Health Canada, along with representatives from 
 
 On top of the infrastructure challenges, discovery research and usability testing found that Canadians face several problems when using the system:
 
-* design, content and writing style were not responsive or mobile-friendly 
+* design, content and writing style were not responsive or mobile-friendly
 * search issues and lack of filters caused many task failures
 * overall sense of uncertainty – people weren’t getting clear answers for what to do
 
 With those issues in mind, the Digital Transformation Office and the project team designed new prototypes for a search solution and content pages. The goal was to increase task findability and completion rates by 20% for each.
 
- 
+
 ## New prototypes ##
 
 Considering 71% of people are coming to the system via mobile, designing for mobile first was the obvious focus for the new prototypes.
- 
+
 The new search solution:
- 
+
 * adopted the Canada.ca search engine
 * added auto-complete to the search field and filters
 * improved the layout, search result headings and short description of the results
 * presented results in chronological order
-* changed the main categories to: 
+* changed the main categories to:
   * Food and allergies
   * Vehicles
   * Health
@@ -59,7 +59,7 @@ The new search solution:
 
 
 The new content pages:
- 
+
 * clarified page titles: “product, issue, status”
 * added summaries at the top of pages with a clear “what to do”
 * used clear headings, font and spacing to make pages easier to scan
@@ -67,7 +67,7 @@ The new content pages:
 * applied responsive design to make pages and lists easier to use
 * added links to product brand and category
 * grouped together similar products affected by a recall so users don’t need to leave the page to find out if their product is affected
- 
+
 After a second round of validation testing with Canadians on the new prototypes, the results were impressive. Task findability increased from 51% to 75% (up 24% points), and task completion increased from 54% to 87% (up 34% points).
 
 
@@ -107,4 +107,3 @@ Let us know what you think about task management. Email us at [dto-btn@tbs-sct.g
 ## Learn more
 
 * [Project summary: Recalls and safety alerts](https://canada-ca.github.io/research-recherche/recalls-research-summary.html)
-
