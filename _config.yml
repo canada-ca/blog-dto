@@ -11,63 +11,6 @@ url: "http://blog.canada.ca" # the base hostname & protocol for your site
 twitter_username: canada-ca
 github_username:  canada-ca
 
-# Translations
-title:
-  en: Canada-ca
-  fr: Canada-ca
-email: your-email@canada.ca
-description:
-  en: Canada.ca blog
-  fr: blogue de Canada.ca
-index:
-  en: index.html
-  fr: accueil.html
-home:
-  en: Home
-  fr: Accueil
-AllPosts:
-  en: Canada.ca blog
-  fr: blogue de Canada.ca
-feed:
-  en: /feed.xml
-  fr: /flux.xml
-language:
-  en: English
-  fr: Français
-SkipToMain:
-  en: Skip to main content
-  fr: Passer au contenu principal
-SkipToAbout:
-  en: Skip to "About this site"
-  fr: Passer à « À propos de ce site »
-LanguageSelection:
-  en: Language selection
-  fr: Sélection de la langue
-GoC:
-  en: Government of Canada
-  fr: Gouvernement du Canada
-SearchAndMenus:
-  en: Search and menus
-  fr: Recherche et menus
-SearchWebsite:
-  en: Search website
-  fr: Recherchez le site Web
-SearchCanadaCa:
-  en: Search Canada.ca
-  fr: Rechercher dans Canada.ca
-Search:
-  en: Search
-  fr: Recherche
-TopicsMenu:
-  en: Topics menu
-  fr: Menu des sujets
-YouAreHere:
-  en: You are here
-  fr: Vous êtes ici
-GCActivitiesInitiatives:
-  en: Government of Canada activities and initiatives
-  fr: Activités et initiatives du gouvernement du Canada
-
 
 # Build settings
 markdown: kramdown
