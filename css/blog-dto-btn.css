@@ -8,12 +8,12 @@ body {
 
 .blog-list {
 
-  margin-top: 1.8em !important;
+  margin-top: 1.8em;
 }
 
 .blog-photo {
 
-  margin-top: 2.2em !important;
+  margin-top: 2.2em;
 }
 
 
@@ -243,11 +243,11 @@ list-style-type: disc;
 
     .blog-photo {
 
-      margin-top: 3em !important;
+      margin-top: 3em;
     }
 
     .blog-list {
 
-      margin-top: 1.2em !important;
+      margin-top: 1.2em;
     }
 }
