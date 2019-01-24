@@ -6,16 +6,6 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-.blog-list {
-
-  margin-top: 1.8em;
-}
-
-.blog-photo {
-
-  margin-top: 2.2em;
-}
-
 
 /* fix spacing on paraphs lines */
 main {
@@ -239,7 +229,21 @@ list-style-type: disc;
     font-size: 18px !important;
   }
 
-  @media screen and (max-width: 768px) {
+  @media only screen and (min-width: 992px) {
+
+  .blog-list {
+
+    margin-top: 1.8em;
+  }
+
+  .blog-photo {
+
+    margin-top: 2.2em;
+  }
+
+}
+
+  @media only screen and (max-width: 992px) {
 
     .blog-photo {
 
