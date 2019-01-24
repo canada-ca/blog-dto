@@ -239,14 +239,14 @@ list-style-type: disc;
     font-size: 18px !important;
   }
 
-  @media screen and (max-width: 768px) {
+  @media screen and (min-width: 768px) {
 
     .blog-photo {
 
       margin-top: 4em !important;
     }
 
-    p {
+    p.red {
 
       color: red !important;
     }
