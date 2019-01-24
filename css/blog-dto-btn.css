@@ -229,7 +229,7 @@ list-style-type: disc;
     font-size: 18px !important;
   }
 
-  @media only screen and (min-width: 992px) {
+  @media only screen and (min-width: 1200px) {
 
   .blog-list {
 
