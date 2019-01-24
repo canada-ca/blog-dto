@@ -15,18 +15,13 @@ pubdate: "2018-12-19"
 
 
 
-
-		<div><div class="mwsgeneric-base-html parbase section">
-
-
-
 <p>Evidence and insights from the Canada.ca team.</p>
 
 <h2 class="wb-inv">Latest articles</h2>
 
-	<div class="row">
+<div class="row">
 
-	   <div class="wb-eqht">
+	   <div class="wb-eqht blog-list">
 	  {% assign posts=site.posts | where:"lang", page.lang %}
 	    {% for post in posts %}
 		   {% unless post.draft %}
@@ -48,19 +43,17 @@ pubdate: "2018-12-19"
 
 		</div>
 
-<div>
-<div class="col-sm-8">
-    <section class="followus">
-      <h2>Subscribe</h2>
-      <ul class="list-inline mrgn-tp-lg">
-        <li>
-          <a href="https://canada-ca.github.io/blog-dto/feed.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
-        </li>
-      </ul>
-    </section>
-</div>
-</div>
-</div>
-
+		<div>
+					<div class="col-sm-8">
+			    <section class="followus">
+			      <h2>Subscribe</h2>
+			      <ul class="list-inline mrgn-tp-lg">
+			        <li>
+			          <a href="https://canada-ca.github.io/blog-dto/feed.xml"><img src="./images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+			        </li>
+			      </ul>
+			    </section>
+					</div>
+		</div>
 
 </div>
