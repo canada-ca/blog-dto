@@ -238,3 +238,12 @@ list-style-type: disc;
 
     font-size: 18px !important;
   }
+
+  @media screen and (max-width: 1200px) {
+
+    .blog-photo {
+
+      margin-top: 3em !important;
+    }
+
+}
