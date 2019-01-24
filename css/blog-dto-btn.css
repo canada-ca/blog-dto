@@ -241,6 +241,11 @@ list-style-type: disc;
     margin-top: 2.2em;
   }
 
+  p.red {
+
+    color: purple !important;
+  }
+
 }
 
   @media only screen and (max-width: 992px) {
