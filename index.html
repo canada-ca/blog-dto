@@ -22,25 +22,32 @@ pubdate: "2018-12-19"
 
 <p>Evidence and insights from the Canada.ca team.</p>
 
+<h2 class="wb-inv">Latest articles<h2>
 
-<div class="row">
+	<div class="row">
 
-   <div class="wb-eqht">
-  {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
-	   {% unless post.draft %}
+	   <div class="wb-eqht">
+	  {% assign posts=site.posts | where:"lang", page.lang %}
+	    {% for post in posts %}
+		   {% unless post.draft %}
 
-<section class="col-md-6">
+	<section class="col-md-8 col-sm-7 col-xs-12">
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+	<p>{{ post.description }}</p><p><small>[{{ post.date | date: "%F" }}]</small> </p>
+	</section>
 
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3><img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
-		<p>{{ post.description }} - <small>[{{ post.date | date: "%F" }}]</small> </p>
+	<section class="col-md-4 col-sm-5 hidden-xs">
 
-</section>
-  {% endunless %}
-  {% endfor %}
+	        <img src="./thumbs/{{ post.date | date: "%F" | img_url: '100x100' crop: 'center' }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail">
 
-	</div>
+	</section>
 
+
+	  {% endunless %}
+	  {% endfor %}
+
+		</div>
+		
 <div>
 <div class="col-sm-8">
     <section class="followus">
