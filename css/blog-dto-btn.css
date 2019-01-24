@@ -241,10 +241,6 @@ list-style-type: disc;
     margin-top: 2.2em;
   }
 
-  p.red {
-
-    color: purple !important;
-  }
 
 }
 
@@ -255,10 +251,8 @@ list-style-type: disc;
       margin-top: 3em !important;
     }
 
-    p.red {
 
-      color: red !important;
-    }
+
 
 
 }
