@@ -246,4 +246,8 @@ list-style-type: disc;
       margin-top: 3em !important;
     }
 
+    .blog-list {
+
+      margin-top: 1.2em !important;
+    }
 }
