@@ -229,7 +229,7 @@ list-style-type: disc;
     font-size: 18px !important;
   }
 
-  @media only screen and (min-width: 1200px) {
+  @media only screen and (min-width: 992px) {
 
   .blog-list {
 
@@ -252,7 +252,7 @@ list-style-type: disc;
 
     .blog-photo {
 
-      margin-top: 4em !important;
+      margin-top: 3em !important;
     }
 
     p.red {
