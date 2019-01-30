@@ -50,9 +50,7 @@ pubdate: "2018-12-19"
 	<ul class="pager">
 
   {% if paginator.previous_page %}
-  <li class="previous">  <a href="{{ paginator.previous_page_path }}" rel="prev" class="previous">
-      Previous
-    </a></li>
+	<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
   <!--  <span class="previous">Previous</span> -->
   {% endif %}
@@ -60,7 +58,7 @@ pubdate: "2018-12-19"
   <small>  Page: {{ paginator.page }} of {{ paginator.total_pages }} </small>
   </span>
   {% if paginator.next_page %}
-    <li class="next"><a href="{{ paginator.next_page_path }}" rel="next" class="next">Next</a></li>
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
   <!--  <span class="next ">Next</span> -->
   {% endif %}
