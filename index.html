@@ -76,7 +76,7 @@ pubdate: "2018-12-19"
 </div>
 <!-- End pagination links -->
 
-<!-- Pagination links -->
+<!-- Pagination links "Prev 1, 2, 3 Next" style -->
 
 <div class="row">
 {% if paginator.total_pages > 1 %}
@@ -91,7 +91,7 @@ pubdate: "2018-12-19"
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <p>{{ page }}</p>
+      <span>{{ page }}</span>
     {% elsif page == 1 %}
       &nbsp<a href="{{ paginator.previous_page_path | relative_url }}">
         {{ page }}
