@@ -11,6 +11,11 @@ pubdate: "2018-12-19"
 		display: block !important; /* override wet */
 }
 
+	.pagination a {
+
+		padding: 5em 5em 10em 10em !important;
+	}
+
 </style>
 
 <!--/* Hide Nav; Hide Right Rail /*-->
@@ -93,13 +98,13 @@ pubdate: "2018-12-19"
     {% if page == paginator.page %}
       <span>{{ page }}</span>
     {% elsif page == 1 %}
-      &nbsp<a href="{{ paginator.previous_page_path | relative_url }}">
+      <a href="{{ paginator.previous_page_path | relative_url }}">
         {{ page }}
-      </a>&nbsp
+      </a>
     {% else %}
-      &nbsp<a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
         {{ page }}
-      </a>&nbsp
+      </a>
     {% endif %}
   {% endfor %}
 
