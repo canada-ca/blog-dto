@@ -10,6 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.canada.ca" # the base hostname & protocol for your site
 twitter_username: canada-ca
 github_username:  canada-ca
+paginate: 5
 
 
 # Build settings
@@ -17,3 +18,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
