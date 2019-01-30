@@ -8,6 +8,7 @@ pubdate: "2018-12-19"
 
 	.pagination {
 		text-align: center !important;
+		display: block !important; /* override wet */
 }
 
 </style>
@@ -90,7 +91,7 @@ pubdate: "2018-12-19"
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <em>{{ page }}</em>
+      <p>{{ page }}</p>
     {% elsif page == 1 %}
       &nbsp<a href="{{ paginator.previous_page_path | relative_url }}">
         {{ page }}
