@@ -43,7 +43,7 @@ pubdate: "2018-12-19"
 
 
 <!-- Pagination links "Previous 1 of 3 Next" style -->
-<!-- <div class="row"
+<!-- <div class="row">
 <div class="pagination">
 
 	<h2 class="wb-inv">Document navigation</h2>
@@ -71,6 +71,7 @@ pubdate: "2018-12-19"
 
 <!-- Pagination links -->
 
+<div class="row">
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -78,7 +79,7 @@ pubdate: "2018-12-19"
       &laquo; Prev
     </a>
   {% else %}
-    <span>&laquo; Prev</span>
+  <!--  <span>&laquo; Prev</span> -->
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
@@ -100,10 +101,11 @@ pubdate: "2018-12-19"
       Next &raquo;
     </a>
   {% else %}
-    <span>Next &raquo;</span>
+  <!--  <span>Next &raquo;</span> -->
   {% endif %}
 </div>
 {% endif %}
+</div>
 
 <!-- end of pagination links -->
 
