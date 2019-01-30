@@ -54,6 +54,33 @@ pubdate: "2018-12-19"
 <!-- end main loop of articles -->
 
 
+<!-- Pagination links "Previous 1 of 3 Next" style -->
+<!-- <div class="row">
+<div class="pagination">
+
+	<h2 class="wb-inv">Document navigation</h2>
+
+	<ul class="pager">
+
+  {% if paginator.previous_page %}
+	<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+  <!--  <span class="previous">Previous</span> -->
+  <!--{% endif %}
+  <span class="page_number ">
+  <small>  Page: {{ paginator.page }} of {{ paginator.total_pages }} </small>
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+  <!--  <span class="next ">Next</span> -->
+<!--  {% endif %}
+	</ul>
+
+</div>
+</div>
+<!-- End pagination links -->
+
 <!-- Pagination links "Prev 1, 2, 3 Next" style -->
 
 <div class="row">
