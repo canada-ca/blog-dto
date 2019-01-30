@@ -49,7 +49,7 @@ pubdate: "2018-12-19"
       Previous
     </a>
   {% else %}
-    <span class="previous">Previous</span>
+  <!--  <span class="previous">Previous</span> -->
   {% endif %}
   <span class="page_number ">
     Page: {{ paginator.page }} of {{ paginator.total_pages }}
@@ -57,7 +57,7 @@ pubdate: "2018-12-19"
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+  <!--  <span class="next ">Next</span> -->
   {% endif %}
 </div>
 <!-- End pagination links -->
