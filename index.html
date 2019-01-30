@@ -24,8 +24,11 @@ pubdate: "2018-12-19"
 	   <div class="wb-eqht">
 
 			 {% for post in paginator.posts %}
-  <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+			 	<section class="col-md-7 col-sm-8 col-xs-12 blog-list">
+  <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 	<p>{{ post.description }}</p><p><small>[{{ post.date | date: "%F" }}]</small> </p>
+
+	</section>
 
 {% endfor %}
 
