@@ -44,10 +44,15 @@ pubdate: "2018-12-19"
 
 <!-- Pagination links -->
 <div class="pagination row">
+
+	<h2 class="wb-inv">Document navigation</h2>
+
+	<ul class="pager">
+
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
+  <li class="previous">  <a href="{{ paginator.previous_page_path }}" class="previous">
       Previous
-    </a>
+    </a></li>
   {% else %}
   <!--  <span class="previous">Previous</span> -->
   {% endif %}
@@ -59,6 +64,8 @@ pubdate: "2018-12-19"
   {% else %}
   <!--  <span class="next ">Next</span> -->
   {% endif %}
+	</ul>
+
 </div>
 <!-- End pagination links -->
 
