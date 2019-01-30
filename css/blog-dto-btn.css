@@ -1,4 +1,14 @@
 
+.pagination {
+  text-align: center !important;
+  display: block !important; /* override wet */
+}
+
+.pagination a, span {
+
+  padding: 0 .3em 0 .3em !important;
+}
+
 body {
    /* color: #768390; */
     background: #FFF;
