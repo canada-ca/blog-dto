@@ -22,7 +22,7 @@ pubdate: "2018-12-19"
 <div class="row">
 
 	   <div class="wb-eqht">
-	  {% assign posts=paginator.posts | where:"lang", page.lang %}
+	  {% assign posts=site.posts | where:"lang", page.lang %}
 	    {% for post in posts %}
 		   {% unless post.draft %}
 
