@@ -4,7 +4,13 @@ lang: en
 pubdate: "2018-12-19"
 ---
 
+<style>
 
+	.pagination {
+		text-align: center !important;
+}
+
+</style>
 
 <!--/* Hide Nav; Hide Right Rail /*-->
 
@@ -86,13 +92,13 @@ pubdate: "2018-12-19"
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="&nbsp {{ paginator.previous_page_path | relative_url }}">
-        {{ page }}&nbsp
-      </a>
+      &nbsp<a href="{{ paginator.previous_page_path | relative_url }}">
+        {{ page }}
+      </a>&nbsp
     {% else %}
-      <a href="&nbsp {{ site.paginate_path | relative_url | replace: ':num', page }}">
-        {{ page }}&nbsp
-      </a>
+      &nbsp<a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+        {{ page }}
+      </a>&nbsp
     {% endif %}
   {% endfor %}
 
