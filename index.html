@@ -76,7 +76,7 @@ pubdate: "2018-12-19"
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}">
-      &laquo; Prev
+      Prev
     </a>
   {% else %}
   <!--  <span>&laquo; Prev</span> -->
@@ -84,7 +84,7 @@ pubdate: "2018-12-19"
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <em>{{ page }}</em>
+      <em>{{ page }}&nbsp</em>
     {% elsif page == 1 %}
       <a href="{{ paginator.previous_page_path | relative_url }}">
         {{ page }}
@@ -98,7 +98,7 @@ pubdate: "2018-12-19"
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">
-      Next &raquo;
+      Next
     </a>
   {% else %}
   <!--  <span>Next &raquo;</span> -->
