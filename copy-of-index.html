@@ -22,12 +22,14 @@ pubdate: "2018-12-19"
 <div class="row">
 
 	   <div class="wb-eqht">
+	  {% assign posts=site.posts | where:"lang", page.lang %}
+	    {% for post in posts %}
+		   {% unless post.draft %}
 
-			 {% for post in paginator.posts %}
-  <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+	<section class="col-md-7 col-sm-8 col-xs-12 blog-list">
+	<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
 	<p>{{ post.description }}</p><p><small>[{{ post.date | date: "%F" }}]</small> </p>
-
-{% endfor %}
+	</section>
 
 	<section class="col-md-5 col-sm-4 hidden-xs blog-list blog-photo">
 
@@ -35,6 +37,9 @@ pubdate: "2018-12-19"
 
 	</section>
 
+
+	  {% endunless %}
+	  {% endfor %}
 
 		</div>
 
