@@ -7,7 +7,7 @@ date:   2018-08-16
 published: true
 lang: en
 alt: A before and after screenshot of the GST/HST page showing the differences.
-description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) from the Treasury Board of Canada Secretariat (TBS) to make tax information on Canada.ca easier for small business owners to find, understand and use.
+description: The web, communications, and program teams at the Canada Revenue Agency (CRA) have been working closely with the Digital Transformation Office (DTO) to make tax information on Canada.ca easier for small business owners to find, understand and use.
 ---
 
 <b>Guest post by our optimization partners from the Canada Revenue Agency</b>
