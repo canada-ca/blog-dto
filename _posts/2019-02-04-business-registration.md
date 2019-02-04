@@ -2,7 +2,7 @@
 layout: post
 title:  "Collaborating to make business registration easier for Canadian business owners"
 pubdate: "February 4, 2019"
-langpage: "https://blogue.canada.ca/2018/03/04/comptes-entreprises.html"
+langpage: "https://blogue.canada.ca/2019/02/04/comptes-entreprises.html"
 date:   2019-02-04
 published: true
 draft: true
