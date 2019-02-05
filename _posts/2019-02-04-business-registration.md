@@ -84,7 +84,7 @@ Every time I write, I now asking myself:
 * How would the taxpayer ask this question?
 * Does this information serve the taxpayer in their task?
 
-I find it ultimately always comes back to: how can we ensure we are meeting the highest possible standards for the Canadians we serve?
+I find it ultimately always comes back to: how can we ensure we are meeting the highest possible standards for the people we serve?
 
 ## Lessons learned ##
 
