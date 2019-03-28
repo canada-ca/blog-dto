@@ -92,7 +92,7 @@ Working with TBS and the other teams in <abbr title="Canada Revenue Agency">CRA<
 
 
 ## We want to hear from you ##
-Let us know what you think about task management. Email us at [dto-btn@tbs-sct.gc.ca](mailto:dto-btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
+Let us know what you think about task management. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.
 
 ## Learn more
 
