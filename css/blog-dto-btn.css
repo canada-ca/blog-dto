@@ -1,4 +1,8 @@
 
+abbr {
+  text-decoration: none !important;
+}
+
 .pagination {
   text-align: center !important;
   display: block !important; /* override wet */
