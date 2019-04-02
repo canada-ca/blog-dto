@@ -36,7 +36,18 @@ The design update focused on the standard Canada.ca template for public-facing w
 
 ## Designing based on evidence ##
 
-The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions. The core design team included talented designers from <abbr title="Canada Revenue Agency">CRA</abbr>, <abbr title="Global Affairs Canada">GAC</abbr>, <abbr title="Innovation, Science and Economic Development Canada">ISED</abbr> and <abbr title="Shared Services Canada">SSC</abbr>, with research and testing led by <abbr title="Digital Transformation Office">DTO</abbr> staff. We engaged key stakeholders frequently throughout the project. In November 2018, we consulted the entire <abbr title="Government of Canada">GC</abbr> web community on the final design prototypes.
+The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions.
+
+
+
+DTO staff led the research and testing, while the core design team included talented designers from:
+
+* Canada Revenue Agency
+* Global Affairs Canada
+* Innovation, Science and Economic Development Canada
+* Shared Services Canada
+
+We engaged key stakeholders frequently throughout the project. In November 2018, we consulted the entire <abbr title="Government of Canada">GC</abbr> web community on the final design prototypes.
 
 We did extensive testing and evaluation of multiple iterations of the updated design:
 
