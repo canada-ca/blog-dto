@@ -19,7 +19,6 @@ figcaption {
   padding-bottom: 10px;
   padding-top: 5px;
 }
-
 </style>
 
 In the fall of 2018, the Digital Transformation Office (DTO) worked with Employment and Social Development Canada (ESDC) teams on two optimization projects: Student loans and grants, and Employment insurance for maternity and parental benefits. Both projects involve top tasks that millions of Canadians seek to complete on Canada.ca regularly. Both projects produced evidence of simple content design principles that can greatly improve user success.
