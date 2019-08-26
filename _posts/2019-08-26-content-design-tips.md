@@ -25,7 +25,6 @@ In the fall of 2018, the Digital Transformation Office (DTO) worked with Employm
 
 ## 1. Remove layers, help people get answers faster
 
-
 While the Government of Canada funds student loans, provinces and territories manage them. Students use the provincial sites to apply and reapply. They only need to interact with the federal government when it is time to repay a loan. Canada.ca had many pages describing funding programs. The project team stripped these pages out and created clear paths to the pertinent content on provincial sites and the National Student Loans Service Centre site. Removing pages that didn’t need to be there, meant the path to answers was shorter. Participants took an average of 3 fewer clicks to get to the destination content on our redesigned prototype.
 
 Recreating information that other organizations manage can bloat your content. This makes it harder for users to find what they are looking for. Creating clear “off-ramps” where possible and reducing clutter and noise improves user success.
