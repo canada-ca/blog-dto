@@ -2,7 +2,7 @@
 layout: post
 title:  "Six content design tips from our Student loans and Parental benefits optimization projects"
 pubdate: "August 26, 2019"
-langpage: "https://blogue.canada.ca/2019/08/26/astuces-conception-contentu.html"
+langpage: "https://blogue.canada.ca/2019/08/26/conseils-conception-contentu.html"
 date:   2019-08-26
 published: true
 draft: true
