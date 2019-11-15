@@ -39,7 +39,7 @@ Have you seen micro-mission offers come along and wondered if it was worth it? M
 
 It’s well known that federal public service employees tend to be divided as follows: those in the <abbr title="National Capital Region">NCR</abbr> and the others. I’m one of the others. Like <abbr title="National Capital Region">NCR</abbr> employees, we have a duty to keep up to date on major joint projects initiated by the central agencies.
 
-In my position in Montreal, I’m part of the Web team, in Communications at Innovation, Science and Economic Development Canada – a specialization that is rather rare in the regions. So as an employee, how do we stay up to date, other than through webcasts and conference calls? Answer: by finding unique opportunities, such as a mandate-related micro-mission in a central agency.
+In my position in Montreal, I’m part of the Web team, in Communications at Canada Economic Development for Quebec Regions – a specialization that is rather rare in the regions. So as an employee, how do we stay up to date, other than through webcasts and conference calls? Answer: by finding unique opportunities, such as a mandate-related micro-mission in a central agency.
 
 
 ## The DTO
