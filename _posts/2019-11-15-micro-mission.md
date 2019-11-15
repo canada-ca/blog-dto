@@ -57,7 +57,6 @@ I met some remarkable people there: competent, available professionals with an e
 
 ## The manager’s perspective
 
-
 I’ll turn the floor over to my manager.
 
 
@@ -65,7 +64,6 @@ I’ll turn the floor over to my manager.
 <p style="color: #1E5D71 !important;">
 But most importantly, the employee was able to expand her network, deepen her knowledge and apply her expertise. She came back full of ideas and projects to implement within our team!” </p>		
 </blockquote>		
-
 
 
 ## A micro-mission is useful
