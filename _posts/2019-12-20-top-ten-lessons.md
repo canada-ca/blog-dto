@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top 10 content design lessons the Canada.ca Design Team learned in 2019"
+title:  "Top 10 content design lessons the Canada.ca design team learned in 2019"
 pubdate: "December 20, 2019"
 langpage: "https://blogue.canada.ca/2019/12/20/les-dix-lecons.html"
 date:   2019-12-20
@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "A photo of the Digital Transformation Office team."
-description: "Top 10 content design lessons the Canada.ca Design Team learned in 2019."
+description: "Top 10 content design lessons the Canada.ca design team learned in 2019."
 ---
 
 <style>
