@@ -7,8 +7,8 @@ date:   2019-12-20
 published: true
 draft: true
 lang: en
-alt: "Top ten lessons"
-description: "Top 10 content design lessons the Canada.ca Design Team learned in 2019"
+alt: "A photo of the Digital Transformation Office team."
+description: "Top 10 content design lessons the Canada.ca Design Team learned in 2019."
 ---
 
 <style>
