@@ -26,7 +26,7 @@ figcaption {
 
 </style>
 
-In January 2019, the [Digital Transformation Office (DTO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://wwww.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
+In January 2019, the [Digital Transformation Office (DTO) team](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) launched the [Canada.ca design](http://www.canada.ca/en/government/about/design-system.html) update to modernize and simplify the trusted digital brand of the Government of Canada. Throughout the year, we continued to work with departments to improve the user experience across government information and services. As we count down to 2020, we’d like to share the top 10 content design lessons we learned this year.
 
 ## 1. Watch people use your content
 
@@ -116,8 +116,8 @@ The Digital Transformation Office would like to wish you rest and relaxation ove
 
 
 <figure>
-<img class="img-responsive border" alt="A photo of the Digital Transformation Team "
- src="/images/DOT_team_2019.jpg" width="700">
+<img class="img-responsive border" alt="A photo of the Digital Transformation Office team."
+ src="/images/DTO_team_2019.jpg" width="700">
 </figure>
 
 ## Inspired by what you learned? Share this post with your team.
