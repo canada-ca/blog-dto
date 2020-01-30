@@ -21,8 +21,6 @@ Over this series we’ll explore why and what practical steps you can take to se
 
 We’ll start with the essential first step: Optimize your content for voice search.
 
-## Optimize your content for voice search
-
 The fact is that most voice interactions are still very simple: one question, one answer.
 
 Instead of jumping to building a conversational agent, start by optimizing your content for voice search:
