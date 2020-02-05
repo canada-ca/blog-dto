@@ -8,7 +8,7 @@ published: true
 draft: true
 lang: en
 alt: "right method to measure"
-description: "What we learned about exit surveys, usability testing and analytics funnels"
+description: "What we learned about exit surveys, usability testing and analytics funnels."
 ---
 
 In 2019, the Digital Transformation Office worked with our colleagues in the Results Division of Treasury Board Secretariat to put in place a new key performance indicator. It evaluates citizens’ ability to complete high-demand tasks on the Government of Canada’s web presence. 37 departments had to report on the new indicator in 2019.
