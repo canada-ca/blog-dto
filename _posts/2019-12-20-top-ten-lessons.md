@@ -30,11 +30,10 @@ In January 2019, the [Digital Transformation Office (DTO) team](http://www.canad
 
 ## 1. Watch people use your content
 
-<blockquote><p style="color: #1E5D71 !important;">“Always be testing. Watching people use your content is critical to ensuring that they are successful using it. Best practices and educated guesses can only get you so far, because how people use content and interact with it will very often surprise you.” </p>
+<blockquote><p style="color: #1E5D71 !important;">“Always be testing. Watching people use your content is critical to ensuring that they are successful using it. Best practices and educated guesses can only get you so far, because how people use content and interact with it will very often surprise you.”</p>
+</blockquote>
 
-<footer> Jennifer Mealing </footer></blockquote>
-
-- Jennifer Mealing
+<p>- Jennifer Mealing </p>
 
 ## 2.    Work collaboratively with others
 
