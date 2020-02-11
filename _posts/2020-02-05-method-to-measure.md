@@ -66,13 +66,13 @@ We found that this method allowed the best balance between:
 
 ## Simplifying methods for better results
 
-Offering multiple methods to report on top tasks was meant to remove barriers to data collection. The reality was that it affected our ability to see trends across institutions. The different methods created inconsistent data. It’s hard to compare the results of a task funnel to a usability test!  
+Experimenting with multiple methods to measure top tasks highlighted how different methods might create inconsistent data. It’s hard to compare the results of a task funnel to a usability test!  
 
 The online survey method provides a standardized data collection method. It is technically easy to implement, and provides clear data about top task strengths and weaknesses.
 
 The feedback we heard from institutions using this method was positive. It indicated a culture shift to top task management.
 
-<blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first. For example our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p> </blockquote>
+<blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first. For example, our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p> </blockquote>
 
 <blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of (the survey) have played a part in the evolution of the website.”</p> </blockquote>
 
