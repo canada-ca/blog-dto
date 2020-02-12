@@ -74,7 +74,7 @@ The feedback we heard from institutions using this method was positive. It indic
 
 <blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first. For example, our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p> </blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of (the survey) have played a part in the evolution of the website.”</p> </blockquote>
+<blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of the survey have played a part in the evolution of the website.”</p> </blockquote>
 
 ## We want to hear from you
 
