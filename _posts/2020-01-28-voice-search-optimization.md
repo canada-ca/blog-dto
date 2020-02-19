@@ -105,7 +105,7 @@ Don’t jump ahead to flashy stuff.
 
 We know that chat and voice are the technologies of the future; and that the future is now. Continuous usability testing allows us to better understand how new technology works and where gaps exist. It helps us develop empathy for our users and ensure we’re building the right tools...the right way.
 
-The Canada.ca design team wants to continuously improve both Canada.ca and the guidance that the GC design system provides to help departments make the best use of new technologies.
+The Canada.ca design team wants to continuously improve both Canada.ca and the guidance that the Government of Canada design system provides to help departments make the best use of new technologies.
 
 As we keep moving forward and experimenting with new approaches, we must always ask ourselves, is it:
 * <b>useful</b>—does it improve digital self-service? Will Canadians benefit from having it?
