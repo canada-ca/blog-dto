@@ -110,7 +110,7 @@ The Canada.ca design team wants to continuously improve both Canada.ca and the g
 As we keep moving forward and experimenting with new approaches, we must always ask ourselves, is it:
 * <b>useful</b>—does it improve digital self-service? Will Canadians benefit from having it?
 * <b>usable</b>—is it easy to use? Will success rates on Canada.ca improve?
-* <b>sustainable</b>—can it be easily maintained by content teams?
+* <b>sustainable</b>—can content teams easily maintain it?
 
 Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the post delivered to your inbox.
 
