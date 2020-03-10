@@ -11,13 +11,13 @@ description: One of the key aspects of the Canada.ca design is a consistent temp
 ---
 One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the product design team at Treasury Board Secretariat (TBS) created a simplified steps pattern for topic pages to organize a group of related top tasks in sequence.  
 
-## Topic pages fill the cracks between departments 
+## Topic pages fill the cracks between departments
 
-Canada.ca exists to provide better online service to Canadians for their top tasks, and topic pages play a key role. Many people don't know or care which department offers a particular service. Topic pages bring together all of the service tasks onto one page, across federal departments. They act like a ‘home page’ for that set of services, providing links to help citizens find their tasks. 
+Canada.ca exists to provide better online service to Canadians for their top tasks, and topic pages play a key role. Many people don't know or care which department offers a particular service. Topic pages bring together all of the service tasks onto one page, across federal departments. They act like a ‘home page’ for that set of services, providing links to help citizens find their tasks.
 
-Topic pages have a consistent layout based on a template described in the [Canada.ca design manual](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html). Over time, some parts of the topic page template have been improved as task-based usability testing with Canadians has highlighted problems. But on the whole, there has only been the one template available, with links to tasks prioritized by demand or web traffic volume. 
+Topic pages have a consistent layout based on a template described in the [Canada.ca design manual](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-information-architecture-specification.html). Over time, some parts of the topic page template have been improved as task-based usability testing with Canadians has highlighted problems. But on the whole, there has only been the one template available, with links to tasks prioritized by demand or web traffic volume.
 
-The Starting a business topic page used the standard template when the optimization team started: 
+The Starting a business topic page used the standard template when the optimization team started:
 
 <img class="img-responsive" alt="Starting a business page back in October with publications regulations and random ordered topics" src="/images/Starting_topic_Oct2016_567x522.png">
 
@@ -50,11 +50,11 @@ Web analytics from before (February 4 to April 4, 2017) and after (May 26 to Jul
 - 10 times more people now get to BizPal, a wizard to help find required permits and licences<sup id="footnotemark2"><a class="fn-lnk" href="#myfootnote2"><span class="wb-invisible">Link to footnote </span>2</a></sup>
 - 3 times more people now find business support and financing on the start a business steps page<sup id="footnotemark3"><a class="fn-lnk" href="#myfootnote3"><span class="wb-invisible">Link to footnote </span>3</a></sup>
 
-These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for. 
+These outcomes from Canadians using the Canada.ca site support the prototype testing results. The steps-based design clearly addressed a real need, and filled a gap in our template design patterns.  This design pattern is now available as an option for Canada.ca topic pages, and will soon be included in the Content and Information Architecture Specification. Services on Canada.ca can now use this to pattern to help Canadians understand and find the steps they're looking for.
 
 ## Find out more
 
-We're happy to share what we've learned. Email us at information@tbs-sct.gc.ca
+We're happy to share what we've learned. Email us at dto.btn@tbs-sct.gc.ca
 
 <aside class="wb-fnote" role="note">
 <h2 id="fn">Footnotes</h2>
@@ -76,6 +76,3 @@ We're happy to share what we've learned. Email us at information@tbs-sct.gc.ca
 	</dd>
 </dl>
 </aside>
-
-
-
