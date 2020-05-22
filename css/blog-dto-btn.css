@@ -1,3 +1,6 @@
+.nobreak {
+    white-space: nowrap;
+}
 
 figcaption {
   font-size: 17px !important;
@@ -5,9 +8,9 @@ figcaption {
   max-width: 80ch;
 }
 
-abbr {
+/* abbr {
   text-decoration: none !important;
-}
+} */
 
 .pagination {
   text-align: center !important;
