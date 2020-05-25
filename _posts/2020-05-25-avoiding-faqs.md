@@ -24,7 +24,7 @@ Gerry McGovern, acclaimed expert in digital customer experience, calls FAQs “o
 
 This is because FAQs make your users sift through wordy collections of questions you think they may have, or worse, questions you want them to have. Some of these questions may be relevant to their task. Many of them are not.
 
-When you design navigation from the perspective of your audience, you consider the tasks that they are trying to complete. Instead of lumping diverse concepts or details together in a single spot, you create clear paths to actionable answers.You identify the top tasks your audience wants to accomplish. Then you organize your website navigation in a simple and logical way to help them succeed.
+When you design navigation from the perspective of your audience, you consider the tasks that they are trying to complete. Instead of lumping diverse concepts or details together in a single spot, you create clear paths to actionable answers. You identify the top tasks your audience wants to accomplish. Then you organize your website navigation in a simple and logical way to help them succeed.
 
 ## Effective headings are answers
 
