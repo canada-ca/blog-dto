@@ -228,11 +228,8 @@ Watch some participants navigate Canada.ca using assistive technology:
 </p>
 
 
-
 </details>
 </figcaption>
-
-
 
 {:/nomarkdown}
 
