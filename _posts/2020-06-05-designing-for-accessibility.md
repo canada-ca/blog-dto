@@ -48,8 +48,7 @@ Watch some participants navigate Canada.ca using assistive technology:
 <p class="wet-boew-vd">(A screen capture of the Canada.ca homepage. We zoom in to see a window open above the page with the title "Links List". A list of links appears in the window, each link being highlighted as the participant says out loud what they are.)</p>
 <p>
 	<span class="wb-tmtxt" data-begin="8.34s" data-dur="04.03s"><b>Participant 1:</b> Now I can't use "Skip to main content", I</span>
-	<span class="wb-tmtxt" data-begin="12.39s" data-dur="01.33s">don't really quite know what's there</span>
-	<span class="wb-tmtxt" data-begin="13.74s" data-dur="01.63s">first so we'll have to have a look and see.</span>
+	<span class="wb-tmtxt" data-begin="12.39s" data-dur="01.33s">don't really quite know what's there</span><span class="wb-tmtxt" data-begin="13.74s" data-dur="01.63s">first so we'll have to have a look and see.</span>
 </p>
 <p class="wet-boew-vd">(<b>Caption:</b> Navigating by exploring the list of links on the page)</p>
  
