@@ -104,17 +104,17 @@ Watch some participants navigate Canada.ca using assistive technology:
 <p>
 <span class="wb-tmtxt" data-begin="74.0s" data-dur="01.50s">Heading level 2 - On this page</span>
 <span class="wb-tmtxt" data-begin="75.5s" data-dur="01.0s">List with 3 items</span>
-<span class="wb-tmtxt" data-begin="76.50s" data-dur="01.5s">Bullet, same page link - Support for individuals. </span>
-<span class="wb-tmtxt" data-begin="78.0s" data-dur="01.5s">Bullet, same page link - Support for businesses. </span>
-<span class="wb-tmtxt" data-begin="79.50s" data-dur="01.5s">Bullet, same page link - Support for sectors. </span>
-<span class="wb-tmtxt" data-begin="81.00s" data-dur="01.0s">List end. </span>
+<span class="wb-tmtxt" data-begin="76.50s" data-dur="01.5s">Bullet, same page link - Support for individuals.</span>
+<span class="wb-tmtxt" data-begin="78.0s" data-dur="01.5s">Bullet, same page link - Support for businesses.</span>
+<span class="wb-tmtxt" data-begin="79.50s" data-dur="01.5s">Bullet, same page link - Support for sectors.</span>
+<span class="wb-tmtxt" data-begin="81.00s" data-dur="01.0s">List end.</span>
 <span class="wb-tmtxt" data-begin="82.00s" data-dur="01.5s"><b>Participant 2:</b> I'm going to go to individuals,</span>
 <span class="wb-tmtxt" data-begin="83.50s" data-dur="05.97s">Support for individuals.</span>
 </p>
 
 <p>
-<span class="wb-tmtxt" data-begin="85.00s" data-dur="01.5s">It shouldn't be going too fast, </span>
-<span class="wb-tmtxt" data-begin="86.5s" data-dur="05.0s">I'm an actual slow JAWS reader, compared to some. </span>
+<span class="wb-tmtxt" data-begin="85.00s" data-dur="01.5s">It shouldn't be going too fast,</span>
+<span class="wb-tmtxt" data-begin="86.5s" data-dur="05.0s">I'm an actual slow JAWS reader, compared to some.</span>
 </p>
 
 <p class="wet-boew-vd">(The selection box moves back up to the "Support for individuals" heading to the "Support for individuals" link)</p>
@@ -143,7 +143,7 @@ Watch some participants navigate Canada.ca using assistive technology:
 </p>
 
 <p>
-<span class="wb-tmtxt" data-begin="125.0s" data-dur="01.50s"><b>Screen reader:</b> List with 1 item. </span>
+<span class="wb-tmtxt" data-begin="125.0s" data-dur="01.50s"><b>Screen reader:</b> List with 1 item.</span>
 <span class="wb-tmtxt" data-begin="126.5s" data-dur="05.00s">Canada Emergency Response Benefit (CERB) - button collapsed.</span>
 <span class="wb-tmtxt" data-begin="131.5s" data-dur="05.00s">Heading level 3 - Indigenous peoples.</span>
 </p>
@@ -233,7 +233,7 @@ Watch some participants navigate Canada.ca using assistive technology:
 
 {:/nomarkdown}
 
-<br/>
+<br />
 
 Overall, the testing showed that the new templates and patterns performed well for assistive technologies. Participants commented on how the clear link text, subway navigation pattern, larger fonts and simple design helped them understand the content.
 
