@@ -78,7 +78,7 @@ In this unmoderated test video, the participant draws their own conclusions when
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/assistive-tech/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
+	<video poster="/images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
 		<source type="video/mp4" src="/images/design-research/design-research-unmoderated-1080x600-en.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
 	</video>
@@ -153,7 +153,7 @@ In this moderated testing video, a participant is being reassured that selecting
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/assistive-tech/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
+	<video poster="/images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
 		<source type="video/mp4" src="/images/design-research/design-research-moderated-1080x600-en.mp4" />
 		<track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
 	</video>
