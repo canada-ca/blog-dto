@@ -165,7 +165,7 @@ In this moderated testing video, a participant is being reassured that selecting
 <p class="wet-boew-vd"><b>Title:</b> Moderated testing: interacting with a participant</p>
 <p class="wet-boew-vd">A screen capture of a Canada.ca page with checkboxes that can be selected. </p>
 
-<p class="wet-boew-vd">
+<p>
 <span class="wb-tmtxt" data-begin="04.00s" dur="03.98s"></p>
 <p>
 <b>Participant 1:</b> "Ok direct deposit payments take 3 business</span>
