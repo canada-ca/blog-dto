@@ -148,44 +148,7 @@ We reserved moderated testing for when we needed specialized audiences like busi
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
-In this moderated testing video, a participant is being reassured that selecting an option will not reveal any personal banking information.
 
-{::nomarkdown}
-
-<figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
-		<source type="video/mp4" src="/images/design-research/design-research-moderated-1080x600-en.mp4" />
-		<track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
-	</video>
-
-<figcaption>
-<details id="inline-captions-2">
-				<summary>Transcript: Moderated testing: interacting with a participant</summary>
-
-<p class="wet-boew-vd"><b>Title:</b> Moderated testing: interacting with a participant</p>
-<p class="wet-boew-vd">A screen capture of a Canada.ca page with checkboxes that can be selected. </p>
-
-<p>
-<span class="wb-tmtxt" data-begin="04.00s" dur="03.98s"></p>
-<p>
-<b>Participant 1:</b> "Ok direct deposit payments take 3 business</span>
-<span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">days, a cheque takes about 10 business days. Is your direct deposit information</span>
-<span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">up to date with the CRA?"</p>
-<p>"If I click these, it won’t like</span>
-<span class="wb-tmtxt" data-begin="16.00s" dur="03.98s">actually affect my stuff, right?"
-</p>
-
-<p><b>Moderator:</b>"Exactly, I won’t let you do</span>
-<span class="wb-tmtxt" data-begin="20.00s" dur="03.98s">anything that has real consequences." </p> <p> <b>Participant 1:</b> "Perfect.
-</span>
-<span class="wb-tmtxt" data-begin="24.00s" dur="08.07s">Alright."</p></span>
-
-
-
-</details>
-</figcaption>
-
-{:/nomarkdown}
 
 ## Key lessons learned
 
