@@ -35,7 +35,7 @@ Light and fast research helped inform daily recommendations. Where possible, we 
 
 We used easy-to-access data like web analytics, search queries, social media monitoring and call centre questions to identify areas where we could focus our research. We often worked questions from social media or call centres directly into task scenarios.
 
-### 4. Unmoderated testing: Rapid recommendations in 48 hours
+## 4. Unmoderated testing: Rapid recommendations in 48 hours
 
 The team’s existing access to online testing services allowed us to rapidly test and deliver recommendations within 48 hours. Unmoderated tests were conducted every 2 to 3 days with 6 to 8 Canadians per test. This allowed us to identify big issues and analyze the video recordings in a few hours.
 
@@ -108,10 +108,6 @@ In this unmoderated test video, the participant draws their own conclusions when
 
 {:/nomarkdown}
 
-Caption: In this unmoderated test video, the participant draws their own conclusions when interpreting a task. When testing a page about economic benefits, we found that many participants identified being self-employed as a business, not as an individual.
-
-
-
 As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and prototyping.
 
 <section>
@@ -122,25 +118,25 @@ As the situation stabilized, research activities became larger and aligned to up
             <h3>Iterations of the Canada Emergency Response Benefit (CERB)</h3>
             <dl class="dl-horizontal">
                 <dt>March 27</dt>
-                <dd>First test of CERB prototype with eligibility checkboxes.</dd>
+                <dd>First test of CERB prototype with eligibility checkboxes</dd>
                 <dt>March 30</dt>
-                <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC.</dd>
+                <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC</dd>
                 <dt>March 31, April 1</dt>
-                <dd>Retests of triage page.</dd>
+                <dd>Retests of triage page</dd>
                 <dt>April 6</dt>
                 <dd>CERB goes live</dd>
                       <dt>April 6,8</dt>
-                      <dd>Retests of live content.</dd>
+                      <dd>Retests of live content</dd>
                             <dt>April 9</dt>
-                            <dd>Test of CRA multi-page prototype with checkboxes.</dd>
+                            <dd>Test of CRA multi-page prototype with checkboxes</dd>
                                   <dt>April 16 to 24</dt>
-                                  <dd>Retests of CRA prototype.</dd>
+                                  <dd>Retests of CRA prototype</dd>
                                         <dt>May 2</dt>
-                                        <dd>CRA multi-page design goes live.</dd>
-                                              <dt>May 22-25</dt>
-                                              <dd>Test of ESDC prototype with revised CERB content.</dd>
+                                        <dd>CRA multi-page design goes live</dd>
+                                              <dt>May 22,25</dt>
+                                              <dd>Test of ESDC prototype with revised CERB content</dd>
                                                     <dt>June 3</dt>
-                                                    <dd>Revised ESDC page goes live.</dd>
+                                                    <dd>Revised ESDC page goes live</dd>
             </dl>
               </div>
               </div>
@@ -151,6 +147,8 @@ As the situation stabilized, research activities became larger and aligned to up
 We reserved moderated testing for when we needed specialized audiences like business owners, students, or [people using assistive technologies](https://blog.canada.ca/2020/06/05/designing-for-accessibility.html). Using a moderator gave us time to schedule the testing over several days while we worked on complex prototypes. This provided more flexibility to ask follow-up questions. When we saw interesting behaviours, we could probe for more details. This let us get the most out of the sessions.
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
+
+In this moderated testing video, a participant is being reassured that selecting an option will not reveal any personal banking information.
 
 {::nomarkdown}
 
@@ -188,10 +186,6 @@ A moderator can encourage participants to continue on a task where they may have
 </figcaption>
 
 {:/nomarkdown}
-
-
-
-
 
 ## Key lessons learned
 
