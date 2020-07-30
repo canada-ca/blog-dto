@@ -155,7 +155,7 @@ In this moderated testing video, a participant is being reassured that selecting
 <figure class="wb-mltmd wb-init video cc_on">
 	<video poster="/images/assistive-tech/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
 		<source type="video/mp4" src="/images/design-research/design-research-moderated-1080x600-en.mp4" />
-		<track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English" />
+		<track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
 	</video>
 
 <figcaption>
