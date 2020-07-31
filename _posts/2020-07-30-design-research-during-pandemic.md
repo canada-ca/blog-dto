@@ -165,6 +165,8 @@ In this moderated testing video, a participant is being reassured that selecting
       </figcaption>
 </figure>
 
+{:/nomarkdown}
+
 ## Key lessons learned
 
 * Test early, test often
