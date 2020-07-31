@@ -42,34 +42,26 @@ The team’s existing access to online testing services allowed us to rapidly te
 We developed a rhythm for our activities. We packaged prototypes as ready-to-use solutions. This helped make implementation as smooth as possible.
 
 ### 48-hour testing schedule
-<section>
 <div class="row">
-  <div class="col-xs-12 col-sm-6 col-md-8">
-<div class="well well-sm">
-
-<strong>Day one</strong>
-<ol>
-<li>Identify priorities in the morning</li>
-<li>Prototype during the day</li>
-<li>Develop scenarios and build the test in the afternoon</li>
-<li>Run test overnight
-</li>
-</ol>
-
-<strong>Day two</strong>
-<ol>
-<li>Analyze videos and compile recommendations in the morning
-</li>
-<li>Deliver or communicate results in the afternoon.
-</li>
-</ol>
-
-<p>Repeat and retest!</p>
-
+      <div class="col-xs-12 col-sm-6 col-md-8">
+            <div class="well well-sm">
+                  <strong>Day one</strong>
+                  <ol>
+                        <li>Identify priorities in the morning</li>
+                        <li>Prototype during the day</li>
+                        <li>Develop scenarios and build the test in the afternoon</li>
+                        <li>Run test overnight</li>
+                  </ol>
+                  <strong>Day two</strong>
+                  <ol>
+                        <li>Analyze videos and compile recommendations in the morning
+                        </li>
+                        <li>Deliver or communicate results in the afternoon.</li>
+                  </ol>
+                  <p>Repeat and retest!</p>
+            </div>
+      </div>
 </div>
-</div>
-</div>
-</section>
 
 Unmoderated testing allowed us to get some rest while the tests ran overnight. It was the fastest way to test prototypes or live content and was flexible enough to recruit some specialized audiences. We also found that if you spend a little time trying your task scenarios out on friends or family first, you may find that people interpret the task in unexpected ways. Even when a task is interpreted differently, you can still learn a lot about the participant’s mental model.
 
@@ -78,69 +70,56 @@ In this unmoderated test video, the participant draws their own conclusions when
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="/images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
-		<source type="video/mp4" src="/images/design-research/design-research-unmoderated-1080x600-en.mp4" />
+	<video poster="../../../images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
+		<source type="video/mp4" src="../../../images/design-research/design-research-unmoderated-1080x600-en.mp4" />
 		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
 	</video>
-
-<figcaption>
-<details id="inline-captions">
-				<summary>Transcript: Unmoderated testing: participant interprets task</summary>
-
-<p class="wet-boew-vd"><b>Title:</b> Unmoderated testing: participant interprets task</p>
-<p class="wet-boew-vd">A screen capture of the Canada.ca financial support page with a list of links. </p>
-
-  <p>
-<span class="wb-tmtxt" data-begin="04.00s" dur="03.98s">
-    <b>Participant 1:</b> Your home daycare, I think</span>
-
-<span class="wb-tmtxt" data-begin="08.00s" dur="03.98s">would be considered a business for sure.</span>
-</p>
-
-<p>
-<span class="wb-tmtxt" data-begin="12.00s" dur="03.98s">Um, I’m going to go ahead and click “For businesses”</span>
-</p>
-
-
-
-</details>
-</figcaption>
-
+      <figcaption>
+            <details id="inline-captions">
+			<summary>Transcript: Unmoderated testing: participant interprets task</summary>
+                  <p class="wet-boew-vd"><b>Title:</b> Unmoderated testing: participant interprets task</p>
+                  <p class="wet-boew-vd">A screen capture of the Canada.ca financial support page with a list of links.</p>
+                  <p>
+                        <span class="wb-tmtxt" data-begin="04.00s" data-dur="03.98s"><b>Participant 1:</b> Your home daycare, I think</span>
+                        <span class="wb-tmtxt" data-begin="08.00s" data-dur="03.98s">would be considered a business for sure.</span>
+                        <span class="wb-tmtxt" data-begin="12.00s" data-dur="03.98s">Um, I’m going to go ahead and click “For businesses”</span>
+                  </p>
+            </details>
+      </figcaption>
+</figure>
 {:/nomarkdown}
 
 As the situation stabilized, research activities became larger and aligned to upcoming announcements. Larger projects, like the Canada Emergency Response Benefit (CERB) underwent many rounds of testing and prototyping.
 
 <section>
-<div class="row">
-  <div class="col-xs-12 col-sm-6 col-md-8">
-
-
-            <h3>Iterations of the Canada Emergency Response Benefit (CERB)</h3>
-            <dl class="dl-horizontal">
-                <dt>March 27</dt>
-                <dd>First test of CERB prototype with eligibility checkboxes</dd>
-                <dt>March 30</dt>
-                <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC</dd>
-                <dt>March 31, April 1</dt>
-                <dd>Retests of triage page</dd>
-                <dt>April 6</dt>
-                <dd>CERB goes live</dd>
-                      <dt>April 6,8</dt>
-                      <dd>Retests of live content</dd>
-                            <dt>April 9</dt>
-                            <dd>Test of CRA multi-page prototype with checkboxes</dd>
-                                  <dt>April 16 to 24</dt>
-                                  <dd>Retests of CRA prototype</dd>
-                                        <dt>May 2</dt>
-                                        <dd>CRA multi-page design goes live</dd>
-                                              <dt>May 22,25</dt>
-                                              <dd>Test of ESDC prototype with revised CERB content</dd>
-                                                    <dt>June 3</dt>
-                                                    <dd>Revised ESDC page goes live</dd>
-            </dl>
-              </div>
-              </div>
-        </section>
+      <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-8">
+                  <h3>Iterations of the Canada Emergency Response Benefit (CERB)</h3>
+                  <dl class="dl-horizontal">
+                        <dt>March 27</dt>
+                        <dd>First test of CERB prototype with eligibility checkboxes</dd>
+                        <dt>March 30</dt>
+                        <dd>Page purpose changed to being a triage tool to split applications between CRA and ESDC</dd>
+                        <dt>March 31, April 1</dt>
+                        <dd>Retests of triage page</dd>
+                        <dt>April 6</dt>
+                        <dd>CERB goes live</dd>
+                        <dt>April 6,8</dt>
+                        <dd>Retests of live content</dd>
+                        <dt>April 9</dt>
+                        <dd>Test of CRA multi-page prototype with checkboxes</dd>
+                        <dt>April 16 to 24</dt>
+                        <dd>Retests of CRA prototype</dd>
+                        <dt>May 2</dt>
+                        <dd>CRA multi-page design goes live</dd>
+                        <dt>May 22,25</dt>
+                        <dd>Test of ESDC prototype with revised CERB content</dd>
+                        <dt>June 3</dt>
+                        <dd>Revised ESDC page goes live</dd>
+                  </dl>
+            </div>
+      </div>
+</section>
 
 ## 5. Using moderated testing strategically
 
@@ -148,7 +127,43 @@ We reserved moderated testing for when we needed specialized audiences like busi
 
 A moderator can encourage participants to continue on a task where they may have otherwise given up in an unmoderated test.
 
+In this moderated testing video, a participant is being reassured that selecting an option will not reveal any personal banking information.
 
+{::nomarkdown}
+
+<figure class="wb-mltmd wb-init video cc_on">
+	<video poster="../../../images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
+		<source type="video/mp4" src="../../../images/design-research/design-research-moderated-1080x600-en.mp4" />
+		<track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
+	</video>
+      <figcaption>
+            <details id="inline-captions-2">
+                  <summary>Transcript: Moderated testing: interacting with a participant</summary>
+                  <p class="wet-boew-vd"><b>Title:</b> Moderated testing: interacting with a participant</p>
+                  <p class="wet-boew-vd">A screen capture of a Canada.ca page with checkboxes that can be selected. </p>
+                  <p>
+                        <span class="wb-tmtxt" data-begin="04.00s" data-dur="03.98s"><b>Participant 1:</b> "Ok direct deposit payments take 3 business</span>
+                        <span class="wb-tmtxt" data-begin="08.00s" data-dur="03.98s">days, a cheque takes about 10 business days. Is your direct deposit information</span>
+                        <span class="wb-tmtxt" data-begin="12.00s" data-dur="03.98s">
+                              up to date with the CRA?"
+                              <br>
+                              "If I click these, it won’t like
+                        </span>
+                        <span class="wb-tmtxt" data-begin="16.00s" data-dur="03.98s">
+                              actually affect my stuff, right?"
+                              <br>
+                              <b>Moderator:</b>"Exactly, I won’t let you do
+                        </span>
+                        <span class="wb-tmtxt" data-begin="20.00s" data-dur="03.98s">
+                              anything that has real consequences."
+                              <br>
+                              <b>Participant 1:</b> "Perfect.
+                        </span>
+                        <span class="wb-tmtxt" data-begin="24.00s" data-dur="08.07s">Alright."</span>
+                  </p>
+                  </details>
+      </figcaption>
+</figure>
 
 ## Key lessons learned
 

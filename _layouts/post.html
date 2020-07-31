@@ -1,78 +1,18 @@
 ---
 layout: default
 ---
-
-<style>
-
-abbr {
-  text-decoration: none !important;
-}
-
-.blogholder {
-
-	display: inline-block !important;
-	position: relative;
-	width: 52em;
-
-}
-
-.border
-	{
-
-	border: 2px solid #ccc;
-
-}
-
-
-.pquote {
-
-    float: right;
-    width: 500px;
-    font-size: 30px !important;
-    line-height: 1.1em;
-    padding: 25px;
-}
-
-blockquote
-
-{
-    margin: 10px;
-	margin-left: 25px;
-
-}
-
-blockquote p {
-
-color: #3095B5 !important;
-
-}
-
-.quotesig {
-
-	font-size: 14px;
-
-}
-
-
-</style>
-
 <div class="blogholder img-responsive">
-
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" id="wb-cont" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.pubdate }}</time>{% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-</article>
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+      <h1 class="post-title" id="wb-cont" itemprop="name headline">{{ page.title }}</h1>
+      <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.pubdate }}</time>{% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    </header>
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+  </article>
 </div>
-
-<nav role="navigation">
+<nav>
   <h2 class="wb-inv">Document navigation</h2>
   <ul class="pager">
   {% assign posts=site.posts | where:"lang", page.lang %}
