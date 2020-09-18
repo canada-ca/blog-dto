@@ -2,7 +2,7 @@
 layout: post
 title:  "Using expand/collapse for making choices"
 pubdate: "September 18, 2020"
-langpage: "https://blogue.canada.ca/2020/09/17/afficher-masquer.html"
+langpage: "https://blogue.canada.ca/2020/09/18/afficher-masquer.html"
 date:   2020-09-18
 published: true
 draft: true
