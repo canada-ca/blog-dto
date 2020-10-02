@@ -24,7 +24,7 @@ To prepare this original study, Gerry worked with an international team, includi
 
 People were given the list of approximately 70 tasks in a random order. They were asked to vote on the 5 tasks that were most important to them when interacting with the government or WHO. Once the voting patterns became clear, Gerry’s team  ran the analysis and produced results that organized the top task list  in terms of how frequently people chose specific COVID-19 tasks.
 
-## Applying it to Canada
+### Applying it to Canada
 
 After that, Norway, Canada, Ireland and New Zealand ran custom versions of the original WHO study on their own sites, with Gerry’s help. We added some extra tasks to ours to reflect the Canadian context (financial support, for example). 
 
@@ -63,6 +63,8 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 </details>
 <br>
 
+#### Taking a closer look a the results
+
 Seven tasks accounted for 25% of the votes. This number of tasks in the top 25% is high in a top task study. It’s more common to see just a few tasks emerge as clear leaders. However, given that the pandemic was still fairly new, we weren’t surprised to see the wide variety of topics people wanted to know more about. The WHO and the other countries all saw a similar 7 to 10 top tasks emerge.
 
 Several of the top tasks confirmed what we were seeing in the analytics and call centre data (for example, there was more interest in financial support than the number of COVID-19 cases).
@@ -70,6 +72,8 @@ Several of the top tasks confirmed what we were seeing in the analytics and call
 Some of the tasks that made it into the top 7 did surprise us though. We hadn’t expected  to see “latest updates” and “government strategy” so high in people’s priority list. 
 
 When we took a closer look, we realized that some news and announcements were available on the site, but they were buried at the bottom of the Outbreak update page. Analytics had shown that they weren’t used much in that location. The study revealed this navigation problem to us and highlighted the importance of pulling together COVID-19 news from across the government.
+
+#### Actions we took based on the results
 
 To respond to this need, Service Canada’s principal publisher team worked with the Privy Council Office and the DTO to develop and launch a COVID-19 Latest Announcements page. The page contains the latest news and announcements related to the pandemic from all departments. The content for the page is pulled automatically from the GCNewsroom. This reduces the maintenance burden for web teams. The day the link to the new page was placed on the main Coronavirus page, it became one of the top ten clicked links on that landing page. 
 
