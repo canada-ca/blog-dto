@@ -32,7 +32,7 @@ In Canada, the invitation to participate in the study was randomly presented to 
 
 Again Gerry’s team ran the analysis and ranked the top tasks. 
 
-## Canadian results
+### Canadian results
 
 Top results (25% of votes), 7 top tasks on Canada.ca:
 
