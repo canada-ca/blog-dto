@@ -91,6 +91,7 @@ Even during a pandemic, evidence from Canadians should drive decisions and chang
 * [How we’re optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
 * [What really matters: focusing on top tasks](https://alistapart.com/article/what-really-matters-focusing-on-top-tasks)
 * [Gerry McGovern’s website](http://www.gerrymcgovern.com/)
+* [Labelling study: which words work best](https://blog.canada.ca/2020/10/02/labelling-study.html)
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 
