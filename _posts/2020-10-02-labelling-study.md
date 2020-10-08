@@ -8,7 +8,8 @@ published: true
 draft: true
 lang: en
 alt: "Labelling study: which words work best"
-description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks."
+description: "How to choose labels for categories and links on a page, and how they improve the ‘findability’ of the top tasks. Results of the labelling study for the Canada.ca/Coronavirus page."
+<meta name="keywords" content="labels, top task, naming links, identifying categories, UX, improving findability, design research, user research, content design, identifying clear labels"/>
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks. 
 
