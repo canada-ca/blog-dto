@@ -87,7 +87,7 @@ We knew there was a chance we could receive unsolicited personal information eve
 * National Security Management Division, Health Canada
 * IT Security, Health Canada
  
-Based on the advice we got, the DTO created a process to strip personal information from incoming feedback. This helped reduce another element of manual processing. The more parts we can automate, the more time teams will have to focus on improvements.
+Based on the advice we got, the DTO created a process to automatically strip personal information from incoming feedback. This helped reduce another element of manual processing. The more parts we can automate, the more time teams will have to focus on improvements.
 
 ## What we found
 
