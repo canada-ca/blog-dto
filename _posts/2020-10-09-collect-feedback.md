@@ -23,7 +23,7 @@ In May 2020, a few teams collaborated to launch a pilot study of a widget for ge
 * Principal Publisher
 * Privy Council Office 
 
-The page feedback widget is just a question that sits at the bottom of a page, where the ‘Report a problem’ widget usually is. It asks, “Did you find what you were looking for?” Users can answer yes or no. If they answer no, they have the option to provide more details.
+The page feedback widget is just a question that sits at the bottom of a page, where the ‘Report a problem’ widget usually is. It asks, “Did you find what you were looking for?”. Users can answer yes or no. If they answer no, they have the option to provide more details.
 
 This simple widget is a powerful tool for content owners. It lets them passively monitor the effectiveness of their content. It provides regular insight into whether content is working as intended, and if not, why. 
 
