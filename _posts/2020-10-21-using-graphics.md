@@ -67,7 +67,7 @@ They used icons and simple illustrations on their websites and downloadable tool
 
 Public awareness campaigns were built around imagery as they weren’t always able to translate all digital content into every official language.
 
-Using images let NWT balance language accessibility with technical accessibility, and ensure that everyone got the message.This meant they were able to convey the most crucial, basic concepts to all of their audiences, regardless of their oral or written language capabilities. 
+Using images let NWT balance language accessibility with technical accessibility, and ensure that everyone got the message. This meant they were able to convey the most crucial, basic concepts to all of their audiences, regardless of their oral or written language capabilities. 
 
 ## Final word
 
