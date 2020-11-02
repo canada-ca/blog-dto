@@ -44,7 +44,7 @@ Deploying this template as well as the GC design system provides a more usable, 
 Starting with user-tested templates, patterns and design principles helps teams to get going quickly. It helps save time and money.  We create these resources to help teams design digital content focused on the task people are trying to accomplish. 
 
 * [Template and pattern library for Canada.ca](https://www.canada.ca/en/government/about/design-system/pattern-library.html)
-* [Canada.ca Content Style Guide](https://www.canada.ca/en/government/about/design-system/pattern-library.html)
+* [Canada.ca Content Style Guide](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html)
 
 ## Final word
 
