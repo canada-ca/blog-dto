@@ -78,7 +78,7 @@ main {
 }
 
 .container-fluid .row {
-	padding: 0 0 4em 0;
+	padding: 0 0 1em 0;
 }
 
 .container-fluid .row:nth-child(even) {
@@ -86,15 +86,19 @@ main {
 }
 
 .title-timeline {
-	margin-bottom: 60px;
+	/* margin-bottom: 60px; */
 	padding: 0;
-	border-bottom: 1px solid #ccc;
+	/* border-bottom: 1px solid #ccc; */
 }
 
-.title-timeline p {
+/* .title-timeline p {
 	margin: 0 auto;
 	font-size: 16px;
 	max-width: 400px;
+} */
+
+.drk-line {
+	    border-top: 1px solid #ddd;
 }
 
 .timeline-title {
