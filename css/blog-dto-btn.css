@@ -254,6 +254,17 @@ main {
 	font-size: 18px !important;
 }
 
+/* design system image styling */
+.pattern-demo {
+	padding: 18px;
+	border: 1px solid #e3e3e3;
+	box-shadow: 0px 0px 10px #ddd;
+}
+
+.pattern-demo.no-pddng {
+	padding: 0px !important;
+}
+
 @media only screen and (min-width: 992px) {
 	.blog-list {
 		margin-top: 1.8em;
