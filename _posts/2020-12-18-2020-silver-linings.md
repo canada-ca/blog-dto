@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Silver linings from 2020"
-pubdate: "December 18, 2020"
-langpage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
+langpage: "https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html"
 date:   2020-12-18
 published: true
 draft: true
@@ -24,7 +23,7 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
  
 <p>- <b>Itthiphol (Bob) Piromnam, Finance Canada</b></p>
 
-<p>2.  “2020 has not been easy. I have watched as colleagues were battered by the isolation of lockdowns, the stress and sameness of working full time from home and the guilt of abandoning home schooling in favour of far too many hours of screen time for their kids. </p>
+<p>2. “2020 has not been easy. I have watched as colleagues were battered by the isolation of lockdowns, the stress and sameness of working full time from home and the guilt of abandoning home schooling in favour of far too many hours of screen time for their kids. </p>
 
 <p>But I’ve also been amazed at their resilience and the enduring fight they bring day in and day out as they struggle through exhaustion, when the adrenaline keeping them going has long since been spent. And it occurs to me that it is through hardship that the strongest bonds of friendship are built. </p>
 
