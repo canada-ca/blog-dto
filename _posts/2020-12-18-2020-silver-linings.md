@@ -53,7 +53,9 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>- <b>Lana Stewart, Digital Transformation Office</b></p>
 
-<p>7. "It has strengthened personal relationships with our team members in the regions. Remote work has placed us all on a level playing field. We can no longer rely on hallway conversations and have moved those interactions to platforms like Slack and MS Teams. Suddenly our two regional staff are just as present in our “water cooler” discussions that happen in our #random channel. They are now much more socially connected with the other 15 or so people in the team.”</p>
+<p>7. “It has been a case study on remote work that has convinced senior management that employees can work effectively from home more often. We're all doing it and if anything our productivity has gone up.</p>
+ 
+<p>It has strengthened personal relationships with our team members in the regions. Remote work has placed us all on a level playing field. We can no longer rely on hallway conversations and have moved those interactions to platforms like Slack and MS Teams. Suddenly our regional staff are just as present in our “water cooler” discussions that happen in our #random channel. They are now much more socially connected with the other people in the team.”</p>
 
 <p>- <b>Fiona Currie, Agriculture and Agri-Food Canada</b></p>
 
