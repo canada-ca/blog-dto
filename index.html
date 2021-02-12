@@ -103,19 +103,8 @@ title: Canada.ca blog
 
 <table id="blog-articles" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'>
 
-<p>
-	Include the appropriate scope="col" or scope="row within the <th> tag
-	Place a descriptive <h*> title tag directly above a table when it does not contain a <caption> tag
-	Include a visible table caption when the <h*> title is not directly above the table, or if multiple tables appear under an <h*> tag
-	Use a <caption> tag on all tables to ensure they  validate, and are accessible and descriptive (especially on statistics or financial pages that contain multiple tables)
-	Use .wb-inv (as needed) to make the table caption invisible, yet ensure accessibility
-	Understand and implement the related supporting principles
-	</p>
-
-
 <h2>Search for articles</h2>
 <table class="table">
-<caption class="wb-inv">See all articles</caption>
   <thead>
    <tr>
      <th scope="col">Article title</th>
@@ -124,11 +113,25 @@ title: Canada.ca blog
    </tr>
   </thead>
   <tbody>
-   <tr>
-    <td><a class="post-link" href="/blog-dto/2021/02/04/data-to-action.html">Using data to make better content</a></td>
-		<td>We wanted to share some of our most recent experiences with using data to make important content work better.</td>
-		<td>[2021-02-04]</td>
-   <tr>
+
+		<!-- ======================================= -->
+
+		<tr>
+			<td class="blog-title"><a class="post-link" href="/blog-dto/2021/02/04/data-to-action.html">Using data to make better content</a></td>
+			<td class="blog-summary">We wanted to share some of our most recent experiences with using data to make important content work better.</td>
+			<td class="blog-date">[2021-02-04]</td>
+		<tr>
+
+		<!-- ======================================= -->
+
+		<tr>
+			<td class="blog-title"><a class="post-link" href="/blog-dto/2020/12/18/2020-silver-linings.html">Silver linings from 2020</a></td>
+			<td class="blog-summary">As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year.</td>
+			<td class="blog-date">[2020-12-18]</td>
+		<tr>
+
+		<!-- ======================================= -->
+
   </tbody>
 </table>
 
@@ -160,13 +163,6 @@ title: Canada.ca blog
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-// Table caption:
-<table class="table">
-  <caption>Caption text</caption>
-    <thead>...</thead>
-    <tbody>...</tbody>
-</table>
 
 <!-- other example -->
 
