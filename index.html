@@ -18,7 +18,7 @@ title: Canada.ca blog
 
 <p>Evidence and insights from the Canada.ca team.</p>
 
-<h2 class="wb-inv">Newest articles - <span style="red">site.posts</a></h2>
+<h2 class="wb-inv">Newest articles</h2>
 
 <!-- Main loop of articles -->
 <div class="row">
@@ -81,13 +81,13 @@ title: Canada.ca blog
 
 <div class="clearfix"></div>
 
-<h2>Search all blog articles</h2>
+<h2>Search all blog articles - <span style="red">nopaging, adding ID and initializing</a></h2>
 
 <div class="table-responsive">
 
 <!--<table class="wb-tables table table-striped table-hover" data-wb-tables="{ &quot;paging&quot;: true, &quot;info&quot;: true  }">-->
 
-<table class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false }'>
+<table id="blog-articles" class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false, "paging" : false }'>
 
 <thead>
 <tr>
@@ -127,7 +127,7 @@ title: Canada.ca blog
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js"></script>
 -->
 
-<!--
+
 <script>
 
  $(document).ready( function () {
@@ -135,7 +135,7 @@ title: Canada.ca blog
  } );
 
 </script>
--->
+
 
 <!-- ========================================= -->
 <!-- ========================================= -->
