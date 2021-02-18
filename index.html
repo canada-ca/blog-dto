@@ -18,7 +18,7 @@ title: Canada.ca blog
 
 <p>Evidence and insights from the Canada.ca team.</p>
 
-<h2 class="wb-inv">Newest articles</h2>
+<h2 class="wb-inv">Newest articles - <span style="red">site.posts</a></h2>
 
 <!-- Main loop of articles -->
 <div class="row">
@@ -99,7 +99,7 @@ title: Canada.ca blog
 
 <tbody>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <tr>
 <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
 <td>{{ post.description }}</td>
