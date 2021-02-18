@@ -91,19 +91,21 @@ title: Canada.ca blog
 
 <thead>
 <tr>
-<th>Name</th>
-<th>Source</th>
-<th>Description</th>
+<th>Article name</th>
+<th>Summary</th>
+<th>Date</th>
 </tr>
 </thead>
 
 <tbody>
 
+{% for post in paginator.posts %}
 <tr>
-<td><a href="https://blog.canada.ca/2020/12/18/2020-silver-linings.html">Silver linings from 2020</a></td>
-<td>Blog post</td>
-<td>It almost feels like an understatement to say that 2020 has been a challenging year filled with a lot of change. Despite the challenges, there have been many silver linings.</td>
+<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+<td>{{ post.description }}</td>
+<td>{{ post.date | date: "%F" }}</td>
 </tr>
+{% endfor %}
 
 <!--
 <tr>
