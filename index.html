@@ -175,7 +175,7 @@ title: Canada.ca blog
 <tr>
 <td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
 <td>{{ post.description }}</td>
-<td style="white-space:nowrap;">{{ post.date | date: "%F" }}</td>
+<td style="white-space:nowrap;">{{ post.date | date_to_long_string}}</td>
 </tr>
 {% endfor %}
 
