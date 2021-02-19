@@ -40,7 +40,7 @@ title: Canada.ca blog
 
 <h2 class="wb-inv">Newest articles</h2>
 
-
+<p style="color:red;">limit:3</p>
 
 
 
@@ -48,7 +48,7 @@ title: Canada.ca blog
 
 		<!-- ======================================== -->
 
-		{% for post in site.posts %}
+		{% for post in site.posts limit:3 %}
 	  <div class="col-lg-4 col-md-6">
 
       <div class="hght-inhrt">
