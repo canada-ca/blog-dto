@@ -59,7 +59,7 @@ title: Canada.ca blog
 
         <p>{{ post.description }}</p>
 
-				<p class="small"><time datetime="[{{ post.date | date: "%F" }}]" class="nowrap">[{{ post.date | date: "%F" }}]</time></li></p>
+				<p class="small"><time datetime="[{{ post.date | date_to_long_string}}]" class="nowrap">[{{ post.date | date_to_long_string}}]</time></li></p>
 
       </div><!-- .hght-inhrt -->
 
