@@ -50,32 +50,54 @@ title: Canada.ca blog
 <!-- end main loop of articles -->
 
 
+
+
+
+
+
+<ul class="pagination">
+  <li><a href="#" rel="prev">Previous</a></li>
+  <li><a href="#">1 <span class="wb-inv">Go to Page 1</span></a>
+  <li><a href="#">2 <span class="wb-inv">Go to Page 2</span></a></li>
+  <li><a href="#" rel="next">Next</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
 <!-- Pagination links "Prev 1, 2, 3 Next" style -->
 
 <div class="row">
 {% if paginator.total_pages > 1 %}
+
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
-  {% else %}
-  <!--  <span>&laquo; Prev</span> -->
-  {% endif %}
 
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span>{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
+{% if paginator.previous_page %}
+<a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+{% else %}
+{% endif %}
 
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
-  {% else %}
-  <!--  <span>Next &raquo;</span> -->
-  {% endif %}
+{% for page in (1..paginator.total_pages) %}
+{% if page == paginator.page %}
+<span>{{ page }}</span>
+{% elsif page == 1 %}
+<a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+{% else %}
+<a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+{% endif %}
+{% endfor %}
+
+{% if paginator.next_page %}
+<a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+{% else %}
+<!--  <span>Next &raquo;</span> -->
+{% endif %}
 </div>
 {% endif %}
 </div>
