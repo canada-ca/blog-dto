@@ -40,8 +40,6 @@ title: Canada.ca blog
 
 <h2 class="wb-inv">Newest articles</h2>
 
-<p style="color:red;font-style:bold;">IMAGE BORDERS</p>
-
 
 
 <div class="row wb-eqht main-card">
@@ -59,7 +57,7 @@ title: Canada.ca blog
 
         <p>{{ post.description }}</p>
 
-				<p class="small"><time datetime="[{{ post.date | date_to_long_string}}]" class="nowrap">[{{ post.date | date_to_long_string}}]</time></li></p>
+				<p class="small"><time datetime="[{{ post.date | date_to_long_string}}]" class="nowrap">[{{ post.date | date_to_long_string}}]</time></p>
 
       </div><!-- .hght-inhrt -->
 
@@ -117,6 +115,8 @@ title: Canada.ca blog
 
 
 <!-- Pagination links "Prev 1, 2, 3 Next" style -->
+<!-- removing pagination -->
+<!--
 
 <div class="row">
 {% if paginator.total_pages > 1 %}
@@ -146,6 +146,8 @@ title: Canada.ca blog
 </div>
 {% endif %}
 </div>
+-->
+
 
 <!-- end of pagination links -->
 
