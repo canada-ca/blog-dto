@@ -1,0 +1,180 @@
+---
+date: "2021-02-11"
+description: Evidence and insights from the Canada.ca team.
+lang: en
+layout: blog
+title: Canada.ca blog
+---
+
+
+<!--/* Hide Nav; Hide Right Rail /*-->
+
+<main role="main" property="mainContentOfPage" class="container">
+
+
+<h1 property="name" id="wb-cont" dir="ltr">Canada.ca blog</h1>
+
+
+
+
+<p>Evidence and insights from the Canada.ca team.</p>
+
+<h2 class="wb-inv">Newest articles</h2>
+
+<!-- Main loop of articles -->
+<div class="row">
+
+	<div class="wb-eqht">
+
+		{% for post in paginator.posts %}
+		<section class="col-md-7 col-sm-8 col-xs-12 blog-list">
+
+			<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+			<p>{{ post.description }}</p><p><small>[{{ post.date | date: "%F" }}]</small> </p>
+
+		</section>
+
+		<section class="col-md-5 col-sm-4 hidden-xs blog-list blog-photo">
+
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> <img src="/blog-dto/thumbs/{{ post.date | date: "%F" }}.png" alt="{{ post.alt }}" class="img-responsive thumbnail"></a>
+
+		</section>
+
+	</div><!-- .wb-eqht -->
+
+</div><!-- .row -->
+
+{% endfor %}
+
+<div class="clearfix"></div>
+<!-- end main loop of articles -->
+
+
+<!-- Pagination links "Prev 1, 2, 3 Next" style -->
+
+<div class="row">
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
+  {% else %}
+  <!--  <span>&laquo; Prev</span> -->
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span>{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next</a>
+  {% else %}
+  <!--  <span>Next &raquo;</span> -->
+  {% endif %}
+</div>
+{% endif %}
+</div>
+
+<!-- end of pagination links -->
+
+<!-- ========================================= -->
+<!-- ========================================= -->
+
+
+<div class="clearfix"></div>
+
+<h2>Search all blog articles</h2>
+
+<div class="table-responsive">
+
+<table class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false, "paging" : false, "info": false }'>
+
+<thead>
+<tr>
+<th scope="col" class="col-sm-4 col-md-4 col-lg-4">Article name</th>
+<th scope="col" class="col-sm-6 col-md-6 col-lg-6">Summary</th>
+<th scope="col" class="col-sm-2 col-md-2 col-lg-2">Date</th>
+</tr>
+</thead>
+
+<tbody>
+
+{% for post in site.posts %}
+<tr>
+<td><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+<td>{{ post.description }}</td>
+<td style="white-space:nowrap;">{{ post.date | date: "%F" }}</td>
+</tr>
+{% endfor %}
+
+<!--
+<tr>
+<td><a href="https://blog.canada.ca/2020/12/18/2020-silver-linings.html">Silver linings from 2020</a></td>
+<td>Blog post</td>
+<td>It almost feels like an understatement to say that 2020 has been a challenging year filled with a lot of change. Despite the challenges, there have been many silver linings.</td>
+</tr>
+-->
+
+</tbody>
+
+</table>
+
+</div><!-- .table-responsive -->
+
+
+<!--
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css" />
+
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js"></script>
+-->
+
+<!--
+<script>
+
+ $(document).ready( function () {
+		 $('#blog-articles').DataTable();
+ } );
+
+</script>
+-->
+
+
+
+<!-- ========================================= -->
+<!-- ========================================= -->
+<!-- ========================================= -->
+
+
+
+
+
+
+
+
+
+
+		<div>
+					<div class="col-sm-8">
+			    <section>
+			      <h2>Subscribe</h2>
+			      <ul class="mrgn-tp-lg">
+			        <li>
+			          <a href="https://blog.canada.ca/feed.xml"><img src="https://blog.canada.ca/images/feed-icon-14x14.png" alt="ATOM" class="mrgn-rght-sm">ATOM</a>
+			        </li>
+							<li>
+								<a href="https://blog.canada.ca/pages/signup.html">Sign up for our mailing list</a>
+							</li>
+			      </ul>
+			    </section>
+					</div>
+		</div>
+
+
+</div>
+</div>
+<div class="clearfix"></div>
