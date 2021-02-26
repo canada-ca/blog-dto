@@ -12,7 +12,7 @@ title: Canada.ca blog
 <main role="main" property="mainContentOfPage" class="container">
 
 
-<h1 property="name" id="wb-cont" dir="ltr">Canada.ca blog</h1>
+<h1 property="name" id="wb-cont" dir="ltr" class="provisional gc-thickline">Canada.ca blog</h1>
 
 <p>Evidence and insights: use the guidance from the <a href="https://www.canada.ca/en/government/about/design-system.html">Canada.ca design system</a> to improve your web content.</p>
 
@@ -66,6 +66,40 @@ title: Canada.ca blog
 
 <h2>Search all blog posts</h2>
 
+<div class="wb-filter">
+
+	<section id="patterns" class="grouped">
+
+		<ul class="list-unstyled">
+
+			{% for post in site.posts %}
+			<li>
+			<h2 class="h3"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+			<p>{{ post.description }}</p>
+			<p class="small">{{ post.date | date_to_long_string}}</p>
+			</li>
+			{% endfor %}
+
+<!--
+			<li>
+			<h2 class="h3"><a href="https://blog.canada.ca/2020/05/26/descriptive-link-text.html">A case for descriptive link text</a></h2>
+			<p class="small">Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily.</p>
+			</li>
+-->
+
+		</ul>
+
+	</section>
+
+</div>
+
+
+
+
+
+
+<!--
+
 <div class="table-responsive">
 
 <table class="wb-tables table table-striped table-hover" data-wb-tables='{ "ordering" : false, "paging" : false, "info": false }'>
@@ -92,7 +126,7 @@ title: Canada.ca blog
 
 </table>
 
-</div><!-- .table-responsive -->
+</div>--><!-- .table-responsive -->
 
 
 
