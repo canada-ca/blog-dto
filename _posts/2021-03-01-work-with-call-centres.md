@@ -7,7 +7,7 @@ published: true
 draft: true
 lang: en
 alt: "The importance of working with call centres"
-description: "Whether you run an in-house call center or outsource your call center to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind."
+description: "Whether you run an in-house call centre or outsource your call centre to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind."
 ---
 “Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints? 
 
@@ -17,7 +17,7 @@ Are you working with your call centres?
 
 Call centre agents are privy to the good stuff – all of your customers’ unfiltered complaints, grievances, praise, product blessings, and much, much more. They are an existing source of valuable insights from your many audiences. 
 
-Whether you run an in-house call center or outsource your call center to a trusted partner, **agents are the key** to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.
+Whether you run an in-house call centre or outsource your call centre to a trusted partner, **agents are the key** to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.
 
 Here is an example of how working with call centre staff helped us make quick content improvements to deliver better service on Canada.ca.
 
