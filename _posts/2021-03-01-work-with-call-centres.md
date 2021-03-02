@@ -23,7 +23,7 @@ Here is an example of how working with call centre staff helped us make quick co
 
 ## Call centre data is design research
 
-At the end of March 2020, there were a lot of calls and emails coming into all call centres about Employment Insurance (EI) and the Canada Emergency Response Benefit (CERB). The highest volumes were coming into the Government of Canada’s main 1-800 O Canada number and email managed by Service Canada. 
+At the end of March 2020, there were a lot of calls and emails coming into all call centres about Employment Insurance (EI) and the Canada Emergency Response Benefit (CERB). Very high volumes of calls were coming into the Government of Canada’s main 1-800 O Canada number and email managed by Service Canada. 
 
 The fact that call centres were swamped was making the news, as worried Canadians waited for hours to get help with their cases.  This called for swift action. 
 
