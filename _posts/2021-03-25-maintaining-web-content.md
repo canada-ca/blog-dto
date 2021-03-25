@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maintaining and improving web content through its life cycle"
-langpage: "https://blogue.canada.ca/2021/03/035/maintenir-le-contenu-web.html"
+langpage: "https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html"
 date:   2021-03-25
 published: true
 draft: true
