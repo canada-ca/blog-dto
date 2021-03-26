@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Taking steps to new design patterns"
 gradelevel: 11.0
@@ -9,7 +17,7 @@ published: false
 lang: en
 description: One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks.
 ---
-One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the product design team at Treasury Board Secretariat (TBS) created a simplified steps pattern for topic pages to organize a group of related top tasks in sequence.  
+One of the key aspects of the Canada.ca design is a consistent template for topic pages to help citizens find and start their tasks. As an outcome of our optimization project for starting a business with Innovation, Science and Economic Development Canada (ISED) and Canada Revenue Agency (CRA), the product design team at Treasury Board Secretariat (TBS) created a simplified steps pattern for topic pages to organize a group of related top tasks in sequence.
 
 ## Topic pages fill the cracks between departments
 
@@ -30,7 +38,7 @@ Clearly, starting a business is pretty complex. The essential steps mandated by 
 
 ## Conveying sequence in simplicity
 The solution was to pare down and describe only the essential tasks in a step-by-step process. We explain how we came to this understanding in a separate post:
-[Helping Canadians start a business](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html).  
+[Helping Canadians start a business](https://canada-ca.github.io/category/2017/08/15/Starting_a_business.html).
 
 Once we had struck a balance with a set of steps that would be simple enough to follow and broad enough to cover the key things new businesses legally are required to do, we were ready to tackle the design. We built a working prototype of the site with the new pattern design and refined it through several iterations, having people walk through it and discussing it with our teams and experts.
 
@@ -45,7 +53,7 @@ The live Starting a business page matches our final working prototype very close
 
 We were excited when we saw how comfortable the first few participants were with the steps pattern on the Starting a business topic page. They didn't have to spend time reading links and descriptions, instead scanning the page to see which numbered link was where they were in the process. The steps gave them confidence that they wouldn't miss something crucial, and they could come back to the topic page after completing each step.
 
-Web analytics from before (February 4 to April 4, 2017) and after (May 26 to July 24, 2017) we launched the updated Starting a business page showed these improvements:  
+Web analytics from before (February 4 to April 4, 2017) and after (May 26 to July 24, 2017) we launched the updated Starting a business page showed these improvements:
 - 66% fewer searches for the main steps to register a business <sup id="footnotemark1"><a class="fn-lnk" href="#myfootnote1"><span class="wb-invisible">Link to footnote </span>1</a></sup>
 - 10 times more people now get to BizPal, a wizard to help find required permits and licences<sup id="footnotemark2"><a class="fn-lnk" href="#myfootnote2"><span class="wb-invisible">Link to footnote </span>2</a></sup>
 - 3 times more people now find business support and financing on the start a business steps page<sup id="footnotemark3"><a class="fn-lnk" href="#myfootnote3"><span class="wb-invisible">Link to footnote </span>3</a></sup>

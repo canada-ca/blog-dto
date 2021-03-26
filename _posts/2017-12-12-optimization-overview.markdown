@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "How we're optimizing Canada.ca top tasks"
 pubdate: "December 12, 2017"
@@ -10,7 +18,7 @@ alt: Shows the steps of how we optimize Canadadotca. Discovery. Baseline test. D
 description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
 ---
 
-Canada.ca has always been about making it simpler and easier for Canadians to find and understand the Government of Canada information and services they need. Recent testing is showing that while people are finding what they are looking for, they still can’t understand what they’re reading once they get there.  While there is still work to do on task findability, we are shifting the focus now to task success.  
+Canada.ca has always been about making it simpler and easier for Canadians to find and understand the Government of Canada information and services they need. Recent testing is showing that while people are finding what they are looking for, they still can’t understand what they’re reading once they get there.  While there is still work to do on task findability, we are shifting the focus now to task success.
 
 Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money. Through these projects, we are tackling the root cause of most usability problems people have: poorly written, overly complex, and disorganized content, written for public servants instead of the public. The projects are also a great way to apply UX methods in a lean, focused way to demonstrate real improvement.
 
@@ -51,7 +59,7 @@ Teams may occasionally pull in deeper-level specialists. For example, experts fr
 
 ## Usability testing is key
 
-You'll notice that 2 of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of every project. The research is done with participants from across the country performing realistic task scenarios on their own computers, tablets and phones. This kind of research study gives teams valuable measurements of how well tasks are performing, and helps them understand how people are using the content on the site.  
+You'll notice that 2 of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of every project. The research is done with participants from across the country performing realistic task scenarios on their own computers, tablets and phones. This kind of research study gives teams valuable measurements of how well tasks are performing, and helps them understand how people are using the content on the site.
 
 Through moderated usability testing, we gain 2 things:
 

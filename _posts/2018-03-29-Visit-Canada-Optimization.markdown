@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Visit Canada: Optimization"
 pubdate: "March 29, 2018"
@@ -84,7 +92,7 @@ With baseline research in hand, the team redesigned the process to solve the iss
 		<li>none of the above</li>
 	</ul>
 
-</details>    
+</details>
 
 The layout was at times confusing, including links to rules and requirements. We replaced it by a series of questions and answers that help people get to the right answer.
 

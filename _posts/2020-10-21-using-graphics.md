@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Using graphics to bridge language gaps"
 pubdate: "October 21, 2020"
@@ -10,21 +18,21 @@ lang: en
 alt: "Using graphics to bridge language gaps"
 description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
 ---
-Throughout the pandemic, there have been unparalleled levels of collaboration across government to provide the tools Canadians need to stay safe, healthy and informed. 
+Throughout the pandemic, there have been unparalleled levels of collaboration across government to provide the tools Canadians need to stay safe, healthy and informed.
 
 Since June 2020, federal partners have been meeting regularly with web managers in the provinces and territories to coordinate COVID-19 communication efforts between jurisdictions. Together, we are working to provide a better user experience and to reflect Canada's diverse population as much as possible (including seniors, youth, Indigenous peoples, and people from a wide variety of ethnic origins).
 
-In August, the Northwest Territories (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities. 
+In August, the Northwest Territories (NWT) shared how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities.
 
 ## Regional context of the Northwest Territories
 
-The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Of those, 12 communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly. 
+The NWT is a land of diversity which consists of 33 communities spread over 1.3 million kilometers. Of those, 12 communities are fly-in only. With a mix of urban and rural living, the speed and cost for digital infrastructure can vary significantly.
 
 ### Languages
 
 The NWT web team talked about how they are ensuring their government communications materials are created in their 11 different official languages:
 
-* English				
+* English
 * French
 * Chipewyan/Dené
 * Cree
@@ -36,10 +44,10 @@ The NWT web team talked about how they are ensuring their government communicati
 * Inuinnaqtun
 * Inuvialuktun
 
-As you can imagine, creating quality web content quickly is challenging. Applying plain language principles so that everyone can understand is essential. 
+As you can imagine, creating quality web content quickly is challenging. Applying plain language principles so that everyone can understand is essential.
 
-### Other challenges in the NWT 
-* Many Indigenous languages are passed down orally, and written versions often vary between dialects 
+### Other challenges in the NWT
+* Many Indigenous languages are passed down orally, and written versions often vary between dialects
 * Access to translators is limited and turn-around times vary
 * 70% of Indigenous adults are below level 3 of the international functional literacy standard in English
 * The government websites do not support Inuktitut and Tłįchǫ Unicode fonts
@@ -59,15 +67,15 @@ src="/images/NWT-image.png" width="700">
 </details>
 <br>
 
-Through the pandemic, the NWT’s illustrated social media ads (such as Facebook and Instagram) have focused on behavioural change, general hygiene and certain public health orders. 
+Through the pandemic, the NWT’s illustrated social media ads (such as Facebook and Instagram) have focused on behavioural change, general hygiene and certain public health orders.
 
-They used icons and simple illustrations on their websites and downloadable tools such as symptom checker forms. This made it easier to understand the content if the copy wasn’t translated. 
+They used icons and simple illustrations on their websites and downloadable tools such as symptom checker forms. This made it easier to understand the content if the copy wasn’t translated.
 
 ### Balancing act between timeliness, language and technology
 
 Public awareness campaigns were built around imagery as they weren’t always able to translate all digital content into every official language.
 
-Using images let NWT balance language accessibility with technical accessibility, and ensure that everyone got the message. This meant they were able to convey the most crucial, basic concepts to all of their audiences, regardless of their oral or written language capabilities. 
+Using images let NWT balance language accessibility with technical accessibility, and ensure that everyone got the message. This meant they were able to convey the most crucial, basic concepts to all of their audiences, regardless of their oral or written language capabilities.
 
 ## Final word
 

@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Choosing the right button for task success"
 langpage: "https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html"
@@ -52,7 +60,7 @@ In the spring of 2020, when the Coronavirus landing page was receiving extremely
 
 There are times when using a super task button makes sense, but placing it further down the page is more effective than having it at the top.
 
-For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page. 
+For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page.
 
 <br>
 <figure>
@@ -124,7 +132,7 @@ Finally, the link button pattern offers an option for a rarely used action that 
 
 ## Final word
 
-Most of the time, you don't need buttons on a web page - simple text links are often sufficient. When you do use a button, take care to limit their use. In a situation where you need to use multiple buttons on a single page, avoid having the buttons compete with each other. The more common or important the action, the more its button should stand out. Choosing the right button style lets you signal the relative importance of one action to the other. It helps you create a logical flow through your process or content.  
+Most of the time, you don't need buttons on a web page - simple text links are often sufficient. When you do use a button, take care to limit their use. In a situation where you need to use multiple buttons on a single page, avoid having the buttons compete with each other. The more common or important the action, the more its button should stand out. Choosing the right button style lets you signal the relative importance of one action to the other. It helps you create a logical flow through your process or content.
 
 ## Learn more
 

@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "A Government of Canada design system: building better online content faster"
 pubdate: "March 6, 2020"
@@ -15,7 +23,7 @@ In September 2019, the Digital Transformation Office (DTO) and collaborators fro
 
 Talented people from across the Government of Canada, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service, Digital Academy, the Web Experience Toolkit, Innovation, Science and Economic Development Canada, Canada Revenue Agency, Immigration, Refugees and Citizenship Canada, and National Defence  participated in the day.
 
-It was a fantastic example of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
+It was a fantastic example of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.
 
 Everyone agreed that an overarching design system would make it easier for departments to build a modern digital presence that helps people get the information and services they need.
 

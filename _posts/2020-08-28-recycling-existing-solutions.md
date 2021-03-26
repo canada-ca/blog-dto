@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Recycling an existing solution for the COVID-19 real-time updates"
 pubdate: "August 28, 2020"
@@ -30,7 +38,7 @@ Canada.ca receives live data from the call centers and displays it in a readable
 More recently Service Canada and Health Canada have teamed up again to provide real-time updates on possible COVID-19 exposures:
 
 * [Locations where you may have been exposed to COVID-19](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice/exposure-flights-cruise-ships-mass-gatherings.html)
- 
+
 ## Creating repeatable solutions, together
 
 What we have learned about this solution is that it is repeatable. In recent years, the Canada Day and Winterlude calendars have also used real-time updates. Health Canada can now access it quickly when similar needs arise. Other Government of Canada institutions can also use it to update, in near real-time, any metrics of value to the public.
@@ -43,7 +51,7 @@ The benefits of the solution include:
 
 Real-time updates isn’t the only COVID-19 digital solution we can recycle. For example, we can use the “Get Updates on COVID-19” email service to provide reliable and timely updates to the public by email. Another example is the “COVID-19 Announcements” page. We can repeat this again to bring together news articles about any relevant topic.
 
-Collaborating and recycling can go a long way toward quickly providing the tools Canadians need to stay safe, healthy and informed. 
+Collaborating and recycling can go a long way toward quickly providing the tools Canadians need to stay safe, healthy and informed.
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 

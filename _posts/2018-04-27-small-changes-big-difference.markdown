@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Canada.ca: Small changes can make a big difference"
 pubdate: "April 27, 2018"
@@ -22,9 +30,9 @@ We need to continue to make access to government easier for Canadians, whether t
 
 Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information.
 
-<aside>		    
-<blockquote class="pquote img-responsive"><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p><p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>		
-</blockquote>		
+<aside>
+<blockquote class="pquote img-responsive"><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p><p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>
+</blockquote>
  </aside>
 
 What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.

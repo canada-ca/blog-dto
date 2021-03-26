@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Finding the right method to measure online task success"
 pubdate: "February 5, 2020"
@@ -43,7 +51,7 @@ Funnels work best for tracking conversions over multiple pages where there is a 
 
 This method is not great for answer-finding tasks. These often have multiple path options making them difficult or impossible to track.
 
-This method can be challenging if analytics platforms aren't robust enough or you're unable to track users through secure areas of a website.  
+This method can be challenging if analytics platforms aren't robust enough or you're unable to track users through secure areas of a website.
 
 ### Online survey
 
@@ -66,7 +74,7 @@ We found that this method allowed the best balance between:
 
 ## Simplifying methods for better results
 
-Experimenting with multiple methods to measure top tasks highlighted how different methods might create inconsistent data. It’s hard to compare the results of a task funnel to a usability test!  
+Experimenting with multiple methods to measure top tasks highlighted how different methods might create inconsistent data. It’s hard to compare the results of a task funnel to a usability test!
 
 The online survey method provides a standardized data collection method. It is technically easy to implement, and provides clear data about top task strengths and weaknesses.
 

@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Content design tips from our Travel advice and advisories and Contact the CRA optimization projects"
 pubdate: "November 1, 2019"
@@ -35,7 +43,7 @@ Travelling abroad carries risks. Global Affairs has a great checklist of things 
 
 All participants in the baseline round of testing navigated to the page where it was advertised. 89% failed the task. Why? Participants weren’t looking for a publication. They were on a website, so they were looking for web content.
 
-In the prototype we made changes to the navigation layer pages and created a web page called Before you go. This web page provided the checklist content along with some links to other helpful online resources, like a printable emergency contact card for your wallet. We tested this task again using our prototype and a new set of participants. Clear link and doormat text (text that describes the link) led participants to the answer. This time, the task had a 100% success rate.  
+In the prototype we made changes to the navigation layer pages and created a web page called Before you go. This web page provided the checklist content along with some links to other helpful online resources, like a printable emergency contact card for your wallet. We tested this task again using our prototype and a new set of participants. Clear link and doormat text (text that describes the link) led participants to the answer. This time, the task had a 100% success rate.
 
 As our reality becomes increasingly digital, it’s important to remember to design for your medium. A great printed resource can’t simply be posted on your website. It needs to be reimagined and adapted to be truly effective for your online audience.
 
@@ -93,9 +101,9 @@ As part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> projec
 
 We used the expand/collapse pattern to highlight the channels (by phone, in person, by mail). This forced users to choose the channel first. Only then did they see the details for that choice. It meant that they didn’t have to look at details that didn’t pertain to their choice. For example, if they wanted a phone number they didn’t have to sift through mailing addresses to find it. Success rates increased by over 30 percentage points for several of the tasks we tested with this new design prototype.
 
-The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.  
+The design simplifies the layout of the page and reduces cognitive load. It makes it clear that there are several, distinct ways to perform the task. It also encourages self-serve behaviour by listing the online option first.
 
-<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html) in the Canada.ca design system.    
+<abbr title="Canada Revenue Agency">CRA</abbr> isn’t the only department with tasks that require users to find contact information. Looking at this project as a case study allowed us to create an effective pattern that others can use to solve the same issue. That saves time and effort for everyone. The next step will be to work toward adding the new pattern to the [Template and pattern library](https://www.canada.ca/en/government/about/design-system/pattern-library.html) in the Canada.ca design system.
 
 Check out the [alpha version of the Contact block pattern.](https://canada-ca.github.io/design-system-systeme-conception/common-design-patterns/contact-block.html)
 
@@ -121,7 +129,7 @@ This is a screenshot of the prototyped Contact page pattern. The top section of 
 
 In 2018, during the [<abbr title="Canada Revenue Agency">CRA</abbr> business registration and account maintenance optimization project](https://blog.canada.ca/research-summaries/business-account-research-summary.html), the team built a simple wizard to help people find the right tax service office or tax centre. (Forms must be sent to different <abbr title="Canada Revenue Agency">CRA</abbr> addresses based on where the person or business is located.) The wizard helped 61% of test participants successfully complete their task. This year we looked at the wizard again as part of the Contact the <abbr title="Canada Revenue Agency">CRA</abbr> project. We realized that it was still complex and only covered some of the most popular forms. There was room to improve the design.
 
-The team simplified the process further. Instead of using postal codes in the lookup, we used the form number and province. This way the lookup works for all forms. Success rates climbed to 94% when we tested the prototype of the new wizard.  
+The team simplified the process further. Instead of using postal codes in the lookup, we used the form number and province. This way the lookup works for all forms. Success rates climbed to 94% when we tested the prototype of the new wizard.
 
 Improving user success is an ongoing and iterative process. It’s a bit like peeling an onion. Improving the first layer of challenges, often reveals further layers you can tackle. Building on work you’ve done in the past can result in significant progress going forward.
 

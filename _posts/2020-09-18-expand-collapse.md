@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Using expand/collapse for making choices"
 pubdate: "September 18, 2020"
@@ -10,7 +18,7 @@ lang: en
 alt: "Using expand/collapse for making choices"
 description: "In November 2019, the DTO modified Canada.ca guidance to allow the use of the expand/collapse design pattern to present a choice between mutually exclusive answers."
 ---
-Since March 2020, the Digital Transformation Office (DTO) has conducted over 45 usability tests and user research studies to offer evidence-based guidance that helped inform the publication of pandemic-related web resources. We are also relying on previous optimization projects to provide a more usable, consistent and trustworthy online experience on Canada.ca. 
+Since March 2020, the Digital Transformation Office (DTO) has conducted over 45 usability tests and user research studies to offer evidence-based guidance that helped inform the publication of pandemic-related web resources. We are also relying on previous optimization projects to provide a more usable, consistent and trustworthy online experience on Canada.ca.
 
 The expand/collapse pattern is just one of many patterns in the Canada.ca design system library that can help you improve the way users interact with your web content. But use it with care!
 
@@ -44,7 +52,7 @@ You can use the expand/collapse pattern in 2 specific situations:
 
 Use this pattern when people need different answers depending on their situation and when these answers are mutually exclusive. Research has shown that when all the options are visible, people tend to spend time reading answers that are irrelevant to their task. They may not realize the content is under a heading that doesn’t apply to them. They get confused and think they have the right answer when they don’t.
 
-Using this pattern can help people focus only on what applies specifically to them. 
+Using this pattern can help people focus only on what applies specifically to them.
 
 <br><figure>
 <img class="img-responsive border" alt=" Below the question Is your direct deposit and mailing information up to date with the CRA? expand/collapse patterns offer 2 possible answers: Yes and No.The second image shows the Yes option expanded with the message, Great. This will ensure your benefit payment will be delivered to you."
@@ -68,12 +76,12 @@ It can also be content that applies only to a minority of people (such as when t
 <figcaption>The expand/collapse pattern for one of the CERB pages.</figcaption>
 <br>
 
-The code and instructions for how to implement this pattern are in the Template and pattern library of the Canada.ca design system: 
+The code and instructions for how to implement this pattern are in the Template and pattern library of the Canada.ca design system:
 * [Expand/Collapse - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/collapsible-content.html)
 
 ## User-tested templates and layouts
 
-Starting with user-tested templates, patterns and design principles can help your team get going quickly, saving you time and money. 
+Starting with user-tested templates, patterns and design principles can help your team get going quickly, saving you time and money.
 
 For more information on how to use this and other design patterns, check out the [Canada.ca design system](https://www.canada.ca/en/government/about/design-system.html).
 

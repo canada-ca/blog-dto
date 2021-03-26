@@ -1,21 +1,12 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-baseurl: "/blog-dto" # the subpath of your site, e.g. /blog
-url: "http://blog.canada.ca" # the base hostname & protocol for your site
-twitter_username: canada-ca
-github_username:  canada-ca
-paginate: 5
-
-
-# Build settings
+assets: "https://wet-boew.github.io/themes-dist/GCWeb"
+baseurl: "https://delisma.github.io/blog-dto"
+defaults:
+  -
+    values:
+      i18n:
+          tmpl-lang-dir:
+            en: ltr
+            fr: ltr
 markdown: kramdown
-
-plugins:
-  - jekyll-redirect-from
-  - jekyll-paginate
+remote_theme: wet-boew/gcweb-jekyll
+title: Canada.ca Blog

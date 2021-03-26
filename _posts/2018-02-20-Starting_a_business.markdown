@@ -1,4 +1,12 @@
 ---
+breadcrumbs:
+  - title: "Camada.ca"
+    link:  "https://www.canada.ca/en.html"
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+pageclass: "cnt-wdth-lmtd"
 layout: post
 title:  "Helping Canadians start a business"
 pubdate: "February 20, 2018"
@@ -48,7 +56,7 @@ To understand those needs, we mapped out the different actions and decisions tha
 
 
 
-Whether incorporating or not, people must choose a unique name for their business. The naming process seemed difficult in our initial research, so we looked to validate it.  
+Whether incorporating or not, people must choose a unique name for their business. The naming process seemed difficult in our initial research, so we looked to validate it.
 
 ## Baselining the current design
 
@@ -78,7 +86,7 @@ This testing gave us the confidence to know that we were on the right track. Bas
 
 The new designs went live in the Canada.ca “Business” theme in early 2017. After it had been live for a few months, we measured the impact on Canada.ca visitors. Here’s an example for the “naming your business” task:
 
-**Before and after optimization:** February 4 to April 4, 2017 and May 26 to July 24, 2017    
+**Before and after optimization:** February 4 to April 4, 2017 and May 26 to July 24, 2017
 
 <img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/start-lancer/Naming_a_business_funnel.png">
 
