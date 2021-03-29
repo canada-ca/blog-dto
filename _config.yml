@@ -1,4 +1,4 @@
-assets: "https://wet-boew.github.io/themes-dist/GCWeb"
+assets: "https://wet-boew.github.io/themes-dist"
 baseurl: "https://delisma.github.io/blog-dto"
 defaults:
   -
