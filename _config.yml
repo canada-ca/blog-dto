@@ -1,12 +1,4 @@
-assets: "https://wet-boew.github.io/themes-dist"
 baseurl: "https://delisma.github.io/blog-dto"
-defaults:
-  -
-    values:
-      i18n:
-          tmpl-lang-dir:
-            en: ltr
-            fr: ltr
 markdown: kramdown
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca Blog
