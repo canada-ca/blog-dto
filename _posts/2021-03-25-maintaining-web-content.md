@@ -1,7 +1,5 @@
 ---
 breadcrumbs:
-  - title: "Canada.ca"
-    link:  "https://www.canada.ca/en.html"
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
