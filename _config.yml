@@ -1,4 +1,6 @@
 baseurl: "https://delisma.github.io/blog-dto"
 markdown: kramdown
+plugins:
+  - jekyll-remote-theme
 remote_theme: wet-boew/gcweb-jekyll
 title: Canada.ca Blog
