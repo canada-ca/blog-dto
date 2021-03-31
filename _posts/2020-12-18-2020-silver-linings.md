@@ -1,19 +1,19 @@
 ---
+alt: "Silver linings from 2020"
+altLangPage: "https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Silver linings from 2020"
-langpage: "https://blogue.canada.ca/2020/12/18/lueurs-despoir-2020.html"
 date:   2020-12-18
-published: true
+description: "As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year."
 draft: true
 lang: en
-alt: "Silver linings from 2020"
-description: "As we countdown to 2021, the #GCDigital web community would like to share some of our silver linings from the past year."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Silver linings from 2020"
 ---
 It almost feels like an understatement to say that 2020 has been a challenging year filled with a lot of change. Since March, public servants have been working together while apart to improve digital services. Despite the challenges, there have been many silver linings.
 
@@ -25,13 +25,13 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>One of our stand-out memories has been our collaboration with DTO on the launch of the Economic Response Plan. Their data-driven user interface/user experience guidance has been instrumental in the delivery of information related to financial support to Canadians during the pandemic.</p>
 
-<p>As we continue to strengthen our connections and learn from each other, we’re left hopeful that the challenges presented by this global pandemic will be overcome and improve us as individuals and teams.” </p>
+<p>As we continue to strengthen our connections and learn from each other, we’re left hopeful that the challenges presented by this global pandemic will be overcome and improve us as individuals and teams.”</p>
 
 <p>- <b>Itthiphol (Bob) Piromnam, Finance Canada</b></p>
 
-<p>2. “2020 has not been easy. I have watched as colleagues were battered by the isolation of lockdowns, the stress and sameness of working full time from home and the guilt of abandoning home schooling in favour of far too many hours of screen time for their kids. </p>
+<p>2. “2020 has not been easy. I have watched as colleagues were battered by the isolation of lockdowns, the stress and sameness of working full time from home and the guilt of abandoning home schooling in favour of far too many hours of screen time for their kids.</p>
 
-<p>But I’ve also been amazed at their resilience and the enduring fight they bring day in and day out as they struggle through exhaustion, when the adrenaline keeping them going has long since been spent. And it occurs to me that it is through hardship that the strongest bonds of friendship are built. </p>
+<p>But I’ve also been amazed at their resilience and the enduring fight they bring day in and day out as they struggle through exhaustion, when the adrenaline keeping them going has long since been spent. And it occurs to me that it is through hardship that the strongest bonds of friendship are built.</p>
 
 <p>We’ve collaborated more widely and more deeply these past many months than ever before. And in each moment of collaboration, we invited our colleagues into our homes and our lives. Take a moment as this year ends, to think of all the colleagues who have been a part of your day-to-day since March. They will forever share your lived experience of this pandemic. They will forever be the ones who walked with you on the journey, and the bonds you formed will be special and meaningful for a very long time to come.</p>
 
@@ -43,7 +43,7 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>- <b>Melissa Teasdale, Principal Publisher</b></p>
 
-<p>4. “As web teams across the government scrambled to create new content, it was amazing to see people embrace usability research and evidence-based content design. The web community came together to help quickly prototype and test solutions to make it easier for Canadians to get what they need from the government in this time of crisis. </p>
+<p>4. “As web teams across the government scrambled to create new content, it was amazing to see people embrace usability research and evidence-based content design. The web community came together to help quickly prototype and test solutions to make it easier for Canadians to get what they need from the government in this time of crisis.</p>
 
 <p>During the course of the year, we piloted a new way of gathering direct feedback from people who use our web content. Real-time insights on what makes people fail at completing their task is humbling.  A constant reminder that we need to continue improving content for Canadians.”</p>
 
@@ -69,7 +69,7 @@ As we countdown to 2021, the #GCDigital web community would like to share some o
 
 <p>While physically distanced from one another, we’ve been collaborating more closely than ever before. I start my days standing in my kitchen, making coffee during a daily video call with colleagues from 4 different departments. There are 289 members from more than 20 departments in our Slack workspace, collaborating openly in real-time every day.</p>
 
-<p>Every time a dog barks on a call or someone appears in the background of a video meeting, we learn a little about our colleagues as people. Building empathy strengthens relationships and being able to bring our whole selves to work is important for mental health. </p>
+<p>Every time a dog barks on a call or someone appears in the background of a video meeting, we learn a little about our colleagues as people. Building empathy strengthens relationships and being able to bring our whole selves to work is important for mental health.</p>
 
 <p>These months have forced me out of my comfort zone — I’m more used to doing things than asking other people to do things. I’m always grateful and impressed with how folks step up to help, whether by answering a quick text or sharing a prototype or hopping on call.</p>
 

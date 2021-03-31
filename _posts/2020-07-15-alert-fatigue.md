@@ -1,20 +1,19 @@
 ---
+alt: "Alert fatigue during COVID-19"
+altLangPage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Alert fatigue during COVID-19"
-pubdate: "July 15, 2020"
-langpage: "https://blogue.canada.ca/2020/07/15/fatigue-d'alerte.html"
 date:   2020-07-15
-published: true
-draft: true
-lang: en
-alt: "Alert fatigue during COVID-19"
 description: "The more you put into managing your alerts, the more effective they’ll be at communicating your message."
+draft: true
+pageclass: "cnt-wdth-lmtd"
+lang: en
+layout: post
+published: true
+title:  "Alert fatigue during COVID-19"
 ---
 
 As the pandemic situation stretches on, there is an increasing awareness of “alert fatigue.” People become less receptive to alerts and warning messages the more often they see them. On Canada.ca we have 4 different alert styles. These play an important role in drawing attention to information that is out of the ordinary. But, to ensure they are effective, you must carefully manage the alert life-cycle.
@@ -29,9 +28,9 @@ Alerts are notices meant to draw attention to changes in regular content. For ex
   <h3>Limited service availability
   </h3>
   <p>Due to the coronavirus (COVID-19) outbreak, you may experience longer than normal wait times on our phone lines. The automated phone lines are available. If possible, use the online self-service options.
-  </p>
+</p>
   <p><a href="#">Check service status updates </a>
-  </p>
+</p>
 </section>
 
 ## Keep alerts short and simple

@@ -1,30 +1,30 @@
 ---
+altLangPage: "https://blogue.canada.ca/2018/02/23/Mesurer-résultats-améliorer-services-numériques.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Improve digital services by measuring outcomes"
-pubdate: "February 23, 2018"
-gradelevel: 11.1
-langpage: "https://blogue.canada.ca/2018/02/23/Mesurer-résultats-améliorer-services-numériques.html"
 date:   2018-02-23 09:48:44 +0100
-published: true
-lang: en
 description: Gerry McGovern offers his thoughts on his visit to Ottawa last week.
+gradelevel: 11.1
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Improve digital services by measuring outcomes"
 ---
-<b>By Gerry McGovern</b>
+
+**By Gerry McGovern**
 
 In 2007, I first visited Ottawa. It was winter. Very cold. But what I remember most is the warmth and enthusiasm of the audience. And the size! There were about 300 people in the room for a two-day workshop. It was the biggest workshop audience I had ever—or have ever—presented to. It was a thrill!
 
 I’m writing this on a flight home to Ireland as I end my latest trip to Ottawa. It’s been a thrill! So many wonderful, enthusiastic and talented people. So much energy and desire to deliver the very best services possible.
 
 <figure>
-<img class="img-responsive" alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
-<figcaption><small>Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
-</figure><br>
+    <img class="img-responsive" alt="Photograph of Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/2018_02_18-4058.jpg">
+    <figcaption><small>Gerry McGovern during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
+</figure>
 
 There are challenges. They are mainly organizational. People are rightly frustrated that the current government organizational model is not fit for purpose in the digital age. Everything has changed in our world except how large organizations organize themselves. The silos have become lumbering dinosaurs, holding back and inhibiting quality service.
 
@@ -40,8 +40,8 @@ Canada is in a better position to do this than a great many organizations I have
 - [See how we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
 - [See how measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
 
-<hr>
+----
 
-<b>About Gerry McGovern</b>
+**About Gerry McGovern**
 
 Gerry helps large organizations deliver a better digital customer experience. He has written six books on the digital customer experience. In his latest book, called Transform: A Rebel’s Guide for Digital Transformation, he argues that digital transformation is far more about culture change than technology change. His commercial clients include Microsoft, Dropbox, Cisco, NetApp, VMware, and IBM. He has also consulted with the US, UK, EU, Dutch, Canadian, Norwegian, and Irish governments. The Irish Times described Gerry as one of five visionaries who have had a major impact on the development of the Web.

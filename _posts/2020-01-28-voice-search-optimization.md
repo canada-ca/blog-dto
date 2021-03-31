@@ -1,20 +1,19 @@
 ---
+alt: "Voice search optimization"
+altLangPage: "https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Optimize your content for voice search"
-pubdate: "January 28, 2020"
-langpage: "https://blogue.canada.ca/2020/01/28/optimisation-recherche-vocale.html"
 date:   2020-01-28
-published: true
+description: "What we learned about improving voice services for Canadians."
 draft: true
 lang: en
-alt: "Voice search optimization"
-description: "What we learned about improving voice services for Canadians."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Optimize your content for voice search"
 ---
 
 Millions of people visit Canada.ca daily seeking answers from the government. Voice interaction is a new channel we can use to deliver those answers. To kick off the new year, the [Digital Transformation Office](http://www.canada.ca/en/government/about/about-digital-transformation-office.html) (DTO) is doing a short blog post series dedicated to voice technology. We’ll share what we learned about conversational agents and voice search from our [Contact us optimization project](https://blog.canada.ca/research-summaries/cra-contact-us-research-summary.html) with the Canada Revenue Agency (CRA).
@@ -30,8 +29,8 @@ We’ll start with the essential first step: Optimize your content for voice sea
 The fact is that most voice interactions are still very simple: one question, one answer.
 
 Instead of jumping to building a conversational agent, start by optimizing your content for voice search:
-* <b>first</b> apply good content design practices on all your top tasks
-* <b>then</b> experiment with adding structured data
+* **first** apply good content design practices on all your top tasks
+* **then** experiment with adding structured data
 
 ## Content design practices for voice search success
 
@@ -51,7 +50,7 @@ Generally speaking, voice search is a simple search query...done by voice. It’
 
 Traditional SEO techniques apply. Focus on optimizing for featured snippets (answers at top of results). Google often uses the featured snippet for voice answers.
 
-<b>Top considerations for voice SEO</b>
+**Top considerations for voice SEO**
 
 * Create concise answers (don’t mix details with summaries)
 * Use words Canadians use (look them up on [Google Trends](https://trends.google.com/trends/?geo=CA))
@@ -72,7 +71,7 @@ To improve voice search results:
 
 ### 4. Provide answers, not information
 
-Information is what your organization writes for internal program management. <b>Answers</b> are what people are looking for.
+Information is what your organization writes for internal program management. **Answers** are what people are looking for.
 
 When designing content, use an inverted pyramid. Put the most important information first. Figure out what question most people are trying to answer when they come to your page, and put the answer at the top of the page.
 
@@ -114,9 +113,9 @@ We know that chat and voice are the technologies of the future; and that the fut
 The Canada.ca design team wants to continuously improve both Canada.ca and the guidance that the Government of Canada design system provides to help departments make the best use of new technologies.
 
 As we keep moving forward and experimenting with new approaches, we must always ask ourselves, is it:
-* <b>useful</b>—does it improve digital self-service? Will Canadians benefit from having it?
-* <b>usable</b>—is it easy to use? Will success rates on Canada.ca improve?
-* <b>sustainable</b>—can content teams easily maintain it?
+* **useful**—does it improve digital self-service? Will Canadians benefit from having it?
+* **usable**—is it easy to use? Will success rates on Canada.ca improve?
+* **sustainable**—can content teams easily maintain it?
 
 Next in the series, we’ll talk about building wizards. Sign up for the [DTO mailing list](https://blog.canada.ca/pages/signup.html) to get the post delivered to your inbox.
 

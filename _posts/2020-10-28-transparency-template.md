@@ -1,20 +1,19 @@
 ---
+alt: "Increasing transparency on Canada.ca"
+altLangPage: "https://blogue.canada.ca/2020/10/28/modele-de-transparence.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Increasing transparency on Canada.ca"
-pubdate: "October 28, 2020"
-langpage: "https://blogue.canada.ca/2020/10/28/modele-de-transparence.html"
 date:   2020-10-28
-published: true
+description: "The Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency."
 draft: true
 lang: en
-alt: "Increasing transparency on Canada.ca"
-description: "The Treasury Board of Canada Secretariat’s Digital Advisory Services (DAS) collaborated with the Digital Transformation Office (DTO) on design concepts to increase transparency."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Increasing transparency on Canada.ca"
 ---
 Improving service delivery on Canada.ca is a collaborative and continuous team effort. Public servants across the GC are working together to create a digital experience that follows the principles of accessibility, accountability, and transparency.
 

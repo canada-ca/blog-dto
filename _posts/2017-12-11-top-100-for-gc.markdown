@@ -1,20 +1,19 @@
 ---
+alt: Pie chart of top tasks. 1. Get a local weather forecast 28% 2. Get a visitor visa 9% 3. Apply to immigrate to Canada 7% 4. Get marine conditions 6% 5. Get an eTA 6%. Rest of chart is divided into smaller sections.
+altLangPage: "https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "How we identify top tasks for Canada.ca"
-pubdate: "Decemeber 11, 2017"
-gradelevel: 7.8
-langpage: "https://blogue.canada.ca/2017/12/11/100-taches-du-gc.html"
 date:   2017-12-11 09:48:44 +0100
-published: true
-lang: en
 description: There are thousands of Government of Canada (GC) tasks out there, some small, and some complex. So how do we prioritize?
-alt: Pie chart of top tasks. 1. Get a local weather forecast 28% 2. Get a visitor visa 9% 3. Apply to immigrate to Canada 7% 4. Get marine conditions 6% 5. Get an eTA 6%. Rest of chart is divided into smaller sections.
+gradelevel: 7.8
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "How we identify top tasks for Canada.ca"
 ---
 
 People come to our digital channels to accomplish a very wide range of tasks.  We say they are looking for “information” or “services”. They don’t make these distinctions - people come to Canada.ca with a goal in mind and a task that they want to accomplish. If they are able to accomplish their task, their need has been met. If not, we have work to do.
@@ -23,32 +22,25 @@ People come to our digital channels to accomplish a very wide range of tasks.  W
 
 There are thousands of Government of Canada (GC) tasks out there, some small, and some complex. So how do we prioritize?  By identifying the most important and most used tasks. We call these the “top tasks”.  We are focusing on the 100 top tasks for the Government of Canada. We have begun to improve the content related to these top tasks so that people can more successfully accomplish them.
 
-<figure style="margin-top: 50px;" >
-
-<div class="col-md-6">
-<div class="center-block">
-<img class="img-responsive center-block"  style="margin-bottom: 50px;" src="/images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca" />
-</div>
-</div>
-
-
-<div class="col-md-6">
-<figcaption class="center-block" style="margin-top: 50px;">
-
-
-<p><b>The top 5 tasks are responsible for more than 50% of visits to start pages for the top 100 tasks.</b></p>
-<ol>
-<li>Get a local weather forecast</li>
-<li>Get a visitor visa</li>
-<li>Apply to immigrate to Canada</li>
-<li>Get marine conditions</li>
-<li>Get an eTA (electronic Travel Authorization)</li>
-</ol>
-</figcaption>
-</div>
+<figure class="mrgn-tp-lg" >
+    <div class="col-md-6">
+        <div class="center-block">
+            <img class="img-responsive center-block mrgn-tp-lg" src="/images/top100piechart.png" alt="Pie chart showing one segment taking up one quarter, next 4 segments covering about half, and segments getting smaller till they blend into each other by the end. Data is from the top task list for Canada.ca" />
+        </div>
+    </div>
+    <div class="col-md-6">
+        <figcaption class="center-block mrgn-tp-lg">
+            <p><b>The top 5 tasks are responsible for more than 50% of visits to start pages for the top 100 tasks.</b></p>
+            <ol>
+                <li>Get a local weather forecast</li>
+                <li>Get a visitor visa</li>
+                <li>Apply to immigrate to Canada</li>
+                <li>Get marine conditions</li>
+                <li>Get an eTA (electronic Travel Authorization)</li>
+            </ol>
+        </figcaption>
+    </div>
 </figure>
-
-<div class="clearfix"></div>
 
 [View the top 100 tasks for Canada.ca](https://www.canada.ca/en/government/about/top-tasks-for-canada-ca.html)
 
@@ -78,14 +70,14 @@ We start with institutions which have the most popular content on Canada.ca. Som
 
 There are some challenges in trying to collect data from so many different sources, such as:
 
-* <b>Analytics comparability:</b>
+* **Analytics comparability:**
     * many tools are in use, some more effective than others
     * some free analytics software only samples data across visits instead of recording everything
     * some track effectively, but are very inefficient at generating reports
-* <b>Visits versus page views:</b>
+* **Visits versus page views:**
     * visits represent a real person completing a task better than page views
     * page view numbers can inflate when a task involves multiple pages
-* <b>Start pages versus all pages:</b>
+* **Start pages versus all pages:**
     * some tasks require several different pages, while others only one page
     * combined traffic for many pages reduces comparability
     * so it's important to identify and track one start page per task

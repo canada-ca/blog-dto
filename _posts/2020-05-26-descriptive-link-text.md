@@ -1,20 +1,19 @@
 ﻿---
+alt: "A case for descriptive link text"
+altLangPage: "https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "A case for descriptive link text"
-pubdate: "May 26, 2020"
-langpage: "https://blogue.canada.ca/2020/05/26/texte-de-lien-descriptif.html"
 date:   2020-05-26
-published: true
+description: "Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily."
 draft: true
 lang: en
-alt: "A case for descriptive link text"
-description: "Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "A case for descriptive link text"
 ---
 Clear link text can help thousands more people get to the Canada.ca content they need quickly and easily. The names of programs, apps and tools don’t always work well as descriptive link text for people who don’t already know the name.
 
@@ -42,15 +41,14 @@ Link text is a crucial navigation tool. It’s a promise of what you will find i
 Refer to the Canada.ca Content Style Guide to learn [how to write descriptive links](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#wp7-2).
 
 <div class="wb-fnote wb-init wb-fnote-inited" role="note" id="wb-auto-4">
-<h3 id="fn" class="wb-inv">Footnotes</h3>
-
-<dl>
-  <dt id="fn1-dt">Footnote 1</dt>
-  <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
-    <p>95% confidence, p-value = 0.000</p>
-    <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
-  </dd>
-</dl>
+  <h3 id="fn" class="wb-inv">Footnotes</h3>
+  <dl>
+    <dt id="fn1-dt">Footnote 1</dt>
+    <dd id="fn1" tabindex="-1" aria-labelledby="fn1-dt">
+      <p>95% confidence, p-value = 0.000</p>
+      <p class="fn-rtn"><a href="#fn1-rtn"><span class="wb-invisible">Return to footnote </span>1<span class="wb-invisible"> referrer</span></a></p>
+    </dd>
+  </dl>
 </div>
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat

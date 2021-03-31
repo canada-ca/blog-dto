@@ -1,19 +1,18 @@
 ---
+altLangPage: "https://blogue.canada.ca/2018/02/20/Demarrer_une_entreprise.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Helping Canadians start a business"
-pubdate: "February 20, 2018"
-gradelevel: 11.1
-langpage: "https://blogue.canada.ca/2018/02/20/Demarrer_une_entreprise.html"
 date:   2018-02-20 09:48:44 +0100
-published: true
-lang: en
 description: Starting a business is a top task for Canadians and it’s not an easy one. Here’s how this optimization project turned out.
+gradelevel: 11.1
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Helping Canadians start a business"
 ---
 
 Tens of thousands of new businesses are started every year in Canada. Starting a business is a top task for Canadians, and it’s not an easy one. There are different legal requirements at the provincial and federal levels. Requirements vary depending on the size and type of business. There’s a lot to get through and understand to do something that should be as easy as possible.
@@ -38,21 +37,17 @@ To understand those needs, we mapped out the different actions and decisions tha
 
 <img class="img-responsive" alt="Hand-drawn decision tree showing what happens when incorporating. Text version follows" src="/images/start-lancer/Naming_a_business_decisions.JPG">
 
-
 <details>
-		<summary>Text version of this chart</summary>
+	<summary>Text version of this chart</summary>
 	<p>Hand-drawn decision tree beginning with “Going to incorporate?”</p>
 	<ul>
-	<li>If yes, then “Get a unique business name or use your name” (which is highlighted to show it’s a pain point)</li>
+		<li>If yes, then “Get a unique business name or use your name” (which is highlighted to show it’s a pain point)</li>
 		<li>If “Federal”, then “Get a name report Federal or Provincial” </li>
 		<li>If “Federal”, then “Apply”. If “Provincial”, the tree ends </li>
-	<li>If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number” </li>
-	<li>If not “Sole prop – own name”, then go to “unique name” (which is highlighted to show it’s a pain point), which includes partnership, co-op, others</li>
+		<li>If “Going to incorporate?” is “no”, then if “Sole prop – own name”, go to “Business number” </li>
+		<li>If not “Sole prop – own name”, then go to “unique name” (which is highlighted to show it’s a pain point), which includes partnership, co-op, others</li>
 	</ul>
-
 </details>
-
-
 
 Whether incorporating or not, people must choose a unique name for their business. The naming process seemed difficult in our initial research, so we looked to validate it.
 
@@ -89,13 +84,11 @@ The new designs went live in the Canada.ca “Business” theme in early 2017. A
 <img class="img-responsive" alt="Chart showing traffic differences before and after optimization. Text version follows." src="/images/start-lancer/Naming_a_business_funnel.png">
 
 <details>
-		<summary>Text version of this chart</summary>
+	<summary>Text version of this chart</summary>
 	<p>Funnel diagram showing a before and after.</p>
-	<p> In before, at the top of the funnel 520 start at “Naming your business”. 30% then went to “NUANS corporate name search”. 5% then went to “Learn more”, then 2% went to “Order now” where the funnel ends. </p><p>
-In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends.</p>
-
+	<p> In before, at the top of the funnel 520 start at “Naming your business”. 30% then went to “NUANS corporate name search”. 5% then went to “Learn more”, then 2% went to “Order now” where the funnel ends.</p>
+	<p>In after, at the top of the funnel 3081 start at “Choosing a business name”. 59% then go to “Find out if the name is taken”. Then, 16% get to “Search Canadian corporate names” where the funnel ends.</p>
 </details>
-
 
 As the chart shows, the flow is like a funnel leading to the successful outcome at the bottom of the image. Before optimization, only 10 people (less than 2%) made it from the “Starting a business” page to the “Choosing a business name” page. The “After” chart shows what happened 2 months later: 16% of visitors to the “Choosing a business page” took the new simplified path to the search page for business names. That’s 55 times more people who found their task!
 

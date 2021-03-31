@@ -1,20 +1,19 @@
 ---
+alt: "Canada.ca is a trusted source"
+altLangPage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Canada.ca is a trusted source"
-pubdate: "August 10, 2020"
-langpage: "https://blogue.canada.ca/2020/08/10/CanadaPointCa-source-fiable.html"
 date:   2020-08-10
-published: true
+description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
 draft: true
 lang: en
-alt: "Canada.ca is a trusted source"
-description: "With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Canada.ca is a trusted source"
 ---
 
 Throughout the COVID-19 pandemic, the Prime Minister and his ministers have been advising Canadians to visit Canada.ca. With the increase in phishing campaigns and scams related to COVID-19 on government sites, it is more important than ever to provide a consistent and trustworthy user experience.
@@ -42,26 +41,26 @@ Changing "Home" to "Canada.ca" in the breadcrumb, ensures that every page displa
 This change also helps people get to Canada.ca even if the URL of the site they’re on is different, such as those using the gc.ca domain.
 
 <table class="table table-slim">
-	<caption>Changing breadcrumb to &quot;Canada.ca&quot; from &quot;Home&quot; maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
-	<thead>
-		<tr>
-			<td>&nbsp;</td>
-			<th>A) Home</th>
-			<th>B) Canada.ca</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<th data-flot='{"color":"#4285f3"}'>Within theme task</th>
-			<td>56%</td>
-			<td>54%</td>
-		</tr>
-		<tr>
-			<th data-flot='{"color":"#76a5af"}'>Outside theme task</th>
-			<td>56%</td>
-			<td>59%</td>
-		</tr>
-	</tbody>
+  <caption>Changing breadcrumb to &quot;Canada.ca&quot; from &quot;Home&quot; maintains success rates in first-click task study with 602 Canada.ca visitors</caption>
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th>A) Home</th>
+      <th>B) Canada.ca</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th data-flot='{"color":"#4285f3"}'>Within theme task</th>
+      <td>56%</td>
+      <td>54%</td>
+    </tr>
+    <tr>
+      <th data-flot='{"color":"#76a5af"}'>Outside theme task</th>
+      <td>56%</td>
+      <td>59%</td>
+    </tr>
+  </tbody>
 </table>
 
 ## Implementation

@@ -1,19 +1,19 @@
 ---
+alt: The importance of working with call centres
+altLangPage: 'https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html'
 breadcrumbs:
-  - title: "About Canada.ca"
-    link:  "https://www.canada.ca/en/government/about.html"
+  - title: About Canada.ca
+    link: 'https://www.canada.ca/en/government/about.html'
   - title: Canada.ca blog
-    link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "The importance of working with call centres"
-langpage: "https://blogue.canada.ca/2021/03/01/collaborer-avec-centres-appels.html"
-date:   2021-03-01
-published: true
-draft: true
+    link: 'https://blog.canada.ca/'
+date: 2021-03-01T00:00:00.000Z
+description: 'Whether you run an in-house call centre or outsource your call centre to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind.'
 lang: en
-alt: "The importance of working with call centres"
-description: "Whether you run an in-house call centre or outsource your call centre to a trusted partner, agents are the key to harnessing customer feedback. Using this data can help you improve your web content and services with real people in mind."
+draft: true
+layout: post
+pageclass: cnt-wdth-lmtd
+published: true
+title: The importance of working with call centres
 ---
 “Design with users” is one of the Government of Canada’s Digital Standards. But how do you design with users when you’re under the pressure of tight deadlines and financial constraints?
 
@@ -56,29 +56,26 @@ Second, we tried putting answers to the **most-asked** questions right at the to
 
 Testing these solutions showed positive results. People looked for the answers on the page and found them.
 
-<br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/alert-2.PNG" width="400">
 </figure>
 <details>
-<summary>Alert banner - before (over one full mobile screen)</summary>
-<p>Original alert banner text said "Contacting us during the COVID-19 pandemic" as the heading. It covered more than a full mobile screen, included a lot of text, several concepts and multiple links.</p>
+  <summary>Alert banner - before (over one full mobile screen)</summary>
+  <p>Original alert banner text said "Contacting us during the COVID-19 pandemic" as the heading. It covered more than a full mobile screen, included a lot of text, several concepts and multiple links.</p>
 </details>
-<br>
 
-<br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/phone-3.PNG" width="700">
 </figure>
 <details>
-<summary>We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern.</summary>
-<p>Immediately below the shortened alert banner, a series of 5 expand/collapse fields provide the answers to the top questions - like "If you received two payments of $2000."</p>
+  <summary>We put answers to the most-asked questions right at the top of the page, using the expand/collapse pattern.</summary>
+  <p>Immediately below the shortened alert banner, a series of 5 expand/collapse fields provide the answers to the top questions - like "If you received two payments of $2000."</p>
 </details>
-<br>
 
 ## Analyzing call drivers daily
+
 Service Canada launched the new page design and then prepared to adjust the content regularly based on needs.
 
 Each morning, Service Canada provided the project team with a list of the previous day’s top questions. We analyzed these to see if we could help reduce calls and emails by adding answers to common questions.
@@ -147,4 +144,3 @@ The more closely you collaborate with your frontline call centre staff, the more
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #CanadaDotCa (English) / #CanadaPointCa (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-

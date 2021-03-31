@@ -1,20 +1,19 @@
 ---
+alt: "Labelling study: which words work best"
+altLangPage: "https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Labelling study: which words work best"
-pubdate: "October 2, 2020"
-langpage: "https://blogue.canada.ca/2020/10/02/etude-sur-les-etiquettes.html"
 date:   2020-10-02
-published: true
+description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks."
 draft: true
 lang: en
-alt: "Labelling study: which words work best"
-description: "Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. This week, we’re looking at the labels we’ve chosen for categories and links on that page, and how they improve the ‘findability’ of the top tasks."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Labelling study: which words work best"
 ---
 Canada.ca/Coronavirus is one of the most visited pages on Canada.ca. Teams across government have been collaborating and updating this page regularly to reflect the evolving needs of the Canadian public. In last week’s blog post, we talked about how we organized Canada.ca/coronavirus based on top tasks.
 
@@ -38,23 +37,22 @@ In June 2020, the Digital Transformation Office (DTO) and Health Canada launched
 
 Participants responded to the task questions by clicking on one of the potential label options shown with the question. The survey asked them to choose as if they were attempting the task on the website.  Each question showed different sets of label options for both the links and the categories. This let us explore how different options fit with specific task scenarios.
 
-<br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<figure>
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/label.png" width="700">
 </figure>
 <details>
-<summary>Example of a question in the study.</summary>
-<p>Find: "How can my store reduce the risk of transmission of COVID-19?" Where would you click? Options include:</p>
-<ul>
-<li>Focus on : business</li>
-<li>Recovery strategy</li>
-  <li>Limiting the spread</li>
-  <li>Containing the pandemic</li>
-<li>Reopening safely</li>
-<li>Current situation</li>
-</ul>
+  <summary>Example of a question in the study.</summary>
+  <p>Find: "How can my store reduce the risk of transmission of COVID-19?" Where would you click? Options include:</p>
+  <ul>
+    <li>Focus on : business</li>
+    <li>Recovery strategy</li>
+    <li>Limiting the spread</li>
+    <li>Containing the pandemic</li>
+    <li>Reopening safely</li>
+    <li>Current situation</li>
+  </ul>
 </details>
-<br>
 
 ## Taking action on results
 Together with Health Canada we used the results to support updates on the COVID-19 landing page. The study confirmed that some labels were working well, so we kept those in place.
@@ -78,15 +76,14 @@ Today, the Coronavirus landing page reflects a lot of what we found from this re
 
 For example, the “Protecting public health” label won strong majorities in English for vaccine and immunity tasks. “Protection de la santé publique” performed similarly well with French respondents. These tasks are related to personal medical health. Vaccines is our #5 top task (#1 at WHO) and immunity is #17 (#4 at WHO). As Health Canada develops content supporting vaccine tasks,  this category label is tested and ready to use.
 
-<br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<figure>
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/label-4.png" width="500">
 </figure>
 <details>
-<summary>Coronavirus disease (COVID-19) landing page</summary>
-<p>Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on.</p>
+  <summary>Coronavirus disease (COVID-19) landing page</summary>
+  <p>Coronavirus disease (COVID-19) landing page on Canada.ca with the new bands. Labels include: Choosing to wear a non-medical mask, Current situation, Financial support, Your health, Limiting the spread, Travel and immigration, How you can help, Focus on.</p>
 </details>
-<br>
 
 ## Use labels that work for people
 
@@ -123,4 +120,3 @@ Audiences behave and interact differently in the digital space compared to how t
 * Email: [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca)
 * Twitter: #Canadadotca (English) / #Canadapointca (French)
 * Slack: [http://design-GC-conception.slack.com](https://design-gc-conception.slack.com/join/shared_invite/enQtODE1OTc5Mzg5NzQ4LWQ3MjZjMTdjMjk2ZTZmMTJjYWQ3ZmRiNDYwYjRmN2NjYzQyNjFlNDBlY2FkNWE1ODg2YjExY2QwZmVjN2MwMGM)
-

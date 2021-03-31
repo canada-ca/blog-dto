@@ -1,20 +1,19 @@
 ---
+alt: "Improving Canada.ca by focusing on COVID-19 top tasks"
+altLangPage: "https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
-pubdate: "September 24, 2020"
-langpage: "https://blogue.canada.ca/2020/09/24/taches-principales-a-la-COVID-19.html"
 date:   2020-09-24
-published: true
+description: "In May 2020, the DTO collaborated with Gerry McGovern, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca."
 draft: true
 lang: en
-alt: "Improving Canada.ca by focusing on COVID-19 top tasks"
-description: "In May 2020, the DTO collaborated with Gerry McGovern, the World Health Organization (WHO), Health Canada and the Public Health Agency of Canada on a study to identify people’s top COVID-19 tasks on Canada.ca."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Improving Canada.ca by focusing on COVID-19 top tasks"
 ---
 Canada.ca's site structure is designed to reflect the top tasks Canadians are trying to complete on the site. Using data to understand their changing needs is key to ensuring the right content is always up front and centre.
 
@@ -50,24 +49,23 @@ Top results (25% of votes), 7 top tasks on Canada.ca:
 6. Latest updates
 7. Government strategy
 
-<br><figure>
-<img class="img-responsive border" alt=" A pie chart shows 7 tasks received the top 25% of votes. The chart shows the next 25% of votes were spread over 11 tasks, then 18 tasks and the final 25% of votes were spread over 42 tasks."
+<figure>
+  <img class="img-responsive border" alt=" A pie chart shows 7 tasks received the top 25% of votes. The chart shows the next 25% of votes were spread over 11 tasks, then 18 tasks and the final 25% of votes were spread over 42 tasks."
  src="/images/top-task.png" width="700" >
 </figure>
 <details>
-<summary>The Canadian top task study results.</summary>
-<h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
-<ol>
-<li> Financial support, benefits for individuals and families (eligibility, availability, training)</li>
-<li>Money issues, personal finances, savings, pensions</li>
-<li>Confirmed cases, deaths, recoveries (daily, total) </li>
-<li>New outbreak, second wave (response, containment) </li>
-<li>Vaccine (development, availability, safety) </li>
-<li>Latest news, latest research (alerts, directives, updates) </li>
-<li>Government strategy (long-term control, lockdown exit, transition, economy reboot) </li>
-</ol>
+  <summary>The Canadian top task study results.</summary>
+  <h3>Select up to 5 tasks / resources that are MOST IMPORTANT to you when interacting with the Government of Canada.</h3>
+  <ol>
+    <li> Financial support, benefits for individuals and families (eligibility, availability, training)</li>
+    <li>Money issues, personal finances, savings, pensions</li>
+    <li>Confirmed cases, deaths, recoveries (daily, total) </li>
+    <li>New outbreak, second wave (response, containment) </li>
+    <li>Vaccine (development, availability, safety) </li>
+    <li>Latest news, latest research (alerts, directives, updates) </li>
+    <li>Government strategy (long-term control, lockdown exit, transition, economy reboot) </li>
+  </ol>
 </details>
-<br>
 
 #### Taking a closer look a the results
 

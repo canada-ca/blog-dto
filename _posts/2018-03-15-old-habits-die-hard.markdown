@@ -1,21 +1,20 @@
 ---
+alt: Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018
+altLangPage: "https://blogue.canada.ca/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Old habits die hard (when feelings get in the way)"
-pubdate: "March 14, 2018"
-langpage: "https://blogue.canada.ca/2018/03/14/debarrasse-difficilement-vieilles-habitudes.html"
 date:   2018-03-14 09:48:44 +0100
-published: true
-lang: en
-alt: Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018
 description: The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Old habits die hard (when feelings get in the way)"
 ---
-<b>By Celeste Côté, Privy Council Office</b>
+**By Celeste Côté, Privy Council Office**
 
 I’ve been working in digital content for the better part of a decade and I’ve often wondered why it’s so hard to get good work done when the best practices are out there, backed by research, and logically, we know what we need to do.
 
@@ -24,9 +23,9 @@ Gerry McGovern’s talk on top tasks and UX (user experience) hit the nail on th
 The main challenge of improving the UX of our sites and services isn’t the adoption of a particular technology or tool; it’s the adoption of new values and approaches — culture change.
 
 <figure>
-<img class="img-responsive" alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
-<figcaption><small>Celeste Côté during Gerry McGovern's master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
-</figure><br>
+    <img class="img-responsive" alt="Photograph of Celeste Côté during the Gerry McGovern master class at Bayview Yards in Ottawa, February 13, 2018" src="/images/gerry-week/4031_03_18_-_Tue_DTO_Crowd_TW_e.png">
+    <figcaption><small>Celeste Côté during Gerry McGovern's master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
+</figure>
 
 McGovern joked about traditional approaches to design being very Mad Men — bosses smoking cigars in back rooms making decisions. While workplaces have changed over the years, we still have the tendency to base decisions on personal preferences — especially when those decisions involve design, about which everyone tends to have no shortage of feelings and opinions.
 
@@ -62,9 +61,9 @@ The steps are relatively straightforward. Now, our top task is to convince more 
 - [See how we identify top tasks for Canada.ca](https://blog.canada.ca/2017/12/11/top-100-for-gc.html)
 - [See how measuring task success is key for optimizing Canada.ca top tasks](https://blog.canada.ca/2017/12/12/optimization-overview.html)
 
-<hr>
+----
 
-<b>About Celeste Côté</b>
+**About Celeste Côté**
 
 Celeste Côté joined the public service in November 2017 to work with the stellar PM Digital Operations team in the Privy Council Office. As team lead for PM web, Celeste manages the operations of the Prime Minister's website ([pm.gc.ca](http://pm.gc.ca)) along with a great team of publishers. She also provides web publishing advice to other teams within PCO and across government as necessary.
 

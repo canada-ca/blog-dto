@@ -1,20 +1,19 @@
 ---
+alt: "Collect feedback, find issues"
+altLangPage: "https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Collect feedback, find issues"
-pubdate: "October 9, 2020"
-langpage: "https://blogue.canada.ca/2020/10/09/recueillir-la-retroaction.html"
 date:   2020-10-09
-published: true
+description: "Getting feedback from Canadians on a regular basis helps teams across government continuously improve the service delivery on Canada.ca. In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages."
 draft: true
 lang: en
-alt: "Collect feedback, find issues"
-description: "Getting feedback from Canadians on a regular basis helps teams across government continuously improve the service delivery on Canada.ca. In May 2020, a few teams collaborated to launch a pilot study of a widget for getting people’s feedback on Canada.ca pages."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Collect feedback, find issues"
 ---
 In 2020, the main way most Canadians interact with their government is online. Government of Canada web pages are more than just a communications tool. They’re an important service delivery point.
 
@@ -52,31 +51,30 @@ Our goal for this pilot study was to:
 Service Canada/Principal Publisher built the widget. By embedding it into pages, departments can capture both qualitative and quantitative feedback from Canadians.
 
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/feedback-1.png" width="700">
 </figure>
 <details>
-<summary>Page Feedback Widget</summary>
-<p>Widget displays the question: "Did you find what you were looking for?" and offers yes and no options.</p>
+  <summary>Page Feedback Widget</summary>
+  <p>Widget displays the question: "Did you find what you were looking for?" and offers yes and no options.</p>
 </details>
 
-<br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<figure>
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/feedback-2.png" width="700">
 </figure>
 <details>
-<summary>Next screen of Page Feedback Widget.</summary>
- <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
- <ul>
-<li>The answer I need is missing</li>
-<li>The information isn't clear</li>
-<li>I'm not in the right place</li>
-<li>Something is broken or incorrect</li>
-<li>Other reason</li>
- </ul>
-<p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
+  <summary>Next screen of Page Feedback Widget.</summary>
+  <p>When users select "no," they are asked "What was wrong?" and given the following options:</p>
+  <ul>
+    <li>The answer I need is missing</li>
+    <li>The information isn't clear</li>
+    <li>I'm not in the right place</li>
+    <li>Something is broken or incorrect</li>
+    <li>Other reason</li>
+  </ul>
+  <p>Selecting "other reason" displays a free text field where they can provide more details, with direction not to include any personal information.</p>
 </details>
-<br>
 
 ## Processing feedback
 
@@ -101,49 +99,47 @@ As of June 10, we had received 5083 responses through the 2 pilot pages the widg
 
 When people answered that they had not found what they were looking for, their answers for what was wrong gave us a clue about the top usability issues on the pages.
 
-<br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<figure>
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/feedback-graph-1.png" width="700">
 </figure>
 <details>
-<summary>Results of radio buttons analysis.</summary>
- <h3>What was wrong?</h3>
- <ul>
-<li>The answer I need is missing</li>
-<li>No reason given</li>
-<li>Other reason</li>
-<li>The information isn't clear</li>
-<li>I'm not in the right place</li>
-<li>Something is broken or incorrect</li>
-</ul>
+  <summary>Results of radio buttons analysis.</summary>
+  <h3>What was wrong?</h3>
+  <ul>
+    <li>The answer I need is missing</li>
+    <li>No reason given</li>
+    <li>Other reason</li>
+    <li>The information isn't clear</li>
+    <li>I'm not in the right place</li>
+    <li>Something is broken or incorrect</li>
+  </ul>
 </details>
-<br>
 
 Of the 1015 “what was wrong” submissions, 782 (77%) provided more detail about what was wrong in their own words, using the text box.
 
 Using this feedback, we started to get a better picture of what was causing issues for people during their visit.  Content specialists then looked at the feedback to understand the detailed intent and causes of frustration.
 
-<br><figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+<figure>
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/feedback-graph-2.png" width="700">
 </figure>
 <details>
-<summary>Results of open text analysis.</summary>
- <h3>Top 10 Themes Referenced</h3>
- <ul>
-<li>Symptoms</li>
-<li>Permissible activities</li>
-<li>Testing</li>
-<li>Transmission</li>
-<li>Quarantine isolation self-isolation</li>
-<li>Treatment</li>
-<li>Workplaces</li>
-<li>Financial support</li>
-<li>Vulnerable Populations</li>
-<li>PPE</li>
-</ul>
+  <summary>Results of open text analysis.</summary>
+  <h3>Top 10 Themes Referenced</h3>
+  <ul>
+    <li>Symptoms</li>
+    <li>Permissible activities</li>
+    <li>Testing</li>
+    <li>Transmission</li>
+    <li>Quarantine isolation self-isolation</li>
+    <li>Treatment</li>
+    <li>Workplaces</li>
+    <li>Financial support</li>
+    <li>Vulnerable Populations</li>
+    <li>PPE</li>
+  </ul>
 </details>
-<br>
 
 This detail enabled Health Canada/PHAC to:
 * triage efforts based on how often they saw similar feedback

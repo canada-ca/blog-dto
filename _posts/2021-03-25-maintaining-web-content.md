@@ -1,19 +1,19 @@
 ---
+alt: "Maintaining and improving web content through its life cycle"
+altLangPage: "https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-layout: post
-title:  "Maintaining and improving web content through its life cycle"
-langpage: "https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html"
 date:   2021-03-25
-published: true
+description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
 draft: true
 lang: en
+layout: post
 pageclass: "cnt-wdth-lmtd"
-alt: "Maintaining and improving web content through its life cycle"
-description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
+published: true
+title:  "Maintaining and improving web content through its life cycle"
 ---
 Content on Canada.ca needs to be continuously maintained to keep it relevant, accurate, and current. The "set it and forget it" days of publishing do not exist on the web.
 

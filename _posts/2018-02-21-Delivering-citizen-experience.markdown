@@ -1,22 +1,21 @@
 ---
+altLangPage: "https://blogue.canada.ca/2018/02/21/Offrir-une-excellente-expérience-citoyen.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Delivering a great citizen experience"
-pubdate: "February 21, 2018"
-gradelevel: 11.1
-langpage: "https://blogue.canada.ca/2018/02/21/Offrir-une-excellente-expérience-citoyen.html"
 date:   2018-02-21 09:48:44 +0100
-published: true
-lang: en
 description: Blog post by the Honourable Scott Brison, President of the Treasury Board.
+gradelevel: 11.1
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Delivering a great citizen experience"
 ---
 
-<b>By the Honourable Scott Brison, President of the Treasury Board</b>
+**By the Honourable Scott Brison, President of the Treasury Board**
 
 “People on their deathbed don’t say to themselves ‘I wish I had spent more time with the government!’”
 
@@ -25,9 +24,10 @@ Last week, public servants and members of the community gathered for a bracing m
 Gerry was in Ottawa at the invitation of TBS to share his knowledge of tools and techniques for measuring user success.
 
 <figure>
-<img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018" src="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
-<figcaption><small>Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
-</figure><br>
+    <img class="img-responsive" alt="Photograph of Gerry McGovern interacting with the audience at the master class, Bayview Yards, February 13, 2018" src="/images/gerry-week/Gerry and mic 2018_02_18-4075.jpg">
+    <figcaption><small>Gerry McGovern interacts with the audience during the master class at Bayview Yards in Ottawa, February 13, 2018.</small></figcaption>
+</figure>
+
 What is user success?
 
 Well, Gerry’s wry observation about deathbed wish lists gives us a strong hint.
@@ -46,9 +46,9 @@ As l’ve said before, we can’t be a Blockbuster government serving a Netflix 
 
 That’s why the work done at Canada.ca is critical. It’s central to a great citizen experience and central to great digital government.
 
-<hr>
+----
 
-<b>The Honourable Scott Brison is the President of the Treasury Board.</b>
+**The Honourable Scott Brison is the President of the Treasury Board.**
 
 Scott Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in 7 general elections between June 1997 and October 2015.
 

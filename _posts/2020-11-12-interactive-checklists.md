@@ -1,20 +1,19 @@
 ---
+alt: "Using interactive checklists to simplify eligibility criteria"
+altLangPage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Using interactive checklists to simplify eligibility criteria"
-pubdate: "November 12, 2020"
-langpage: "https://blogue.canada.ca/2020/11/12/listes-de-verification-interactives.html"
-date:   2020-11-12
-published: true
+date: 2020-11-12
+description: "In the last couple of years, the Digital Transformation Office (DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
 draft: true
 lang: en
-alt: "Using interactive checklists to simplify eligibility criteria"
-description: "In the last couple of years, the Digital Transformation Office (DTO) has been studying the use of interactive checklists to simplify the way we present eligibility criteria. "
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Using interactive checklists to simplify eligibility criteria"
 ---
 Government sites by their very nature tend to be complex. They must cover a multitude of priorities and speak to a multitude of audiences. This presents real challenges in terms of making it easy for people to get the answers they need from their government.
 
@@ -26,16 +25,14 @@ The behavioural principle behind using interactive elements is that people slow 
 
 Checklists help people break down complex eligibility lists to ensure that they meet all criteria.
 
-<br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/eligibility-1.PNG" width="700">
 </figure>
 <details>
 <summary>Eligibility checklist for the Canada Recovery Benefit</summary>
-<p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>
+  <p>Eligibility checklist for the Canada Recovery Benefit, showing interactive checkboxes beside each eligibility requirement.</p>
 </details>
-<br>
 
 Faced with the standard approach of explaining eligibility criteria with long pages of static content, we’ve seen users fail to grasp precisely what they need to be eligible for a program. A checklist helps them step methodically through the web content by having them answer a question, or affirm a choice. The interaction helps them engage more deeply in finding the right answer for their particular situation. The interactive checkboxes and radio buttons make the page feel more like a mobile app.
 

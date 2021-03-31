@@ -1,20 +1,19 @@
 ---
+alt: "Using graphics to bridge language gaps"
+altLangPage: "https://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html"
 breadcrumbs:
   - title: "About Canada.ca"
     link:  "https://www.canada.ca/en/government/about.html"
   - title: Canada.ca blog
     link: "https://blog.canada.ca/"
-pageclass: "cnt-wdth-lmtd"
-layout: post
-title:  "Using graphics to bridge language gaps"
-pubdate: "October 21, 2020"
-langpage: "https://blogue.canada.ca/2020/10/21/utiliser-des-graphiques.html"
 date:   2020-10-21
-published: true
+description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
 draft: true
 lang: en
-alt: "Using graphics to bridge language gaps"
-description: "In this post, the Northwest Territories (NWT) share how they use illustrations to make COVID-19 web content and communications products more accessible to all their communities."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Using graphics to bridge language gaps"
 ---
 Throughout the pandemic, there have been unparalleled levels of collaboration across government to provide the tools Canadians need to stay safe, healthy and informed.
 
@@ -54,7 +53,7 @@ As you can imagine, creating quality web content quickly is challenging. Applyin
 ## Overcoming language barriers with images
 
 While plain language is always a top priority, the NWT’s web team has also found that images can be helpful for increasing understanding across languages. However, in remote areas where data plans are costly and download speeds can be very slow, images can create an accessibility issue. Their solution has been to use illustrations instead of photos. This lets them use a lower resolution, which means smaller file sizes and quicker load times.
-<br>
+
 <figure>
 <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/NWT-image.png" width="700">
@@ -63,7 +62,6 @@ src="/images/NWT-image.png" width="700">
 <summary>Screen capture of NWT illustrated social media ad</summary>
 <p>Screen capture of an informational video on COVID-19 prevention measures produced by the NWT using a low-bandwidth illustration style.</p>
 </details>
-<br>
 
 Through the pandemic, the NWT’s illustrated social media ads (such as Facebook and Instagram) have focused on behavioural change, general hygiene and certain public health orders.
 
