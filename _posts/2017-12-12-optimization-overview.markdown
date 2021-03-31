@@ -1,16 +1,21 @@
 ---
-layout: post
-title:  "How we're optimizing Canada.ca top tasks"
-pubdate: "December 12, 2017"
-langpage: "https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html"
-date:   2017-12-12 09:48:44 +0100
-published: true
-lang: en
 alt: Shows the steps of how we optimize Canadadotca. Discovery. Baseline test. Design/prototyping. Validation test. Success? Launch.
+altLangPage: "https://blogue.canada.ca/2017/12/12/apercu-d-optimisation.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+date:   2017-12-12 09:48:44 +0100
 description: Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money.
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "How we're optimizing Canada.ca top tasks"
 ---
 
-Canada.ca has always been about making it simpler and easier for Canadians to find and understand the Government of Canada information and services they need. Recent testing is showing that while people are finding what they are looking for, they still can’t understand what they’re reading once they get there.  While there is still work to do on task findability, we are shifting the focus now to task success.  
+Canada.ca has always been about making it simpler and easier for Canadians to find and understand the Government of Canada information and services they need. Recent testing is showing that while people are finding what they are looking for, they still can’t understand what they’re reading once they get there.  While there is still work to do on task findability, we are shifting the focus now to task success.
 
 Optimization projects are a way to make meaningful improvements for Canadians without investing a lot of time and money. Through these projects, we are tackling the root cause of most usability problems people have: poorly written, overly complex, and disorganized content, written for public servants instead of the public. The projects are also a great way to apply UX methods in a lean, focused way to demonstrate real improvement.
 
@@ -27,20 +32,17 @@ More complex tasks may take full service re-design to fix, involving the removal
 ## Methodology for improving task success
 
 <figure>
-<img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
-
-<figcaption>
-<p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
-
-<ol>
-<li><b>Discovery research</b>: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing</li>
-<li><b>Baseline testing</b>: moderated usability tests are done with Canadians trying the scenarios on the existing webs content</li>
-<li><b>Design and prototyping</b>: sprints are used to iteratively design, build and test a prototype that solves the problems seen in discovery and baseline testing</li>
-<li><b>Validation testing</b>: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants</li>
-<li><b>Prototype launch</b>: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.</li>
-</ol>
-
-</figcaption>
+    <img class="img-responsive" alt="Overview of steps in the optimization process - details follow" src="/images/process/optimization-process-EN.png">
+    <figcaption>
+        <p>Data and evidence drive the 3 to 4 month sequence that we are using to optimize online services:</p>
+        <ol>
+            <li><b>Discovery research</b>: the existing evidence is gathered and synthesized into insights and hypotheses to produce scenarios for baseline testing</li>
+            <li><b>Baseline testing</b>: moderated usability tests are done with Canadians trying the scenarios on the existing webs content</li>
+            <li><b>Design and prototyping</b>: sprints are used to iteratively design, build and test a prototype that solves the problems seen in discovery and baseline testing</li>
+            <li><b>Validation testing</b>: the baseline test (usability testing) is repeated on the new prototype site with a different but similar set of Canadian participants</li>
+            <li><b>Prototype launch</b>: if the validation test shows a measurable improvement, then the successful aspects of the prototypes are integrated and released at the earliest opportunity.</li>
+        </ol>
+    </figcaption>
 </figure>
 
 ## Successful teams are multi-disciplinary
@@ -51,7 +53,7 @@ Teams may occasionally pull in deeper-level specialists. For example, experts fr
 
 ## Usability testing is key
 
-You'll notice that 2 of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of every project. The research is done with participants from across the country performing realistic task scenarios on their own computers, tablets and phones. This kind of research study gives teams valuable measurements of how well tasks are performing, and helps them understand how people are using the content on the site.  
+You'll notice that 2 of the steps in the process involve moderated usability testing. In fact, usability testing is key to the success of every project. The research is done with participants from across the country performing realistic task scenarios on their own computers, tablets and phones. This kind of research study gives teams valuable measurements of how well tasks are performing, and helps them understand how people are using the content on the site.
 
 Through moderated usability testing, we gain 2 things:
 

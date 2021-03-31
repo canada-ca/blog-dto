@@ -1,13 +1,18 @@
 ---
-layout: post
-title:  "About the Canada.ca design update"
-pubdate: "March 29, 2019"
-langpage: "https://blogue.canada.ca/2019/03/29/mise-a-jour-conception.html"
-date:   2019-03-29
-published: true
-lang: en
 alt: "Before and after screenshot of the Canada.ca home page."
+altLangPage: "https://blogue.canada.ca/2019/03/29/mise-a-jour-conception.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+date:   2019-03-29
 description: "Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people."
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "About the Canada.ca design update"
 ---
 
 We recently launched an updated design for Canada.ca. We wanted to tell you a bit about why we made this update and what led to what you see now.
@@ -17,11 +22,9 @@ Canada.ca launched in December 2013 as the flagship website of the Government of
 Canada.ca hadn’t had a significant update to its design in over five years. In 2019, the Digital Transformation Office led an exercise to modernize and simplify the trusted digital brand, based on evidence and testing with over 4000 people.
 
 <figure>
-<img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
-src="/images/design-refresh/before-after-refresh.jpg"/>
-
-<figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
-
+  <img class="img-responsive border" alt="Before and after image of the Canada.ca homepage"
+  src="/images/design-refresh/before-after-refresh.jpg"/>
+  <figcaption><small>A comparison of the old Canada.ca design (left) and the updated design (right).</small></figcaption>
 </figure>
 
 ## What we focused on ##
@@ -33,12 +36,9 @@ The design update focused on the standard Canada.ca template for public-facing w
 * new typography and fonts to enhance readability
 * updated colours with improved contrast
 
-
 ## Designing based on evidence ##
 
 The <abbr title="Digital Transformation Office">DTO</abbr> interviewed 10 teams from various institutions to understand their challenges working within the Canada.ca design framework. We also led design workshops involving stakeholders from 9 institutions.
-
-
 
 DTO staff led the research and testing, while the core design team included talented designers from:
 
@@ -58,7 +58,6 @@ We did extensive testing and evaluation of multiple iterations of the updated de
 
 Overall, we saw that participants were comfortable using the new home page and menu. They perceived the final design as modern, open, helpful and credible. As expected, when navigating the prototype, most people were happy to click links on the page. They only resorted to the menus or site search when they didn’t immediately see what they were looking for.
 
-
 ## Implementation and next steps ##
 We worked with our implementation partners at Service Canada to launch the design update for all pages on the Managed Web Service (MWS) on January 31, 2019. This included 18 organizations that account for about 70% of user demand for web content from across the Government of Canada.
 
@@ -75,7 +74,6 @@ In the coming months, we plan to:
 * establish targets and instructions for departments and agencies to apply the Canada.ca design across the <abbr title="Government of Canada">GC</abbr> web presence
 * develop design solutions for specialized situations beyond the scope of this update, such as quasi-judicial organizations, marketing and promotional campaigns, and transactional services
 * ensure continuous improvement of Canada.ca based on research and evidence, such as ideas generated from ongoing <a href="https://blog.canada.ca/pages/project-overview.html">content improvement projects</a>
-
 
 ## We want to hear from you ##
 Let us know what you think about the Canada.ca design update. Email us at [dto.btn@tbs-sct.gc.ca](mailto:dto.btn@tbs-sct.gc.ca) or tweet using the hashtag #Canadadotca.

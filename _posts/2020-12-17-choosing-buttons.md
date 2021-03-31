@@ -1,13 +1,19 @@
 ---
-layout: post
-title:  "Choosing the right button for task success"
-langpage: "https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html"
+alt: "Choosing the right button for task success"
+altLangPage: "https://blogue.canada.ca/2020/12/17/choisir-des-boutons.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
 date:   2020-12-17
-published: true
+description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
 draft: true
 lang: en
-alt: "Choosing the right button for task success"
-description: "The super task button is a large-ish, attractive green button and it really gets your attention!...How using the right button style in the right situation can help people succeed better on your web page."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Choosing the right button for task success"
 ---
 Buttons are a design element that let you add interaction to a page.
 
@@ -35,16 +41,14 @@ Use this button to launch the main task or next step - **when that task or step 
 
 We first used the super task button on the CRA institutional landing page. There, the majority of visitors are looking for how and where to sign into one of their CRA accounts. Since that’s what most people are there to do, the CRA makes it easy by placing the “Sign in to a CRA account” super task button right at the top of the page.
 
-<br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/green-button-1.PNG" width="700">
 </figure>
 <details>
-<summary>Canada Revenue Agency - Institutional landing page</summary>
-<p>Super task button appears directly below the main title of the page, ahead of other content.</p>
+  <summary>Canada Revenue Agency - Institutional landing page</summary>
+  <p>Super task button appears directly below the main title of the page, ahead of other content.</p>
 </details>
-<br>
 
 In the spring of 2020, when the Coronavirus landing page was receiving extremely heavy traffic, anxiety about the virus was high. Call centres were swamped with people wanting to check their symptoms to see if they had COVID-19. To support them, we worked with Health Canada to add a super task button at the top of the page. It led to the newly developed symptoms checker. Again, this worked well because it provided an answer for a key task visitors were coming to the page for at that time. The super task button at the top of the page supported users and redirected them to web content instead of call centres.
 
@@ -52,18 +56,16 @@ In the spring of 2020, when the Coronavirus landing page was receiving extremely
 
 There are times when using a super task button makes sense, but placing it further down the page is more effective than having it at the top.
 
-For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page. 
+For example, the Canada Recovery Benefit uses a green “Sign in to your CRA my account” button part way down the “How to apply” page.
 
-<br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/apply-online-1.PNG" width="700">
 </figure>
 <details>
-<summary>Canada Recovery Benefit - How to apply</summary>
-<p>Super task button appears part way down the page, below the in the Apply online or by phone heading </p>
+  <summary>Canada Recovery Benefit - How to apply</summary>
+  <p>Super task button appears part way down the page, below the in the Apply online or by phone heading</p>
 </details>
-<br>
 
 In this case, the button appears part way down the page. At that point, users have everything they need to be ready to launch into the process of applying. For the vast majority of people on the page, clicking that button is the reason they’re there. However, since there are a few things they need to know before they begin, the button is where it needs to be to ensure task success.
 
@@ -91,16 +93,14 @@ The secondary task button is useful for alternate steps in a process - like a �
 
 Notice how the primary and secondary task buttons work together in this survey invitation to distinguish between “Yes” as the primary action to take, and “No” as the alternate option.
 
-<br>
 <figure>
-<img class="img-responsive border" alt="A long description can be found after the image."
+  <img class="img-responsive border" alt="A long description can be found after the image."
 src="/images/improve-CA.PNG" width="700">
 </figure>
 <details>
-<summary>Example of primary and secondary task buttons</summary>
-<p>Example of primary and secondary task buttons working together. </p>
+  <summary>Example of primary and secondary task buttons</summary>
+  <p>Example of primary and secondary task buttons working together.</p>
 </details>
-<br>
 
 ## Danger and link buttons
 
@@ -108,23 +108,19 @@ The Canada.ca design system includes 2 other button styles or patterns as well.
 
 The danger button is an option when an action may have unintended consequences. Leaving an authenticated application or deleting the contents of a form are examples of correct use cases. Use this button sparingly.
 
-<br>
 <div class="pattern-demo mrgn-bttm-md">
-<button class="btn btn-danger">Erase form</button>
+  <button class="btn btn-danger">Erase form</button>
 </div>
-<br>
 
 Finally, the link button pattern offers an option for a rarely used action that must not compete with a primary or secondary task button. You wouldn’t want those controls to compete with the “Submit” button, but you might want to style the control as a button for consistency, or to provide a slightly larger target area than rectangular links.
 
-<br>
 <div class="pattern-demo mrgn-bttm-md">
-<button class="btn btn-link">Restart calculator</button>
+  <button class="btn btn-link">Restart calculator</button>
 </div>
-<br>
 
 ## Final word
 
-Most of the time, you don't need buttons on a web page - simple text links are often sufficient. When you do use a button, take care to limit their use. In a situation where you need to use multiple buttons on a single page, avoid having the buttons compete with each other. The more common or important the action, the more its button should stand out. Choosing the right button style lets you signal the relative importance of one action to the other. It helps you create a logical flow through your process or content.  
+Most of the time, you don't need buttons on a web page - simple text links are often sufficient. When you do use a button, take care to limit their use. In a situation where you need to use multiple buttons on a single page, avoid having the buttons compete with each other. The more common or important the action, the more its button should stand out. Choosing the right button style lets you signal the relative importance of one action to the other. It helps you create a logical flow through your process or content.
 
 ## Learn more
 
@@ -132,7 +128,6 @@ Most of the time, you don't need buttons on a web page - simple text links are o
 * [Context-specific features - Canada.ca design pattern](https://design.canada.ca/common-design-patterns/feature-tiles.html)
 * [Canada Revenue Agency - Institutional landing page](https://www.canada.ca/en/revenue-agency.html)
 * [Canada Recovery Benefit - How to apply](https://www.canada.ca/en/revenue-agency.html)
-
 
 ## Connect with the Digital Transformation Office at Treasury Board Secretariat
 

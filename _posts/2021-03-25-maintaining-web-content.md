@@ -1,21 +1,27 @@
 ---
-layout: post
-title:  "Maintaining and improving web content through its life cycle"
-langpage: "https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html"
+alt: "Maintaining and improving web content through its life cycle"
+altLangPage: "https://blogue.canada.ca/2021/03/25/maintenir-le-contenu-web.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
 date:   2021-03-25
-published: true
+description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
 draft: true
 lang: en
-alt: "Maintaining and improving web content through its life cycle"
-description: "Small changes make a big difference to improve Canada.ca. Let’s continue the discussion on data to action. Here are 4 common issues and actions you can take."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Maintaining and improving web content through its life cycle"
 ---
 Content on Canada.ca needs to be continuously maintained to keep it relevant, accurate, and current. The "set it and forget it" days of publishing do not exist on the web.
 
 Whose role is it then to improve and maintain the content?
 
-In practice, web content is a shared responsibility with many players. Making decisions about web content can be challenging when people have differing views on the objectives of the content. It’s important to remember that the priority with any web content is to help the public successfully do what they came to the site to do.   
+In practice, web content is a shared responsibility with many players. Making decisions about web content can be challenging when people have differing views on the objectives of the content. It’s important to remember that the priority with any web content is to help the public successfully do what they came to the site to do.
 
-One of the best ways for web teams to support decision-making around continuous improvement is to pay attention to data. When evidence from data informs your recommended approach to improvements, it’s easier to keep content updates focused on the needs of the users. 
+One of the best ways for web teams to support decision-making around continuous improvement is to pay attention to data. When evidence from data informs your recommended approach to improvements, it’s easier to keep content updates focused on the needs of the users.
 
 Sources of data include:
 * analytics
@@ -32,11 +38,11 @@ When you get insights into user behaviour or points of failure, make it a priori
 
 ## Ways to maintain and improve content throughout its lifecycle
 
-Here are 4 common issues that can be detected through data and some actions you can take to improve your digital content.  
+Here are 4 common issues that can be detected through data and some actions you can take to improve your digital content.
 
 ### 1. People can’t find the answer
 
-Increased calls, report a problem submissions, task success results, and other direct user feedback can indicate a findability issue. 
+Increased calls, report a problem submissions, task success results, and other direct user feedback can indicate a findability issue.
 
 This is often a navigation issue. Generally we encourage content designers to put answers where people look for them. If you know people are looking for a specific answer on a specific page, there is a good chance the answer should be there.
 
@@ -48,9 +54,9 @@ Reconsider your information architecture and information scent. We often put a l
 
 ### 2. People don’t seem to understand the answer
 
-Comprehension is difficult to evaluate with web analytics alone. When content is hard to understand you may see this reflected in task success results, calls, emails, comments on social media, or other direct user feedback. 
+Comprehension is difficult to evaluate with web analytics alone. When content is hard to understand you may see this reflected in task success results, calls, emails, comments on social media, or other direct user feedback.
 
-Take a hard look at your content. Could you simplify it? Are you missing an important piece that would make things clearer? 
+Take a hard look at your content. Could you simplify it? Are you missing an important piece that would make things clearer?
 
 Look at doing a plain language edit. Find out what words people are using when talking about this topic, and make sure you’re using the same ones. Then test your proposed content before publishing.
 
@@ -60,15 +66,15 @@ Look at doing a plain language edit. Find out what words people are using when t
 
 ### 3. The answer is there, but something just isn’t working
 
-The web is an ecosystem. It’s not just about the words, or the structure, or any single element on a page. It’s about how everything works together. 
+The web is an ecosystem. It’s not just about the words, or the structure, or any single element on a page. It’s about how everything works together.
 
-If your page has the answers, but feedback, calls or analytics show people just aren’t getting what they need, look at how the page functions as whole. 
+If your page has the answers, but feedback, calls or analytics show people just aren’t getting what they need, look at how the page functions as whole.
 
 **Consider the layout.** Is the sequencing logical? Is there enough white space? Are the subtitles accurate, and do they help people scan for what they’re looking for?
 
 **Consider the length of the page.** Is your page too complicated? Could interactive elements be added or adjusted to help people navigate better through the content? Is the page cluttered with extra information (like unnecessary “related links”) that distracts people?
 
-**Look at what’s connected to the page.** Is your page connected to related pages in a way that makes sense or is there a piece missing from the puzzle? Does your vocabulary match vocabulary being used elsewhere? Does a link from somewhere else point people to the wrong section on the page and create confusion? 
+**Look at what’s connected to the page.** Is your page connected to related pages in a way that makes sense or is there a piece missing from the puzzle? Does your vocabulary match vocabulary being used elsewhere? Does a link from somewhere else point people to the wrong section on the page and create confusion?
 
 Taking the time to consider the page as a whole can help you uncover issues with how people are interacting with the page.
 
@@ -76,7 +82,7 @@ Taking the time to consider the page as a whole can help you uncover issues with
 
 ### 4. Program or service doesn’t meet the need
 
-Monitoring task success and feedback can highlight a bigger policy or program design issue. Share feedback with appropriate program/policy channels, and consider setting up a co-design session to address the issue (we’ll be discussing this in an upcoming post). 
+Monitoring task success and feedback can highlight a bigger policy or program design issue. Share feedback with appropriate program/policy channels, and consider setting up a co-design session to address the issue (we’ll be discussing this in an upcoming post).
 
 If you're having a hard time convincing your policy or program colleagues to make some changes, revert to what you have if the changes don’t work. Being able to adjust things quickly is the beauty of the web.
 
@@ -84,9 +90,9 @@ Check back with them once any changes go live to see if there is a positive effe
 
 ## Final word
 
-Small changes to our web content can greatly impact the lives of millions of people. By helping them find the answers they need on Canada.ca, you save them time and money, reduce their stress when dealing with the government and ensure that they are getting solid, reliable service. 
+Small changes to our web content can greatly impact the lives of millions of people. By helping them find the answers they need on Canada.ca, you save them time and money, reduce their stress when dealing with the government and ensure that they are getting solid, reliable service.
 
-On a regular basis, look at various sources of data to help guide efforts at iterating and regularly improving your web presence. Create multi-disciplinary spaces with web, strategic communications, policy and program experts. “Let the data flow” and work together on content improvement. 
+On a regular basis, look at various sources of data to help guide efforts at iterating and regularly improving your web presence. Create multi-disciplinary spaces with web, strategic communications, policy and program experts. “Let the data flow” and work together on content improvement.
 
 Monitoring content performance and continuously improving web content is an essential part of the publishing lifecycle. When you see an issue in the data, taking swift action to improve it makes an enormous difference!
 

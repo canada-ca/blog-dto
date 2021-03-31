@@ -1,14 +1,19 @@
 ---
-layout: post
-title:  "Finding the right method to measure online task success"
-pubdate: "February 5, 2020"
-langpage: "https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html"
+alt: "right method to measure"
+altLangPage: "https://blogue.canada.ca/2020/02/05/methode-pour-mesurer.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
 date:   2020-02-05
-published: true
+description: "What we learned about exit surveys, usability testing and analytics funnels."
 draft: true
 lang: en
-alt: "right method to measure"
-description: "What we learned about exit surveys, usability testing and analytics funnels."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Finding the right method to measure online task success"
 ---
 
 In 2019, the Digital Transformation Office piloted three different methods to measure online task success:
@@ -19,9 +24,10 @@ In 2019, the Digital Transformation Office piloted three different methods to me
 
 Measuring online task completion helps us understand how design improvements affect task success. It also helps institutions adopt a top task approach to managing online information and services.
 
-<blockquote><p style="color: #1E5D71 !important;">“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
-
-<footer><a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes.html">Gerry McGovern, February 2018</a></footer></blockquote>
+<blockquote>
+  <p>“Change the key metrics and you will change the organization. Change the organization and you will deliver vastly better digital services.”</p>
+  <footer><a href="http://blog.canada.ca/2018/02/23/improve-digital-measuring-outcomes.html">Gerry McGovern, February 2018</a></footer>
+</blockquote>
 
 ## The pros and cons of each method
 
@@ -43,7 +49,7 @@ Funnels work best for tracking conversions over multiple pages where there is a 
 
 This method is not great for answer-finding tasks. These often have multiple path options making them difficult or impossible to track.
 
-This method can be challenging if analytics platforms aren't robust enough or you're unable to track users through secure areas of a website.  
+This method can be challenging if analytics platforms aren't robust enough or you're unable to track users through secure areas of a website.
 
 ### Online survey
 
@@ -66,15 +72,19 @@ We found that this method allowed the best balance between:
 
 ## Simplifying methods for better results
 
-Experimenting with multiple methods to measure top tasks highlighted how different methods might create inconsistent data. It’s hard to compare the results of a task funnel to a usability test!  
+Experimenting with multiple methods to measure top tasks highlighted how different methods might create inconsistent data. It’s hard to compare the results of a task funnel to a usability test!
 
 The online survey method provides a standardized data collection method. It is technically easy to implement, and provides clear data about top task strengths and weaknesses.
 
 The feedback we heard from institutions using this method was positive. It indicated a culture shift to top task management.
 
-<blockquote><p style="color: #1E5D71 !important;">“The survey allows us to prioritize which section on the website should be optimized first. For example, our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p> </blockquote>
+<blockquote>
+  <p>“The survey allows us to prioritize which section on the website should be optimized first. For example, our focus/energy should go towards top tasks that are not performing as [well] as the other ones.”</p>
+</blockquote>
 
-<blockquote><p style="color: #1E5D71 !important;"> “Over the course of time, the findings of the survey have played a part in the evolution of the website.”</p> </blockquote>
+<blockquote>
+  <p> “Over the course of time, the findings of the survey have played a part in the evolution of the website.”</p>
+</blockquote>
 
 ## We want to hear from you
 

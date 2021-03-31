@@ -3,32 +3,20 @@ layout: default
 ---
 <div class="blogholder img-responsive">
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-      <h1 class="post-title" id="wb-cont" itemprop="name headline">{{ page.title }}</h1>
-      <!-- <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.pubdate }}</time>{% if page.author %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p> -->
-    </header>
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
-    </div>
+	<div class="post-content" itemprop="articleBody">
+		{{ content }}
+	</div>
   </article>
 </div>
-<nav>
-  <h2 class="wb-inv">Document navigation</h2>
-  <ul class="pager">
-  {% assign posts=site.posts | where:"lang", page.lang %}
-  {% for post in posts %}
-	{% unless post.draft %}
-      {% if post.title == page.title %}
-          {% unless forloop.last %}
-              {% assign next = posts[forloop.index] %}
-              <li class="previous"><a href="{{ site.baseurl }}{{ next.url }}" rel="prev">{{ next.title }}</a></li>
-          {% endunless %}
-          {% unless forloop.first %}
-              <li class="next"><a href="{{ site.baseurl }}{{ prev.url }}" rel="next">{{ prev.title }}</a></li>
-          {% endunless %}
-      {% endif %}
-      {% assign prev = post %}
-		{% endunless %}
-  {% endfor %}
-  </ul>
+<nav class="mrgn-tp-xl">
+	<h2 class="wb-inv">Document navigation</h2>
+	<ul class="pager">
+		{% if page.previous.url %}
+		<li class="next"><a href="{{page.previous.url}}">{{page.previous.title}}&nbsp;&raquo;</a></li>
+		{% endif %}
+		{% if page.next.url %}
+		<li class="previous"><a href="{{page.next.url}}">&laquo;&nbsp;{{page.next.title}}</a></li>
+		{% endif %}
+	  </div>
+	</ul>
 </nav>

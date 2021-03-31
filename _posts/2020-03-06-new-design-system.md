@@ -1,21 +1,26 @@
 ---
-layout: post
-title:  "A Government of Canada design system: building better online content faster"
-pubdate: "March 6, 2020"
-langpage: "https://blogue.canada.ca/2020/03/06/nouveau-systeme-de-conception.html"
+alt: "new Government of Canada design system"
+altLangPage: "https://blogue.canada.ca/2020/03/06/nouveau-systeme-de-conception.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
 date:   2020-03-06
-published: true
+description: "Making it easier and faster to design effective content within a coherent digital experience."
 draft: true
 lang: en
-alt: "new Government of Canada design system"
-description: "Making it easier and faster to design effective content within a coherent digital experience."
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "A Government of Canada design system: building better online content faster"
 ---
 
 In September 2019, the Digital Transformation Office (DTO) and collaborators from across the Government of Canada came together to propel the vision of building a Government of Canada Design System into reality.
 
 Talented people from across the Government of Canada, including the Aurora and Clone (Talent Cloud) design systems, the Canadian Digital Service, Digital Academy, the Web Experience Toolkit, Innovation, Science and Economic Development Canada, Canada Revenue Agency, Immigration, Refugees and Citizenship Canada, and National Defence  participated in the day.
 
-It was a fantastic example of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.  
+It was a fantastic example of collaboration as we worked to shape a vision for a unified design system. We discussed the principles we wanted to work toward including finding the balance between flexibility and consistency. We also looked at what would be needed to manage this idea long-term, and what technology questions might need to be addressed.
 
 Everyone agreed that an overarching design system would make it easier for departments to build a modern digital presence that helps people get the information and services they need.
 
@@ -27,7 +32,7 @@ There are many definitions of a design system out there. Here’s our take on it
 
 > A design system is a collection of flexible and reusable design and code elements, supported by research and clear guidelines. It gives teams the building blocks they need to design their online presence in a way that supports task success and trust among users.
 
-In other words, a design system should make it <b>easier</b> and <b>faster</b> to design effective content within a coherent digital experience.
+In other words, a design system should make it **easier** and **faster** to design effective content within a coherent digital experience.
 
 Design systems usually include:
 
