@@ -1,18 +1,23 @@
 ---
-layout: post
-title:  "Canada.ca: Small changes can make a big difference"
-pubdate: "April 27, 2018"
-langpage: "https://blogue.canada.ca/2018/04/27/petits-changements-grande-difference.html"
-date:   2018-04-27 16:34:44 +0100
-published: true
-lang: en
 alt: Photo of the Honourable Scott Brison
+altLangPage: "https://blogue.canada.ca/2018/04/27/petits-changements-grande-difference.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
+date:   2018-04-27 16:34:44 +0100
 description: Small changes are making a big difference for Canadians on Canada.ca. Read what Treasury Board President Scott Brison has to say about the improvement work underway.
+lang: en
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Canada.ca: Small changes can make a big difference"
 ---
 
-<b>By the Honourable Scott Brison, President of the Treasury Board</b>
+**By the Honourable Scott Brison, President of the Treasury Board**
 
-<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" width="750px" alt="Photo of the Honourable Scott Brison" />
+<img class="img-responsive mrgn-bttm-lg" src="/images/PO/The-Honourable-Scott-Brison.png" alt="Photo of the Honourable Scott Brison" />
 
 I’ve noted that Apple can design something so intuitive that my 4‑year‑olds can find exactly what they want in about 40 seconds, yet we have struggled to design government websites that we grown-ups can navigate easily.
 
@@ -22,9 +27,11 @@ We need to continue to make access to government easier for Canadians, whether t
 
 Too often, people have difficulty getting what they need from government websites. Often, instead of providing answers, we just give them information.
 
-<aside>		    
-<blockquote class="pquote img-responsive"><p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p><p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>		
-</blockquote>		
+<aside>
+    <blockquote class="pquote img-responsive">
+        <p>“This work is showing us that when it comes to writing content for digital government, well-researched, small changes to content can make a big difference for Canadians.” </p>
+        <p class="quotesig">The Honourable Scott Brison, President of the Treasury Board</p>
+    </blockquote>
  </aside>
 
 What’s the difference? Imagine this scenario: you show up at a service desk to submit an application to access a program. When you ask a couple of questions related to your particular situation, the service representative hands you a thick stack of manuals, guides, legislation and reports and says, “Here’s the information. It’s all in there. Read it over and if you have any more questions, get back in line.” Besides eating up your valuable time, in the end you may not actually find the answer you need.
@@ -58,7 +65,7 @@ There are many opportunities for a digital government to deliver better results 
 
 ## About the author
 
-<b>The Honourable Scott Brison is the President of the Treasury Board.</b>
+**The Honourable Scott Brison is the President of the Treasury Board.**
 
 Scott Brison, the Member of Parliament for Kings–Hants (Nova Scotia), has been elected to Canada's House of Commons in 7 general elections between June 1997 and October 2015.
 

@@ -1,14 +1,19 @@
 ---
-layout: post
-title:  "Design research during a pandemic "
-pubdate: "July 30, 2020"
-langpage: "https://blogue.canada.ca/2020/07/30/concevoir-recherche-pendant-pandemie.html"
+alt: "Design research during a pandemic"
+altLangPage: "https://blogue.canada.ca/2020/07/30/concevoir-recherche-pendant-pandemie.html"
+breadcrumbs:
+  - title: "About Canada.ca"
+    link:  "https://www.canada.ca/en/government/about.html"
+  - title: Canada.ca blog
+    link: "https://blog.canada.ca/"
 date:   2020-07-30
-published: true
+description: "When the pandemic was confirmed in mid-March, the Digital Transformation Office had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. "
 draft: true
 lang: en
-alt: "Design research during a pandemic"
-description: "When the pandemic was confirmed in mid-March, the Digital Transformation Office had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. "
+layout: post
+pageclass: "cnt-wdth-lmtd"
+published: true
+title:  "Design research during a pandemic "
 ---
 
 The Digital Transformation Office (DTO) usually runs “short” 3-month optimization projects. When the pandemic was confirmed in mid-March, we had to rethink and change our approach so we could help departments respond quickly and effectively to the rapidly changing situation. We began doing rapid-response design research on COVID-19 content and aspects of the Canada.ca information architecture. Our priority continued to be delivering clear and usable mobile-first content on Canada.ca. The crisis situation just meant we had to do it faster. A lot faster!
@@ -70,20 +75,20 @@ In this unmoderated test video, the participant draws their own conclusions when
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="../../../images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
-		<source type="video/mp4" src="../../../images/design-research/design-research-unmoderated-1080x600-en.mp4" />
-		<track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
-	</video>
+  <video poster="../../../images/design-research/unmoderated-poster.jpg" title="Unmoderated testing: participant interprets task">
+    <source type="video/mp4" src="../../../images/design-research/design-research-unmoderated-1080x600-en.mp4" />
+    <track src="#inline-captions" kind="captions" data-type="text/html" srclang="en" label="English" />
+  </video>
       <figcaption>
             <details id="inline-captions">
-			<summary>Transcript: Unmoderated testing: participant interprets task</summary>
+      <summary>Transcript: Unmoderated testing: participant interprets task</summary>
                   <p class="wet-boew-vd"><b>Title:</b> Unmoderated testing: participant interprets task</p>
                   <p class="wet-boew-vd">A screen capture of the Canada.ca financial support page with a list of links.</p>
                   <p>
                         <span class="wb-tmtxt" data-begin="04.00s" data-dur="03.98s"><b>Participant 1:</b> Your home daycare, I think</span>
                         <span class="wb-tmtxt" data-begin="08.00s" data-dur="03.98s">would be considered a business for sure.</span>
                         <span class="wb-tmtxt" data-begin="12.00s" data-dur="03.98s">Um, I’m going to go ahead and click “For businesses”</span>
-                  </p>
+</p>
             </details>
       </figcaption>
 </figure>
@@ -132,15 +137,15 @@ In this moderated testing video, a participant is being reassured that selecting
 {::nomarkdown}
 
 <figure class="wb-mltmd wb-init video cc_on">
-	<video poster="../../../images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
-		<source type="video/mp4" src="../../../images/design-research/design-research-moderated-1080x600-en.mp4" />
-		<track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
-	</video>
+  <video poster="../../../images/design-research/moderated-poster.jpg" title="Moderated testing: interacting with a participant">
+    <source type="video/mp4" src="../../../images/design-research/design-research-moderated-1080x600-en.mp4" />
+    <track src="#inline-captions-2" kind="captions" data-type="text/html" srclang="en" label="English 2" />
+  </video>
       <figcaption>
             <details id="inline-captions-2">
                   <summary>Transcript: Moderated testing: interacting with a participant</summary>
                   <p class="wet-boew-vd"><b>Title:</b> Moderated testing: interacting with a participant</p>
-                  <p class="wet-boew-vd">A screen capture of a Canada.ca page with checkboxes that can be selected. </p>
+                  <p class="wet-boew-vd">A screen capture of a Canada.ca page with checkboxes that can be selected.</p>
                   <p>
                         <span class="wb-tmtxt" data-begin="04.00s" data-dur="03.98s"><b>Participant 1:</b> "Ok direct deposit payments take 3 business</span>
                         <span class="wb-tmtxt" data-begin="08.00s" data-dur="03.98s">days, a cheque takes about 10 business days. Is your direct deposit information</span>
@@ -160,7 +165,7 @@ In this moderated testing video, a participant is being reassured that selecting
                               <b>Participant 1:</b> "Perfect.
                         </span>
                         <span class="wb-tmtxt" data-begin="24.00s" data-dur="08.07s">Alright."</span>
-                  </p>
+</p>
                   </details>
       </figcaption>
 </figure>
