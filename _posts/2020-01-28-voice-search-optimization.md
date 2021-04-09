@@ -57,6 +57,8 @@ Traditional SEO techniques apply. Focus on optimizing for featured snippets (ans
 
 Structured data is code that you add to a page in a standardized format to help search engines interpret your content. It allows for more meaningful search results.
 
+[Adding structured data on Canada.ca pages](https://design.canada.ca/guidance/structured-data.html)
+
 To improve voice search results:
 
 * Add [Speakable](https://developers.google.com/search/docs/data-types/speakable) structured data as it indicates what content is best for a voice answer and helps with displayed search results
