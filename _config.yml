@@ -1,4 +1,4 @@
-baseurl: "https://delisma.github.io/blog-dto"
+baseurl: "https://dk-tbs.github.io/blog-dto"
 markdown: kramdown
 plugins:
   - jekyll-remote-theme
